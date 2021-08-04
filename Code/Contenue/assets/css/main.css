@@ -16,12 +16,12 @@ tfoot, thead, tr, th, td, article, aside,
 canvas, details, embed, figure, figcaption,
 footer, header, hgroup, menu, nav, output, ruby,
 section, summary, time, mark, audio, video {
-  margin: 20px;
-  padding: 1px;
-  border: 0;
-  font-size: 100%;
+  margin: 0;
+  padding: 1;
+  border: 5;
+  font-size: 50%;
   font: inherit;
-  vertical-align: baseline; }
+  vertical-align: middle; }
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -2274,3 +2274,7 @@ button,
     margin-top: 0;
     padding-top: 0; }
 
+/* #testtt{
+  text-align:"center";
+  float:left;
+} */
