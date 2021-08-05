@@ -19,7 +19,7 @@
 						<div class="inner">
 
 								
-									<div align="left"style="margin-top:100px;"><a href=""><img src="images/pic07.jpg" WIDTH=150 HEIGHT=150></a></div>
+									<div align="left"style="margin-top:50px;"><a href=""><img src="images/pic07.jpg" WIDTH=150 HEIGHT=150></a></div>
 
 									<!-- <div id="#testtt" ><h2> Nom Prénom </h2>
 
