@@ -29,7 +29,7 @@ include 'Header.php';
 								<ul class="actions fit"> 
 										<!-- <a href="index.html" class="button fit">Accueil</a> -->
 										<a href="Parcours3.html" class="button fit">Parcours</a>
-										<a href="Projets4.html" class="button fit">Projets(ele)</a>
+										<a href="Projets4.php" class="button fit">Projets(ele)</a>
 										<a href="Experiences5.html" class="button fit">Expériences</a>
 										<a href="Veilles6.html" class="button fit">Veilles</a>
 										<a href="Cv7.html" class="button fit">CV</a>

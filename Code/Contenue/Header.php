@@ -12,27 +12,14 @@
 		<link rel="stylesheet" href="assets/css/main.css" /> 
 		<!-- <link rel="stylesheet" href="assets/css/Caroussel.css" /> -->
 	</head>
-	<body class="is-preload" >
+	<body>
 
 				<!-- Main -->
 					<div id="main">
 						<div class="inner">
 
-							<!-- Header -->
-								<!-- <header id="header">
-									<a href="index.html" class="logo"><strong>Editorial</strong> by HTML5 UP</a>
-									<ul class="icons">
-										<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-										<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-										<li><a href="#" class="icon brands fa-snapchat-ghost"><span class="label">Snapchat</span></a></li>
-										<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-										<li><a href="#" class="icon brands fa-medium-m"><span class="label">Medium</span></a></li>
-									</ul>
-									
-								</header> -->
-								<!-- <header class="header1"> -->
-								<div>
-									<div align="right"style="margin-bottom: -10em ;"><a href=""><img src="images/pic01.jpg" WIDTH=150 HEIGHT=150></a></div>
+								
+									<div align="right" style="margin-bottom: auto;"><a href=""><img src="images/pic01.jpg" WIDTH=150 HEIGHT=150></a></div>
 
 									<!-- <div id="#testtt" ><h2> Nom Prénom </h2>
 
@@ -42,7 +29,7 @@
 					 				 </div> -->
 
 
-									<div align="left"><a href=""><img src="images/pic07.jpg" WIDTH=150 HEIGHT=150></a></div>
+									<div align="left"style="margin-bottom: auto ;"><a href=""><img src="images/pic07.jpg" WIDTH=150 HEIGHT=150></a></div>
 
 									<input id="Aujourdhui" type="date" name="date" value="" readonly>
 
@@ -52,6 +39,8 @@
 										<h1><a href="PageAccueil.html">Portfolio</h1></a> -->
 
 							    	</div>  
+</div>
+</div>
 
 							    <!-- </header>  -->
 </body>
