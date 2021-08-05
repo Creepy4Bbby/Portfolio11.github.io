@@ -19,20 +19,14 @@
 						<div class="inner">
 
 								
-									<div align="left"style="margin-top:50px;"><a href=""><img src="images/pic07.jpg" WIDTH=150 HEIGHT=150></a></div>
+									<div align="left"style="margin-top:80px;"><a href=""><img src="images/pic07.jpg" WIDTH=150 HEIGHT=150></a></div>
 
-									<!-- <div id="#testtt" ><h2> Nom Prénom </h2>
+									
 
-                  		
-										<h1 >Portfolio</h1>
+									<div align="right"style="margin-top:-150px;"><a href=""><img src="images/pic01.jpg" WIDTH=150 HEIGHT=150></a></div><br>
 
-					 				 </div> -->
-
-
-									<div align="right"style="margin-top:-150px;"><a href=""><img src="images/pic01.jpg" WIDTH=150 HEIGHT=150></a></div>
 
 									<input id="Aujourdhui" type="date" name="date" value="" readonly></div>
-
 									<div align="center"><h2> Nom Prénom </h2>
 
 <!--                   		
