@@ -19,7 +19,7 @@
 						<div class="inner">
 
 								
-									<div align="right" style="margin-bottom: auto;"><a href=""><img src="images/pic01.jpg" WIDTH=150 HEIGHT=150></a></div>
+									<div align="left"style="margin-top:100px;"><a href=""><img src="images/pic07.jpg" WIDTH=150 HEIGHT=150></a></div>
 
 									<!-- <div id="#testtt" ><h2> Nom Prénom </h2>
 
@@ -29,9 +29,9 @@
 					 				 </div> -->
 
 
-									<div align="left"style="margin-bottom: auto ;"><a href=""><img src="images/pic07.jpg" WIDTH=150 HEIGHT=150></a></div>
+									<div align="right"style="margin-top:-150px;"><a href=""><img src="images/pic01.jpg" WIDTH=150 HEIGHT=150></a></div>
 
-									<input id="Aujourdhui" type="date" name="date" value="" readonly>
+									<input id="Aujourdhui" type="date" name="date" value="" readonly></div>
 
 									<div align="center"><h2> Nom Prénom </h2>
 
