@@ -21,6 +21,59 @@
 					<div id="main">
 						<div class="inner">
 
+
+
+							<!-- MENU -->
+								<nav id="menu">
+									<header class="major">
+										<h2>Menu</h2>
+									</header>
+									<ul>
+										<li><a href="PageAccueil.php">Accueil</a></li>
+										<li><a href="Parcours3.html">Parcours</a></li>
+										<li><a href="Projets4.php">Projets</a></li>
+										<li>
+										<span class="opener">Projets</span>
+											<ul>
+												<li><a href="#">Professionel</a></li>
+												<li><a href="#">Scolaire</a></li>
+												<li><a href="#">Personnel</a></li>
+											</ul>
+</li>
+										<li><a href="Experiences5.html">Expériences</a></li>
+										<li><a href="Veilles6.html">Veilles</a></li>
+										<li><a href="CV7.html">CV</a></li>
+										<li><a href="Contacts8.html">Contacts</a></li>
+										<li><a href="elements.html">Elements</a></li>
+										<li>
+											<span class="opener">Submenu</span>
+											<ul>
+												<li><a href="#">Lorem Dolor</a></li>
+												<li><a href="#">Ipsum Adipiscing</a></li>
+												<li><a href="#">Tempus Magna</a></li>
+												<li><a href="#">Feugiat Veroeros</a></li>
+											</ul>
+										</li>
+										<li><a href="#">Etiam Dolore</a></li>
+									
+								</nav>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 							<!-- Header -->
 								<header id="header">
 									<a href="index.html" class="logo"><strong>Editorial</strong> by HTML5 UP</a>
@@ -32,6 +85,15 @@
 										<li><a href="#" class="icon brands fa-medium-m"><span class="label">Medium</span></a></li>
 									</ul>
 								</header>
+
+
+
+
+
+
+
+
+
 
 							<!-- Banner -->
 								<section id="banner">
