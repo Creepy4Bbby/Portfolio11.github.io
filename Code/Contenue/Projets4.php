@@ -161,12 +161,12 @@ include 'Header.php';
 					<div id="sidebar">
 						<div class="inner">
 
-							<!-- Search -->
+							<!-- Search
 								<section id="search" class="alt">
 									<form method="post" action="#">
 										<input type="text" name="query" id="query" placeholder="Search" />
 									</form>
-								</section>
+								</section> -->
 
 							<!-- MENU -->
 								<nav id="menu">
