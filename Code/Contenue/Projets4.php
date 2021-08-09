@@ -44,9 +44,9 @@ include 'Header.php';
 
 									<div class="features">
 										<article>
-											<span class="icon solid fas fa-user-graduate"></span>
+										<span class="icon solid fas fa-user-graduate"></span>
 											<div class="content">
-												<h3>SCOLAIRE</h3>
+											<h3 id="SCOLAIRE">SCOLAIRE</h3>
 												<p></p>
 											</div>
 										</article>
@@ -69,10 +69,10 @@ include 'Header.php';
 										
 								</section>
 
-							<!-- Section -->
+							<!-- Section  scolaire -->
 								<section>
 									<header class="major">
-										<h2>Ipsum sed dolor</h2>
+									<a href="SCOLAIRE"><h2>Scolaire</h2></a>
 									</header>
 									<div class="posts">
 										<article>
@@ -125,6 +125,7 @@ include 'Header.php';
 										</article>
 									</div>
 								</section>
+								
 
 						</div>
 					</div>
