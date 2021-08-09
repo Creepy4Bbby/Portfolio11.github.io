@@ -10,8 +10,8 @@ include 'Header.php';
 	<head>
 		<title>Portfolio</title>
 		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
+	    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" /> 
+		<link rel="stylesheet" href="assets/css/main.css" /> 
         <link rel="stylesheet" href="Header.html" />
 	</head>
 	<body class="is-preload">
@@ -43,34 +43,27 @@ include 'Header.php';
 									</header>
 									<div class="features">
 										<article>
-											<span class="icon fa-gem"></span>
+											<span class="icon solid fas fa-user-graduate"></span>
 											<div class="content">
-												<h3>Portitor ullamcorper</h3>
+												<h3>SCOLAIRE</h3>
 												<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 											</div>
 										</article>
 										<article>
-											<span class="icon solid fa-paper-plane"></span>
+											<span class="icon solid fas fa-user-tie"></span>
 											<div class="content">
-												<h3>Sapien veroeros</h3>
+												<h3>PROFESSIONNEL</h3>
 												<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 											</div>
 										</article>
 										<article>
-											<span class="icon solid fa-rocket"></span>
+											<span class="icon solid fas fa-user-alt"></span>
 											<div class="content">
-												<h3>Quam lorem ipsum</h3>
+												<h3>PERSONNEL</h3>
 												<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 											</div>
 										</article>
-										<article>
-											<span class="icon solid fa-signal"></span>
-											<div class="content">
-												<h3>Sed magna finibus</h3>
-												<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-											</div>
-										</article>
-									</div>
+										
 								</section>
 
 							<!-- Section -->
