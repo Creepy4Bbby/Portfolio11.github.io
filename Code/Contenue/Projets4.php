@@ -30,8 +30,8 @@ include 'Header.php';
 								<header id="header">
 									<a href="Contacts8.php" class="logo"><stron>Me suivre...&nbsp </strong> &nbsp &nbsp &nbsp ici &nbsp →  </a>
 									<ul class="icons">
-										<li><a href="#" class="icon brands fab fa-github"><span class="label">GitHub</span></a></li>
-										<li><a href="#" class="icon brands fab fa-linkedin "><span class="label">Linkdin</span></a></li>
+										<li><a href="https://github.com/Creepy4Bbby" class="icon brands fab fa-github"><span class="label">GitHub</span></a></li>
+										<li><a href="Contacts8.php" class="icon brands fab fa-linkedin "><span class="label">Linkdin</span></a></li>
 										
 									</ul>
 								</header>
@@ -39,28 +39,31 @@ include 'Header.php';
 							<!-- Section -->
 								<section>
 									<header>
-										<h2>Différents contextes de mes projets : </h2>
+									<center>	<h2>Différents contextes de mes projets : </h2> </center>
 									</header>
+
 									<div class="features">
 										<article>
 											<span class="icon solid fas fa-user-graduate"></span>
 											<div class="content">
 												<h3>SCOLAIRE</h3>
-												<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+												<p></p>
 											</div>
 										</article>
+
 										<article>
 											<span class="icon solid fas fa-user-tie"></span>
 											<div class="content">
 												<h3>PROFESSIONNEL</h3>
-												<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+												<p></p>
 											</div>
 										</article>
+										<br><br><br><br>
 										<article>
 											<span class="icon solid fas fa-user-alt"></span>
 											<div class="content">
 												<h3>PERSONNEL</h3>
-												<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+												<p></p>
 											</div>
 										</article>
 										

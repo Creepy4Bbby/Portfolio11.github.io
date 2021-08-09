@@ -33,10 +33,6 @@
 								</header> -->
 
 							
-
-
-								
-
 							<!-- Banner -->
 								<section id="banner">
 									<div class="content">

@@ -38,15 +38,7 @@ include 'Header.php';
 								</header> -->
 
 
-								<!-- Header -->
-								<header id="header">
-									<a href="Contacts8.php" class="logo"><stron>Me suivre...&nbsp </strong> &nbsp &nbsp &nbsp ici &nbsp →  </a>
-									<ul class="icons">
-										<li><a href="#" class="icon brands fab fa-github"><span class="label">GitHub</span></a></li>
-										<li><a href="#" class="icon brands fab fa-linkedin "><span class="label">Linkdin</span></a></li>
-										
-									</ul>
-								</header>
+				
 
 							<!-- Banner -->
 								<section id="banner">
