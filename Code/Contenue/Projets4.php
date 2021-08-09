@@ -28,10 +28,10 @@ include 'Header.php';
 
 							<!-- Header -->
 								<header id="header">
-									<a href="index.html" class="logo"><strong>Editorial</strong> by HTML5 UP</a>
+									<a href="index.html" class="logo"><strong>je sais pas quoi</strong> ECRIRE</a>
 									<ul class="icons">
-										<li><a href="#" class="icon brands fa-twitter"><span class="label">GitHub</span></a></li>
-										<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Linkdin</span></a></li>
+										<li><a href="#" class="icon brands fab fa-github"><span class="label">GitHub</span></a></li>
+										<li><a href="#" class="icon brands fab fa-linkedin "><span class="label">Linkdin</span></a></li>
 										
 									</ul>
 								</header>
