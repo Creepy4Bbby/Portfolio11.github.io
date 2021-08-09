@@ -25,7 +25,7 @@ include 'Header.php';
 					<div id="main">
 						<div class="inner">
 
-							<!-- Header -->
+							<!-- Header
 								<header id="header">
 									<a href="index.html" class="logo"><strong>Editorial</strong> by HTML5 UP</a>
 									<ul class="icons">
@@ -34,6 +34,17 @@ include 'Header.php';
 										<li><a href="#" class="icon brands fa-snapchat-ghost"><span class="label">Snapchat</span></a></li>
 										<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
 										<li><a href="#" class="icon brands fa-medium-m"><span class="label">Medium</span></a></li>
+									</ul>
+								</header> -->
+
+
+								<!-- Header -->
+								<header id="header">
+									<a href="Contacts8.php" class="logo"><stron>Me suivre...&nbsp </strong> &nbsp &nbsp &nbsp ici &nbsp →  </a>
+									<ul class="icons">
+										<li><a href="#" class="icon brands fab fa-github"><span class="label">GitHub</span></a></li>
+										<li><a href="#" class="icon brands fab fa-linkedin "><span class="label">Linkdin</span></a></li>
+										
 									</ul>
 								</header>
 
