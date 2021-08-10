@@ -149,7 +149,7 @@ include 'Header.php';
 									<ul>
 										<li><a href="PageAccueil.php">Accueil</a></li>
 										<li><a href="Parcours3.php">Parcours</a></li>
-										<li><a href="Projets4.php">Projets</a></li>
+
 										<li>
 										<span class="opener">Projets</span>
 											<ul>
