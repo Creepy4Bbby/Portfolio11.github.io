@@ -260,4 +260,42 @@ include 'Header.php';
 			<script src="assets/js/main.js"></script>
 
 	</body>
+
+			<!-- Accès direct à : --> <!-- image bouton -->
+
+<ul>
+<div align="left"><li><a href="#Entreprise">Espace entreprise</a> ;</li><img src="images/2p5.png" WIDTH=50 HEIGHT=55></a></div>
+<div align="left"><li><a href="#Scolaire">Espace scolaire</a> ;</li><img src="images/1p5.png" WIDTH=70 HEIGHT=75></a></div>
+</ul>
+
+<!-- Partie entreprise -->
+<h2 id="Entreprise">Espace entreprise</h2>
+Toutes vos experiences en entreprise doivent etre mis ici :
+<p>Exemple:
+	- stage + durée du stage
+	- CDD + durée du CDD
+	- CDI + durée du CDI
+</p>
+
+<p>Exemple:
+	Se que j'ai apris durant ces periode en entreprise :
+</p>
+
+<p>Metre des photo pour illustrer Exemple:
+	
+</p>
+
+<!-- Partie scolaire -->
+<h2 id="Scolaire">Espace scolaire</h2>
+Toutes vos experiences à l'ecole doivent etre mis ici :
+<p>Exemple:
+	- projet realisé 
+	- Diplome obtenue 
+	- durée de mon parcours scolaire detaillé
+</p>
+
+<p>Exemple:
+	Se que j'ai apris durant ces periode scolaire :
+</p>
+	
 </html>
