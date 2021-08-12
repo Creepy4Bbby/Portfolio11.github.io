@@ -278,7 +278,7 @@ include 'Header.php';
 
 			<!-- Accès direct à : --> <!-- image bouton -->
 
-			<html> <body> <span style="position: absolute; top: 2050px; left: 2050px;">
+			<html> <body> <span style="position: absolute; top: 250px; left: 2050px;">
 <ul>
 <div align="center"><li><a href="#Entreprise">Espace entreprise</a> ;</li><img src="images/2p5.png" WIDTH=150 HEIGHT=150></a></div>
 <div align="center"><li><a href="#Scolaire">Espace scolaire</a> ;</li><img src="images/1p5.png" WIDTH=150 HEIGHT=150></a></div>
