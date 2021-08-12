@@ -261,11 +261,26 @@ include 'Header.php';
 
 	</body>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<!-- Accès direct à : --> <!-- image bouton -->
 
 <ul>
-<div align="left"><li><a href="#Entreprise">Espace entreprise</a> ;</li><img src="images/2p5.png" WIDTH=50 HEIGHT=55></a></div>
-<div align="left"><li><a href="#Scolaire">Espace scolaire</a> ;</li><img src="images/1p5.png" WIDTH=70 HEIGHT=75></a></div>
+<div align="left"><li><a href="#Entreprise">Espace entreprise</a> ;</li><img src="images/2p5.png" WIDTH=150 HEIGHT=155></a></div>
+<div align="left"><li><a href="#Scolaire">Espace scolaire</a> ;</li><img src="images/1p5.png" WIDTH=170 HEIGHT=175></a></div>
 </ul>
 
 <!-- Partie entreprise -->
