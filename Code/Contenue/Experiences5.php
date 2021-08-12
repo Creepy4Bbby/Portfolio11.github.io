@@ -282,7 +282,7 @@ include 'Header.php';
 <ul>
 <div align="center"><li><a href="#Entreprise">Espace entreprise</a> ;</li><img src="images/2p5.png" WIDTH=150 HEIGHT=150></a></div>
 </span> </body> </html>
-<html> <body> <span style="position: absolute; top: 250px; left: 250px;">
+<html> <body> <span style="position: absolute; top: 50px; left: 250px;">
 <div align="center"><li><a href="#Scolaire">Espace scolaire</a> ;</li><img src="images/1p5.png" WIDTH=150 HEIGHT=150></a></div>
 </ul>
 </span> </body> </html>
