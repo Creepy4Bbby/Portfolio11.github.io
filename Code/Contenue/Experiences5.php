@@ -281,9 +281,13 @@ include 'Header.php';
 			<html> <body> <span style="position: absolute; top: 5050px; left: 350px;">
 <ul>
 <div align="center"><li><a href="#Entreprise">Espace entreprise</a> ;</li><img src="images/2p5.png" WIDTH=150 HEIGHT=150></a></div>
+</span> </body> </html>
+<html> <body> <span style="position: absolute; top: 4050px; left: 350px;">
 <div align="center"><li><a href="#Scolaire">Espace scolaire</a> ;</li><img src="images/1p5.png" WIDTH=150 HEIGHT=150></a></div>
 </ul>
 </span> </body> </html>
+
+
 <!-- Partie entreprise -->
 <h2 id="Entreprise">Espace entreprise</h2>
 Toutes vos experiences en entreprise doivent etre mis ici :
