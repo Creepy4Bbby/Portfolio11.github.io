@@ -72,7 +72,7 @@ include 'Header.php';
 							<!-- Section  scolaire -->
 								<section>
 									<header class="major">
-									<a href="SCOLAIRE"><h2>Scolaire</h2></a>
+								<h2><a href="https://www.w3schools.com/">Scolaire</h2></a>
 									</header>
 									<div class="posts">
 										<article>
