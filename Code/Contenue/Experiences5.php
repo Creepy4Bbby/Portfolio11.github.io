@@ -279,8 +279,8 @@ include 'Header.php';
 			<!-- Accès direct à : --> <!-- image bouton -->
 
 <ul>
-<div align="left"><li><a href="#Entreprise">Espace entreprise</a> ;</li><img src="images/2p5.png" WIDTH=150 HEIGHT=150></a></div>
-<div align="left"><li><a href="#Scolaire">Espace scolaire</a> ;</li><img src="images/1p5.png" WIDTH=150 HEIGHT=150></a></div>
+<div align="center"><li><a href="#Entreprise">Espace entreprise</a> ;</li><img src="images/2p5.png" WIDTH=150 HEIGHT=150></a></div>
+<div align="center"><li><a href="#Scolaire">Espace scolaire</a> ;</li><img src="images/1p5.png" WIDTH=150 HEIGHT=150></a></div>
 </ul>
 
 <!-- Partie entreprise -->
