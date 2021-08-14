@@ -56,6 +56,8 @@ include 'Header.php';
 									</span>
 								</section>
 
+
+					
 							<!-- Section -->
 								<section>
 									<header class="major">
@@ -65,7 +67,7 @@ include 'Header.php';
 										<article>
 										<span class="icon solid fas fas fa-briefcase"></span>
 											<div class="content">
-											<h3 id="#">PROFESSIONNEL</h3>
+								<div align="center"><a href="#Entreprise"><h3 id="#">PROFESSIONNEL</h3></a></div>
 												<p></p>
 											</div>
 										</article>
@@ -86,54 +88,26 @@ include 'Header.php';
 										<h2>Ipsum sed dolor</h2>
 									</header>
 									<div class="posts">
-										<article>
-											<a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
-											<h3>Interdum aenean</h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-											<ul class="actions">
-												<li><a href="#" class="button">More</a></li>
-											</ul>
-										</article>
-										<article>
-											<a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
-											<h3>Nulla amet dolore</h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-											<ul class="actions">
-												<li><a href="#" class="button">More</a></li>
-											</ul>
-										</article>
-										<article>
-											<a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
-											<h3>Tempus ullamcorper</h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-											<ul class="actions">
-												<li><a href="#" class="button">More</a></li>
-											</ul>
-										</article>
-										<article>
-											<a href="#" class="image"><img src="images/pic04.jpg" alt="" /></a>
-											<h3>Sed etiam facilis</h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-											<ul class="actions">
-												<li><a href="#" class="button">More</a></li>
-											</ul>
-										</article>
-										<article>
-											<a href="#" class="image"><img src="images/pic05.jpg" alt="" /></a>
-											<h3>Feugiat lorem aenean</h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-											<ul class="actions">
-												<li><a href="#" class="button">More</a></li>
-											</ul>
-										</article>
-										<article>
-											<a href="#" class="image"><img src="images/pic06.jpg" alt="" /></a>
-											<h3>Amet varius aliquam</h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-											<ul class="actions">
-												<li><a href="#" class="button">More</a></li>
-											</ul>
-										</article>
+
+						<!-- Partie entreprise -->
+									<h2 id="Entreprise">Espace entreprise</h2>
+									Toutes vos experiences en entreprise doivent etre mis ici :
+									<p>Exemple:
+										- stage + durée du stage
+										- CDD + durée du CDD
+										- CDI + durée du CDI
+									</p>
+
+									<p>Exemple:
+										Ce que j'ai apris durant ces periode en entreprise :
+									</p>
+
+									<p>Mettre des photo pour illustrer Exemple:
+										
+									</p>
+
+										
+									
 									</div>
 								</section>
 
@@ -144,13 +118,7 @@ include 'Header.php';
 					<div id="sidebar">
 						<div class="inner">
 
-							<!-- Search -->
-								<section id="search" class="alt">
-									<form method="post" action="#">
-										<input type="text" name="query" id="query" placeholder="Search" />
-									</form>
-								</section>
-
+						
 							
 
 							<!-- MENU -->
@@ -246,9 +214,9 @@ include 'Header.php';
 	</body>
 
 
-<!-- !!!!!!! !!!!!!!! A MODIFIER ICI !!!!! !!!!!!!!!!!!! -->
-			<!-- Accès direct à : --> <!-- image bouton -->
-
+<!-- !!!!!!! !!!!!!!! A MODIFIER ICI !!!!! !!!!!!!!!!!!!
+			
+ 
 			<html> <body> <span style="position: absolute; top: 650px; left: 350px;">
 <ul>
 <div align="center"><li><a href="#Entreprise">Espace entreprise</a></div>
@@ -257,27 +225,12 @@ include 'Header.php';
 <div align="center"><li><a href="#Scolaire">Espace scolaire</a> ;</li></div>
 </ul>
 </span> </body> </html>
+ -->
 
 
-<!-- Partie entreprise -->
-<h2 id="Entreprise">Espace entreprise</h2>
-Toutes vos experiences en entreprise doivent etre mis ici :
-<p>Exemple:
-	- stage + durée du stage
-	- CDD + durée du CDD
-	- CDI + durée du CDI
-</p>
-
-<p>Exemple:
-	Ce que j'ai apris durant ces periode en entreprise :
-</p>
-
-<p>Mettre des photo pour illustrer Exemple:
-	
-</p>
 
 <!-- Partie scolaire -->
-<h2 id="Scolaire">Espace scolaire</h2>
+<!-- <h2 id="Scolaire">Espace scolaire</h2>
 Toutes vos experiences à l'ecole doivent etre mis ici :
 <p>Exemple:
 	- projet realisé 
@@ -288,5 +241,5 @@ Toutes vos experiences à l'ecole doivent etre mis ici :
 <p>Exemple:
 	Ce que j'ai apris durant ces periode scolaire :
 </p>
-	
-</html>
+	 -->
+<!-- </html> --> 
