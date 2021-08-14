@@ -275,7 +275,7 @@ include 'Header.php';
 
 
 
-
+<!-- !!!!!!! !!!!!!!! A MODIFIER ICI !!!!! !!!!!!!!!!!!! -->
 			<!-- Accès direct à : --> <!-- image bouton -->
 
 			<html> <body> <span style="position: absolute; top: 650px; left: 350px;">
@@ -298,10 +298,10 @@ Toutes vos experiences en entreprise doivent etre mis ici :
 </p>
 
 <p>Exemple:
-	Se que j'ai apris durant ces periode en entreprise :
+	Ce que j'ai apris durant ces periode en entreprise :
 </p>
 
-<p>Metre des photo pour illustrer Exemple:
+<p>Mettre des photo pour illustrer Exemple:
 	
 </p>
 
@@ -315,7 +315,7 @@ Toutes vos experiences à l'ecole doivent etre mis ici :
 </p>
 
 <p>Exemple:
-	Se que j'ai apris durant ces periode scolaire :
+	Ce que j'ai apris durant ces periode scolaire :
 </p>
 	
 </html>
