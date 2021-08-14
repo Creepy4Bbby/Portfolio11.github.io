@@ -38,8 +38,6 @@ include 'Header.php';
 								</header> -->
 
 
-				
-
 							<!-- Banner -->
 								<section id="banner">
 									<div class="content">
@@ -65,33 +63,20 @@ include 'Header.php';
 									</header>
 									<div class="features">
 										<article>
-											<span class="icon fa-gem"></span>
+										<span class="icon solid fas fas fa-briefcase"></span>
 											<div class="content">
-												<h3>Portitor ullamcorper</h3>
-												<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+											<h3 id="#">PROFESSIONNEL</h3>
+												<p></p>
 											</div>
 										</article>
 										<article>
-											<span class="icon solid fa-paper-plane"></span>
+										<span class="icon solid fas fas fa-graduation-cap"></span>
 											<div class="content">
-												<h3>Sapien veroeros</h3>
-												<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+											<h3 id="#">SCOLAIRE</h3>
+												<p></p>
 											</div>
 										</article>
-										<article>
-											<span class="icon solid fa-rocket"></span>
-											<div class="content">
-												<h3>Quam lorem ipsum</h3>
-												<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-											</div>
-										</article>
-										<article>
-											<span class="icon solid fa-signal"></span>
-											<div class="content">
-												<h3>Sed magna finibus</h3>
-												<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-											</div>
-										</article>
+									
 									</div>
 								</section>
 
@@ -203,7 +188,6 @@ include 'Header.php';
 									
 								</nav>
 
-
 							<!-- Section -->
 								<section>
 									<header class="major">
@@ -262,28 +246,15 @@ include 'Header.php';
 	</body>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- !!!!!!! !!!!!!!! A MODIFIER ICI !!!!! !!!!!!!!!!!!! -->
 			<!-- Accès direct à : --> <!-- image bouton -->
 
 			<html> <body> <span style="position: absolute; top: 650px; left: 350px;">
 <ul>
-<div align="center"><li><a href="#Entreprise">Espace entreprise</a> ;</li><img src="images/2p5.png" WIDTH=150 HEIGHT=150></a></div>
+<div align="center"><li><a href="#Entreprise">Espace entreprise</a></div>
 </span> </body> </html>
 <html> <body> <span style="position: absolute; top: 25px; left: 250px;">
-<div align="center"><li><a href="#Scolaire">Espace scolaire</a> ;</li><img src="images/1p5.png" WIDTH=150 HEIGHT=150></a></div>
+<div align="center"><li><a href="#Scolaire">Espace scolaire</a> ;</li></div>
 </ul>
 </span> </body> </html>
 
