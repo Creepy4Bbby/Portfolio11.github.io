@@ -74,41 +74,30 @@ include 'Header.php';
 										<article>
 										<span class="icon solid fas fas fa-graduation-cap"></span>
 											<div class="content">
-											<h3 id="#">SCOLAIRE</h3>
+											<div align="center"><a href="#Scolaire"><h3 id="#">SCOLAIRE</h3></a></div>
 												<p></p>
 											</div>
 										</article>
 									
 									</div>
 								</section>
-
+								
 							<!-- Section -->
-								<section>
+									<section>
 									<header class="major">
-										<h2>Ipsum sed dolor</h2>
+									<h2 id="Entreprise">Pro </h2>
 									</header>
 									<div class="posts">
-
-						<!-- Partie entreprise -->
-									<h2 id="Entreprise">Espace entreprise</h2>
-									Toutes vos experiences en entreprise doivent etre mis ici :
-									<p>Exemple:
-										- stage + durée du stage
-										- CDD + durée du CDD
-										- CDI + durée du CDI
-									</p>
-
-									<p>Exemple:
-										Ce que j'ai apris durant ces periode en entreprise :
-									</p>
-
-									<p>Mettre des photo pour illustrer Exemple:
-										
-									</p>
+										<article>
+											<a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
+											<h3>Interdum aenean</h3>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+											<ul class="actions">
+												<li><a href="#" class="button">More</a></li>
+											</ul>
+										</article>
 
 										
-									
-									</div>
 								</section>
 
 						</div>
