@@ -76,7 +76,8 @@ include 'Header.php';
 									</header>
 									<div class="posts">
 										<article>
-											<a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
+											<a href="#" class="image">
+											<img src="images/pic02.jpg" onclick="window.open(this.src,'_blank','toolbar=0, location=0, directories=0, status=0, scrollbars=0, resizable=0, copyhistory=0, menuBar=0, width='+this.width+', height='+this.height);" /><img src="images/pic07.jpg" alt="" /></a>
 											<h3>Interdum aenean</h3>
 											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 											<ul class="actions">
@@ -91,6 +92,12 @@ include 'Header.php';
 												<li><a href="#" class="button">More</a></li>
 											</ul>
 										</article>
+										</section>
+										<section>
+									<header class="major">
+								<h2><a href="#">PROFESSIONNEL</h2></a>
+									</header>
+									<div class="posts">
 										<article>
 											<a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
 											<h3>Tempus ullamcorper</h3>
@@ -107,6 +114,12 @@ include 'Header.php';
 												<li><a href="#" class="button">More</a></li>
 											</ul>
 										</article>
+</section>
+								<section>
+									<header class="major">
+								<h2><a href="#">PERSONNEL</h2></a>
+									</header>
+									<div class="posts">
 										<article>
 											<a href="#" class="image"><img src="images/pic05.jpg" alt="" /></a>
 											<h3>Feugiat lorem aenean</h3>
@@ -163,17 +176,8 @@ include 'Header.php';
 										<li><a href="CV7.php">CV</a></li>
 										<li><a href="Contacts8.php">Contacts</a></li>
 										<li><a href="elements.html">Elements</a></li>
-										<li>
-											<span class="opener">Submenu</span>
-											<ul>
-												<li><a href="#">Lorem Dolor</a></li>
-												<li><a href="#">Ipsum Adipiscing</a></li>
-												<li><a href="#">Tempus Magna</a></li>
-												<li><a href="#">Feugiat Veroeros</a></li>
-											</ul>
-										</li>
-										<li><a href="#">Etiam Dolore</a></li>
-									
+</li>
+										
 								</nav>
 
 							<!-- Section -->
@@ -183,7 +187,7 @@ include 'Header.php';
 									</header>
 									<div class="mini-posts">
 										<article>
-											<a href="#" class="image"><img src="images/pic07.jpg" alt="" /></a>
+										<img src="pic11.jpg" onclick="window.open(this.src,'_blank','toolbar=0, location=0, directories=0, status=0, scrollbars=0, resizable=0, copyhistory=0, menuBar=0, width='+this.width+', height='+this.height);" /><img src="images/pic07.jpg" alt="" /></a>
 											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
 										</article>
 										<article>
