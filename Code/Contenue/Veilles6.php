@@ -10,6 +10,7 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="test.css">
 	</head>
 	<body class="is-preload">
 
@@ -26,7 +27,7 @@
 
 							<!-- Header -->
 								<header id="header">
-									<a href="index.html" class="logo"><strong>Editorial</strong> by HTML5 UP</a>
+									<a href="index.html" class="logo"><strong>Portfolio</strong> de Jules Thouvenin</a>
 									<ul class="icons">
 										<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
 										<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
@@ -43,110 +44,166 @@
 								<section id="banner">
 									<div class="content">
 										<header>
-											<h1>Hi, I’m Editorial<br />
-											by HTML5 UP</h1>
-											<p>A free and fully responsive site template</p>
+											<h1>Veilles</h1>
+											<p>Voici les différentes veilles sur lesquelles je travaille.</p>
 										</header>
-										<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.</p>
-										<ul class="actions">
-											<li><a href="#" class="button big">Learn More</a></li>
-										</ul>
+										<p>Vous retrouverez dans la page ci-dessous quatres veilles portants sur des thèmes différents concernant l'informatique.</p>
 									</div>
 									<span class="image object">
 										<img src="images/pic10.jpg" alt="" />
 									</span>
 								</section>
 
-							<!-- Section -->
+							<!-- Veilles -->
 								<section>
-									<header class="major">
-										<h2>Erat lacinia</h2>
-									</header>
-									<div class="features">
-										<article>
-											<span class="icon fa-gem"></span>
-											<div class="content">
-												<h3>Portitor ullamcorper</h3>
-												<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-											</div>
-										</article>
-										<article>
-											<span class="icon solid fa-paper-plane"></span>
-											<div class="content">
-												<h3>Sapien veroeros</h3>
-												<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-											</div>
-										</article>
-										<article>
-											<span class="icon solid fa-rocket"></span>
-											<div class="content">
-												<h3>Quam lorem ipsum</h3>
-												<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-											</div>
-										</article>
-										<article>
-											<span class="icon solid fa-signal"></span>
-											<div class="content">
-												<h3>Sed magna finibus</h3>
-												<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-											</div>
-										</article>
-									</div>
-								</section>
-
-							<!-- Section -->
-								<section>
-									<header class="major">
-										<h2>Ipsum sed dolor</h2>
-									</header>
 									<div class="posts">
+
+										<!-- Veille 1 -->
 										<article>
-											<a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
-											<h3>Interdum aenean</h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-											<ul class="actions">
-												<li><a href="#" class="button">More</a></li>
-											</ul>
+
+											<!-- Affichage de base Veille 1 -->
+											<a class="image" id="veille1"><img src="images/pic01.jpg" alt="" /></a>
+											<h3>Veille 1</h3>
+											<p>[Résumé veille 1]</p>
+
+											<!-- Contenu Popup Veille 1 -->
+											<div id="overlayv1" class="overlay">
+												<div id="popupv1" class="popup">
+													<h2>
+														Veille 1 <!-- Titre Veille -->
+														<span id="btnClosev1" class="btnClose">&times;</span> <!-- Bouton Fermer Veille -->
+													</h2>
+													<div>
+														Descriptif détaillé de la veille 1. <!-- Corps de la Veille -->
+													</div>
+												</div>
+											</div>
+
+											<!-- Script Veille 1 -->
+											<script>
+												var veille1 = document.getElementById('veille1');
+												var overlayv1 = document.getElementById('overlayv1');
+												veille1.addEventListener('click',openMoadl);
+												function openMoadl() {
+													overlayv1.style.display='block';
+												}
+												var btnClosev1 = document.getElementById('btnClosev1');
+												btnClosev1.addEventListener('click',closeModal);
+												function closeModal() {
+													overlayv1.style.display='none';
+												}
+											</script>
 										</article>
+
+										<!-- Veille 2 -->
 										<article>
-											<a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
-											<h3>Nulla amet dolore</h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-											<ul class="actions">
-												<li><a href="#" class="button">More</a></li>
-											</ul>
+
+											<!-- Affichage de base Veille 2 -->
+											<a class="image" id="veille2"><img src="images/pic02.jpg" alt="" /></a>
+											<h3>Veille 2</h3>
+											<p>[Résumé veille 2]</p>
+
+											<!-- Contenu Popup Veille 2 -->
+											<div id="overlayv2" class="overlay">
+												<div id="popupv2" class="popup">
+													<h2>
+														Veille 2 
+														<span id="btnClosev2" class="btnClose">&times;</span>
+													</h2>
+													<div>
+														Descriptif détaillé de la veille 2.
+													</div>
+												</div>
+											</div>
+
+											<!-- Script Veille 2 -->
+											<script>
+												var veille2 = document.getElementById('veille2');
+												var overlayv2 = document.getElementById('overlayv2');
+												veille2.addEventListener('click',openMoadl);
+												function openMoadl() {
+													overlayv2.style.display='block';
+												}
+												var btnClosev2 = document.getElementById('btnClosev2');
+												btnClosev2.addEventListener('click',closeModal);
+												function closeModal() {
+													overlayv2.style.display='none';
+												}
+											</script>
 										</article>
+
+										<!-- Veille 3 -->
 										<article>
-											<a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
-											<h3>Tempus ullamcorper</h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-											<ul class="actions">
-												<li><a href="#" class="button">More</a></li>
-											</ul>
+
+											<!-- Affichage de base Veille 3 -->
+											<a class="image" id="veille3"><img src="images/pic03.jpg" alt="" /></a>
+											<h3>Veille 3</h3>
+											<p>[Résumé veille 3]</p>
+
+											<!-- Contenu Popup Veille 3 -->
+											<div id="overlayv3" class="overlay">
+												<div id="popupv3" class="popup">
+													<h2>
+														Veille 3 
+														<span id="btnClosev3" class="btnClose">&times;</span>
+													</h2>
+													<div>
+														Descriptif détaillé de la veille 3.
+													</div>
+												</div>
+											</div>
+
+											<!-- Script Veille 3 -->
+											<script>
+												var veille3 = document.getElementById('veille3');
+												var overlayv3 = document.getElementById('overlayv3');
+												veille3.addEventListener('click',openMoadl);
+												function openMoadl() {
+													overlayv3.style.display='block';
+												}
+												var btnClosev3 = document.getElementById('btnClosev3');
+												btnClosev3.addEventListener('click',closeModal);
+												function closeModal() {
+													overlayv3.style.display='none';
+												}
+											</script>
 										</article>
+
+										<!-- Veille 4 -->
 										<article>
-											<a href="#" class="image"><img src="images/pic04.jpg" alt="" /></a>
-											<h3>Sed etiam facilis</h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-											<ul class="actions">
-												<li><a href="#" class="button">More</a></li>
-											</ul>
-										</article>
-										<article>
-											<a href="#" class="image"><img src="images/pic05.jpg" alt="" /></a>
-											<h3>Feugiat lorem aenean</h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-											<ul class="actions">
-												<li><a href="#" class="button">More</a></li>
-											</ul>
-										</article>
-										<article>
-											<a href="#" class="image"><img src="images/pic06.jpg" alt="" /></a>
-											<h3>Amet varius aliquam</h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-											<ul class="actions">
-												<li><a href="#" class="button">More</a></li>
-											</ul>
+
+											<!-- Affichage de base Veille 4 -->
+											<a class="image" id="veille4"><img src="images/pic04.jpg" alt="" /></a>
+											<h3>Veille 4</h3>
+											<p>[Résumé veille 4]</p>
+
+											<!-- Contenu Popup Veille 4 -->
+											<div id="overlayv4" class="overlay">
+												<div id="popupv4" class="popup">
+													<h2>
+														Veille 4 
+														<span id="btnClosev4" class="btnClose">&times;</span>
+													</h2>
+													<div>
+														Descriptif détaillé de la veille 4.
+													</div>
+												</div>
+											</div>
+
+											<!-- Script Veille 4 -->
+											<script>
+												var veille4 = document.getElementById('veille4');
+												var overlayv4 = document.getElementById('overlayv4');
+												veille4.addEventListener('click',openMoadl);
+												function openMoadl() {
+													overlayv4.style.display='block';
+												}
+												var btnClosev4 = document.getElementById('btnClosev4');
+												btnClosev4.addEventListener('click',closeModal);
+												function closeModal() {
+													overlayv4.style.display='none';
+												}
+											</script>
 										</article>
 									</div>
 								</section>
