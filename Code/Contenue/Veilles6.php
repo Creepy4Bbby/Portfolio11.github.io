@@ -19,6 +19,9 @@ include 'Header.php';
 	</head>
 	<body class="is-preload">
 
+
+	<div align="center"><h1><a href="PageAccueil.php">Veilles</h1></a></div>
+
 		<!-- Wrapper -->
 			<div id="wrapper">
 
@@ -29,18 +32,16 @@ include 'Header.php';
 
 
 
-
-							<!-- Header -->
-								<header id="header">
-									<a href="index.html" class="logo"><strong>Portfolio</strong> de Jules Thouvenin</a>
+									<!-- Header -->
+									<header id="header">
+									<a href="Contacts8.php" class="logo"><strong>Me suivre...&nbsp </strong> &nbsp &nbsp &nbsp ici &nbsp →  </a>
 									<ul class="icons">
-										<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-										<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-										<li><a href="#" class="icon brands fa-snapchat-ghost"><span class="label">Snapchat</span></a></li>
-										<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-										<li><a href="#" class="icon brands fa-medium-m"><span class="label">Medium</span></a></li>
+										<li><a href="https://github.com/Creepy4Bbby" class="icon brands fab fa-github"><span class="label">GitHub</span></a></li>
+										<li><a href="Contacts8.php" class="icon brands fab fa-linkedin "><span class="label">Linkdin</span></a></li>
+										
 									</ul>
 								</header>
+
 
 
 

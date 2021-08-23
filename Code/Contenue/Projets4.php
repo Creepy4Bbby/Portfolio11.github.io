@@ -28,7 +28,7 @@ include 'Header.php';
 
 							<!-- Header -->
 								<header id="header">
-									<a href="Contacts8.php" class="logo"><stron>Me suivre...&nbsp </strong> &nbsp &nbsp &nbsp ici &nbsp →  </a>
+									<a href="Contacts8.php" class="logo"><strong>Me suivre...&nbsp </strong> &nbsp &nbsp &nbsp ici &nbsp →  </a>
 									<ul class="icons">
 										<li><a href="https://github.com/Creepy4Bbby" class="icon brands fab fa-github"><span class="label">GitHub</span></a></li>
 										<li><a href="Contacts8.php" class="icon brands fab fa-linkedin "><span class="label">Linkdin</span></a></li>
