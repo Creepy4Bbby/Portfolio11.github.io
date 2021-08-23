@@ -4,229 +4,267 @@ include 'Header.php';
 
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="assets/css/main.css" />
-    <link rel="stylesheet" href="Header.php" />
-	<style type="text/css">
-body{
-	background-repeat:no-repeat;
-	font-family: Trebuchet MS, Lucida Sans Unicode, Arial, sans-serif;
-	font-size:0.9em;
-	line-height:130%;
-	text-align:center;
-	height:100%;
-	background-color: #E2EBED;
-}
-#contentContainer h2{	/* No margins above <h2> tags */
-	margin-top:0px;
-}
+<!DOCTYPE HTML>
 
+<html>
+	<head>
+		<title>Portfolio</title>
+		<meta charset="utf-8" />
+	    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" /> 
+		<link rel="stylesheet" href="assets/css/main.css" /> 
+        <link rel="stylesheet" href="Header.html" />
+	</head>
+	<body class="is-preload">
 
-#mainContainer{
-	width:755px;
-	margin:0 auto;
-	text-align:left;
-	padding:5px;
-	margin-top:20px;
-	border:1px solid #000;
-	background-color: #FFF;
-}
-#contentContainer{
-	float:left;
-	border:1px solid #000;
-	background-color: #E2EBED;
-	overflow:auto;
-	margin-right:10px;
-	padding:10px;
 	
-	/* CSS HACK */
-	width: 497px;	/* IE 5.x */
-	width/* */:/**/480px;	/* Other browsers */
-	width: /**/480px;
-	
-	/* CSS HACK */
-	height: 412px;	/* IE 5.x */
-	height/* */:/**/390px;	/* Other browsers */
-	height: /**/390px;
-			
-}
+	<div align="center"><h1><a href="PageAccueil.php">Projets</h1></a></div>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+
+							<!-- Header -->
+								<header id="header">
+									<a href="Contacts8.php" class="logo"><strong>Me suivre...&nbsp </strong> &nbsp &nbsp &nbsp ici &nbsp →  </a>
+									<ul class="icons">
+										<li><a href="https://github.com/Creepy4Bbby" class="icon brands fab fa-github"><span class="label">GitHub</span></a></li>
+										<li><a href="Contacts8.php" class="icon brands fab fa-linkedin "><span class="label">Linkdin</span></a></li>
+										
+									</ul>
+								</header>
+
+							<!-- Section -->
+								<section>
+									<header>
+									<center>	<h2>Différents contextes de mes projets : </h2> </center>
+									</header>
+
+									<div class="features">
+										<article>
+										<span class="icon solid fas fa-user-graduate"></span>
+											<div class="content">
+											<h3 id="SCOLAIRE">SCOLAIRE</h3>
+												<p></p>
+											</div>
+										</article>
+
+										<article>
+											<span class="icon solid fas fa-user-tie"></span>
+											<div class="content">
+												<h3>PROFESSIONNEL</h3>
+												<p></p>
+											</div>
+										</article>
+										<br><br><br><br>
+										<article>
+											<span class="icon solid fas fa-user-alt"></span>
+											<div class="content">
+												<h3>PERSONNEL</h3>
+												<p></p>
+											</div>
+										</article>
+										
+								</section>
+
+							<!-- Section  scolaire -->
+								<section>
+									<header class="major">
+								<h2><a href="https://www.w3schools.com/">Scolaire</h2></a>
+									</header>
+									<div class="posts">
+										<article>
+											<a href="#" class="image">
+											<img src="images/pic02.jpg" alt="" /></a>
+											<h3>Interdum aenean</h3>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+											<ul class="actions">
+												<li><a href="#" class="button">More</a></li>
+											</ul>
+
+										<!-- Contenu Popup Veille 1 -->
+										<div id="overlayv1" class="overlay">
+												<div id="popupv1" class="popup">
+													<h2>
+														Veille 1 <!-- Titre Veille -->
+														<span id="btnClosev1" class="btnClose">&times;</span> <!-- Bouton Fermer Veille -->
+													</h2>
+													<div>
 
 
-#contentContainer .openingText{
-	color:red;
-}
+													<div>
+														Descriptif détaillé de la veille 1. <!-- Corps de la Veille -->
+													</div>
+												</div>
+											</div>
 
-#articleListContainer{	/* <ul> container for article list */
-	float:left;
-	height:410px;
-	overflow:auto;	
-	width:240px;
-	border:1px solid #000;
-	background-color:#FFF;	
-}
-.articleList{
-	margin:0px;
-	padding:2px;
-}
-.articleList li{	/* General layout article in list */
-	list-style-type:none;
-	border:1px solid #999;
-	background-color:#EEE;
-	height:50px;
-	margin:1px;
-	padding:2px;
-	color:#333;
-	cursor:pointer;
-}
-.articleList li.articleMouseOver{	/* Mouse over article in list - layout */
-	border:1px solid #000;
-	color:#000;
-}
-.articleList li.articleClick{	/* Active article in list - layout */
-	border:1px solid #000;
-	color:#000;
-	background-color:#317082;
-	color:#FFF;
-}
+											<!-- Script Veille 1 -->
+											<script>
+												var veille1 = document.getElementById('veille1');
+												var overlayv1 = document.getElementById('overlayv1');
+												veille1.addEventListener('click',openMoadl);
+												function openMoadl() {
+													overlayv1.style.display='block';
+												}
+												var btnClosev1 = document.getElementById('btnClosev1');
+												btnClosev1.addEventListener('click',closeModal);
+												function closeModal() {
+													overlayv1.style.display='none';
+												}
+											</script>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
+											<h3>Nulla amet dolore</h3>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+											<ul class="actions">
+												<li><a href="#" class="button">More</a></li>
+											</ul>
+										</article>
+										</section>
+										<section>
+									<header class="major">
+								<h2><a href="#">PROFESSIONNEL</h2></a>
+									</header>
+									<div class="posts">
+										<article>
+											<a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
+											<h3>Tempus ullamcorper</h3>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+											<ul class="actions">
+												<li><a href="#" class="button">More</a></li>
+											</ul>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic04.jpg" alt="" /></a>
+											<h3>Sed etiam facilis</h3>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+											<ul class="actions">
+												<li><a href="#" class="button">More</a></li>
+											</ul>
+										</article>
+</section>
+								<section>
+									<header class="major">
+								<h2><a href="#">PERSONNEL</h2></a>
+									</header>
+									<div class="posts">
+										<article>
+											<a href="#" class="image"><img src="images/pic05.jpg" alt="" /></a>
+											<h3>Feugiat lorem aenean</h3>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+											<ul class="actions">
+												<li><a href="#" class="button">More</a></li>
+											</ul>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic06.jpg" alt="" /></a>
+											<h3>Amet varius aliquam</h3>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+											<ul class="actions">
+												<li><a href="#" class="button">More</a></li>
+											</ul>
+										</article>
+									</div>
+								</section>
+								
 
-.keyText{	/* Just a column I use for key text inside articles - the one with the light blue bg and dotted border */
-	background-color:#FFF;
-	border:1px dotted #000;
-	float:right;
-	margin-top:5px;
-	margin-left:5px;
-	margin-bottom:5px;
-	width:150px;
-	padding:3px
-}
-.clear{
-	clear:both;
-}
-</style>
-<script type="text/javascript" src="/AJAX/ajax.js"></script>
-<script type="text/javascript">
-/************************************************************************************************************
-Ajax dynamic articles 
-Copyright (C) 2006  DTHMLGoodies.com, Alf Magne Kalleland
+						</div>
+					</div>
 
-This library is free software; you can redistribute it and/or
-modify it under the terms of the GNU Lesser General Public
-License as published by the Free Software Foundation; either
-version 2.1 of the License, or (at your option) any later version.
+				<!-- Sidebar -->
+					<div id="sidebar">
+						<div class="inner">
 
-This library is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
-Lesser General Public License for more details.
+							<!-- Search
+								<section id="search" class="alt">
+									<form method="post" action="#">
+										<input type="text" name="query" id="query" placeholder="Search" />
+									</form>
+								</section> -->
 
-You should have received a copy of the GNU Lesser General Public
-License along with this library; if not, write to the Free Software
-Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+							<!-- MENU -->
+								<nav id="menu">
+									<header class="major">
+										<h2>Menu</h2>
+									</header>
+									<ul>
+										<li><a href="PageAccueil.php">Accueil</a></li>
+										<li><a href="Parcours3.php">Parcours</a></li>
 
-Dhtmlgoodies.com., hereby disclaims all copyright interest in this script
-written by Alf Magne Kalleland.
+										<li>
+										<span class="opener">Projets</span>
+											<ul>
+												<li><a href="#">Professionel</a></li>
+												<li><a href="#">Scolaire</a></li>
+												<li><a href="#">Personnel</a></li>
+											</ul>
+</li>
+										<li><a href="Experiences5.php">Expériences</a></li>
+										<li><a href="Veilles6.php">Veilles</a></li>
+										<li><a href="CV7.php">CV</a></li>
+										<li><a href="Contacts8.php">Contacts</a></li>
+										<li><a href="elements.html">Elements</a></li>
+</li>
+										
+								</nav>
 
-Alf Magne Kalleland, 2006
-Owner of DHTMLgoodies.com
+							<!-- Section -->
+								<section>
+									<header class="post">
+										<h2>Ante interdum</h2>
+									</header>
+									<div class="mini-posts">
+										<article>
+										<img src="pic11.jpg" onclick="window.open(this.src,'_blank','toolbar=0, location=0, directories=0, status=0, scrollbars=0, resizable=0, copyhistory=0, menuBar=0, width='+this.width+', height='+this.height);" /><img src="images/pic07.jpg" alt="" /></a>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic08.jpg" alt="" /></a>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic09.jpg" alt="" /></a>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+										</article>
+									</div>
+									<ul class="actions">
+										<li><a href="#" class="button">More</a></li>
+									</ul>
+								</section>
 
+							<!-- Section -->
+								<section>
+									<header class="major">
+										<h2>Get in touch</h2>
+									</header>
+									<p>Sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin sed aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+									<ul class="contact">
+										<li class="icon solid fa-envelope"><a href="#">information@untitled.tld</a></li>
+										<li class="icon solid fa-phone">(000) 000-0000</li>
+										<li class="icon solid fa-home">1234 Somewhere Road #8254<br />
+										Nashville, TN 00000-0000</li>
+									</ul>
+								</section>
 
-************************************************************************************************************/	
-var ajax = new sack();
-var articleListObj;
-var activeArticle = false;
-var clickedArticle = false;
-var contentObj	// Reference to article content <div>
+							<!-- Footer -->
+								<footer id="footer">
+									<p class="copyright">&copy; Untitled. All rights reserved. Demo Images: <a href="https://unsplash.com">Unsplash</a>. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+								</footer>
 
-function mouseoverArticle()	// Highlight article
-{
-	if(this==clickedArticle)return;
-	if(activeArticle && activeArticle!=this){
-		if(activeArticle==clickedArticle)
-			activeArticle.className='articleClick';
-		else
-			activeArticle.className='';
-		
-	}
-	this.className='articleMouseOver';
-	activeArticle = this;	// Storing reference to this article
-}
+						</div>
+					</div>
 
-function showContent()	// Displaying content in the content <div>
-{
-	contentObj.innerHTML = ajax.response;	// ajax.response is a variable that contains the content of the external file	
-}
+			</div>
 
-function showWaitMessage()
-{
-	contentObj.innerHTML = 'Finding article.....<br>Please wait';
-}
-function getAjaxFile(fileName)
-{
-	ajax.requestFile = fileName;	// Specifying which file to get
-	ajax.onCompletion = showContent;	// Specify function that will be executed after file has been found
-	ajax.onLoading = showWaitMessage;	// Action when AJAX is loading the file
-	ajax.runAJAX();		// Execute AJAX function	
-}
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
 
-function selectArticle()	// User have clicked on an article
-{
-	getAjaxFile(this.id + '.html');	// Calling the getAjasFile function. argument to the function is id of this <li> + '.html', example "article1.html"
-	if(clickedArticle && clickedArticle!=this)clickedArticle.className='articleMouseOver';
-	this.className='articleClick';
-	clickedArticle = this;
-}
-
-
-function initAjaxDemo()
-{
-	articleListObj = document.getElementById('articleList');
-	var articles = articleListObj.getElementsByTagName('LI');
-	for(var no=0;no<articles.length;no++){
-		articles[no].onmouseover = mouseoverArticle;
-		articles[no].onclick = selectArticle;
-	}	
-	
-	contentObj = document.getElementById('contentContainer');
-}
-window.onload = initAjaxDemo;
-</script>
-
-	<title>test Portfolio</title>
-</head>
-<body>
-
-<div id="mainContainer">
-	<div id="header">
-		<img src="/images/heading3.gif">
-	</div>
-	<div id="contentContainer">
-		<h2 class="openingText">Click on one of the articles to the right.</h2>
-		<p>This will load the the content of external articles into this DIV</p>
-	</div>
-	<div id="articleListContainer">
-		<ul id="articleList" class="articleList">
-			<li id="article1">This is article number one</li>
-			<li id="article2">This is the second article</li>
-			<li id="article3">Article number 3</li>
-			<li id="article4">About AJAX</li>
-			<li id="article5">Article number 5</li>
-			<li id="article6">Article number 6</li>
-			<li id="article7">Article number 7</li>
-			<li id="article8">Article number 8</li>
-			<li id="article9">Article number 9</li>
-		</ul>
-	</div>
-	<div class="clear"></div>
-</div>
-
-
-
-
-
-</body>
+	</body>
 </html>
