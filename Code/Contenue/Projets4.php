@@ -46,7 +46,7 @@ include 'Header.php';
 				 $(function () {
 					 $(window).scroll(function () {
 						 if ($(this).scrollTop() > 200 ) { 
-							 $('#scrollUp').css('right','10px');
+							 $('#scrollUp').css('right','30px');
 						 } else { 
 							 $('#scrollUp').removeAttr( 'style' );
 						 }
@@ -282,6 +282,6 @@ include 'Header.php';
 			<div id="scrollUp">
 <a href="#top" class="icon solid fas fa-cloud-upload-alt"></a>
 </div>
-<!-- <img src="images/haut.jpg"/> -->
+
 	</body>
 </html>
