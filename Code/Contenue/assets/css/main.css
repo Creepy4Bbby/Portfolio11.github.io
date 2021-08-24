@@ -2282,7 +2282,7 @@ button,
 #scrollUp
 {
 position: fixed;
-bottom : 10px;
+bottom : 40px;
 right: -100px;
 opacity: 1;
 }

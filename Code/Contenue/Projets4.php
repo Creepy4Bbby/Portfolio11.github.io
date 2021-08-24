@@ -94,7 +94,7 @@ include 'Header.php';
 							<!-- Section  scolaire -->
 								<section>
 									<header class="major">
-									<h2 id="Scolaire">Scolaire</h2></a>
+									<h2 id="Scolaire">SCOLAIRE</h2></a>
 									</header>
 									<div class="posts">
 									
@@ -174,8 +174,6 @@ include 'Header.php';
 
 
 
-
-
 				<!-- Sidebar -->
 					<div id="sidebar">
 						<div class="inner">
@@ -212,17 +210,7 @@ include 'Header.php';
 </li>
 										
 								</nav>
-								<!-- Bouton haut de page 
 
-<button id="btnUP" class="btnUP">&nbsp;UP&nbsp;</button>
-
-<script>
-	var btnUP = document.getElementById('btnUP');
-	btnUP.addEventListener('click',pageUP);
-	function pageUP() {
-        window.scrollTo(0, 0);
-    }
-</script> -->
 
 							<!-- Section -->
 								<section>
@@ -264,7 +252,7 @@ include 'Header.php';
 
 							<!-- Footer -->
 								<footer id="footer">
-									<p class="copyright">&copy; 2021.Etudiante à L'Efrei <U>(BTS SIO SLAM).</U></a>.</p>
+									<p class="copyright">&copy; 2021.Etudiante à L'Efrei <u>(BTS SIO SLAM).</u></a>.</p>
 								</footer>
 
 						</div>
@@ -279,6 +267,7 @@ include 'Header.php';
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
 
+<!-- icône haut de page -->
 			<div id="scrollUp">
 <a href="#top" class="icon solid fas fa-cloud-upload-alt fa-2x"></a>
 </div>
