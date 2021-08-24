@@ -41,7 +41,7 @@ include 'Header.php';
 									<header>
 									<center>	<h2>Différents contextes de mes projets : </h2> </center>
 									</header>
-
+<center>
 									<div class="features">
 										<article>
 										<span class="icon solid fas fa-user-graduate"></span>
@@ -66,7 +66,7 @@ include 'Header.php';
 												<p></p>
 											</div>
 										</article>
-										
+</center>   					
 								</section>
 
 							<!-- Section  scolaire -->
@@ -75,10 +75,11 @@ include 'Header.php';
 									<h2 id="Scolaire">Scolaire</h2></a>
 									</header>
 									<div class="posts">
-										<article>
-											<a href="#" class="image">
-											<img src="images/pic02.jpg" onclick="window.open(this.src,'_blank','toolbar=0, location=0, directories=0, status=0, scrollbars=0, resizable=0, copyhistory=0, menuBar=0, width='+this.width+', height='+this.height);" /><img src="images/pic07.jpg" alt="" /></a>
-											<h3>Interdum aenean</h3>
+									
+									
+									<article>
+											<a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
+											<h3>Nulla amet dolore</h3>
 											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 											<ul class="actions">
 												<li><a href="#" class="button">More</a></li>
