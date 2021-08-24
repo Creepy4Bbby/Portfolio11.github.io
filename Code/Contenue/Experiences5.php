@@ -21,21 +21,21 @@ include 'Header.php';
 		<!-- Wrapper -->
 			<div id="wrapper">
 
+							<!-- Titre haut de page  -->
+			<div align="center"><h1><a href="PageAccueil.php">Expériences</h1></a></div>
+
 				<!-- Main -->
 					<div id="main">
 						<div class="inner">
 
-							<!-- Header
-								<header id="header">
-									<a href="index.html" class="logo"><strong>Editorial</strong> by HTML5 UP</a>
+						<header id="header">
+									<a href="Contacts8.php" class="logo"><strong>Me suivre...&nbsp </strong> &nbsp &nbsp &nbsp ici &nbsp →  </a>
 									<ul class="icons">
-										<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-										<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-										<li><a href="#" class="icon brands fa-snapchat-ghost"><span class="label">Snapchat</span></a></li>
-										<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-										<li><a href="#" class="icon brands fa-medium-m"><span class="label">Medium</span></a></li>
+										<li><a href="https://github.com/Creepy4Bbby" class="icon brands fab fa-github"><span class="label">GitHub</span></a></li>
+										<li><a href="Contacts8.php" class="icon brands fab fa-linkedin "><span class="label">Linkdin</span></a></li>
+										
 									</ul>
-								</header> -->
+								</header>
 
 
 							<!-- Banner -->
@@ -61,7 +61,7 @@ include 'Header.php';
 							<!-- Section -->
 								<section>
 									<header class="major">
-										<h2>Parcours d'experience</h2>
+										<h2>Erat lacinia</h2>
 									</header>
 									<div class="features">
 										<article>
@@ -85,38 +85,23 @@ include 'Header.php';
 							<!-- Section -->
 									<section>
 									<header class="major">
-									<h2 id="Entreprise">PROFESSIONNEL</h2>
+									<h2 id="Entreprise">Pro </h2>
 									</header>
 									<div class="posts">
 										<article>
 											<a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
-											<h3>Expérience professionnelle réalisée durant une période en entreprise</h3>
-											<p>Expliques-en détaille les stages réalisés, les périodes vécus en CDD.</p>
+											<h3>Interdum aenean</h3>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 											<ul class="actions">
 												<li><a href="#" class="button">More</a></li>
-											</ul>
+											</ul>										
 										</article>
 
-										</div>
-										<header class="major">
-									<h2 id="Scolaire">SCOLAIRE</h2>
-									</header>
-									<div class="posts">
-										<article>
-											<a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
-											<h3>Expérience scolaire réalisée durant une période en formation a l'école.</h3>
-											<p>Expliques-en détaille les formations obtenues, les périodes vécus en formation.</p>
-											<ul class="actions">
-												<li><a href="#" class="button">More</a></li>
-											</ul>
-										</article>
 										
 								</section>
 
 						</div>
 					</div>
-
-
 
 				<!-- Sidebar -->
 					<div id="sidebar">
