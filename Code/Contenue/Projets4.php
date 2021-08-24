@@ -28,7 +28,7 @@ include 'Header.php';
 
 							<!-- Header -->
 								<header id="header">
-									<a href="Contacts8.php" class="logo"><stron>Me suivre...&nbsp </strong> &nbsp &nbsp &nbsp ici &nbsp →  </a>
+									<a href="Contacts8.php" class="logo"><strong>Me suivre...&nbsp </strong> &nbsp &nbsp &nbsp ici &nbsp →  </a>
 									<ul class="icons">
 										<li><a href="https://github.com/Creepy4Bbby" class="icon brands fab fa-github"><span class="label">GitHub</span></a></li>
 										<li><a href="Contacts8.php" class="icon brands fab fa-linkedin "><span class="label">Linkdin</span></a></li>
@@ -46,7 +46,7 @@ include 'Header.php';
 										<article>
 										<span class="icon solid fas fa-user-graduate"></span>
 											<div class="content">
-											<h3 id="SCOLAIRE">SCOLAIRE</h3>
+											<div align="center"><a href="#Scolaire"><h3 id="#">SCOLAIRE</h3>
 												<p></p>
 											</div>
 										</article>
@@ -54,7 +54,7 @@ include 'Header.php';
 										<article>
 											<span class="icon solid fas fa-user-tie"></span>
 											<div class="content">
-												<h3>PROFESSIONNEL</h3>
+											<div align="center"><a href="#Pro"><h3 id="#">PROFESSIONNEL</h3>
 												<p></p>
 											</div>
 										</article>
@@ -62,7 +62,7 @@ include 'Header.php';
 										<article>
 											<span class="icon solid fas fa-user-alt"></span>
 											<div class="content">
-												<h3>PERSONNEL</h3>
+											<div align="center"><a href="#Perso"><h3 id="#">PERSONNEL</h3>
 												<p></p>
 											</div>
 										</article>
@@ -72,7 +72,7 @@ include 'Header.php';
 							<!-- Section  scolaire -->
 								<section>
 									<header class="major">
-								<h2><a href="https://www.w3schools.com/">Scolaire</h2></a>
+									<h2 id="Scolaire">Scolaire</h2></a>
 									</header>
 									<div class="posts">
 										<article>
@@ -95,7 +95,7 @@ include 'Header.php';
 										</section>
 										<section>
 									<header class="major">
-								<h2><a href="#">PROFESSIONNEL</h2></a>
+									<h2 id="Pro">PROFESSIONNEL</h2></a>
 									</header>
 									<div class="posts">
 										<article>
@@ -117,7 +117,7 @@ include 'Header.php';
 </section>
 								<section>
 									<header class="major">
-								<h2><a href="#">PERSONNEL</h2></a>
+									<h2 id="Perso">PERSONNEL</h2></a>
 									</header>
 									<div class="posts">
 										<article>
