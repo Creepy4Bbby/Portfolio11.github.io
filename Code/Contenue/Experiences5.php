@@ -100,8 +100,22 @@ include 'Header.php';
 												<li><a href="#" class="button">More</a></li>
 											</ul>										
 										</article>
+</section>
+<section>
+										<article>
+										<header class="major">
+									<h2 id="Scolaire">Scolaire</h2>
+									</header>
+									<div class="posts">
+										<article>
+											<a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
+											<h3>Expérience scolaire réalisée durant une période en formation a l'école.</h3>
+											<p>Expliques-en détaille les formations obtenues, les périodes vécus en formation.</p>
+											<ul class="actions">
+												<li><a href="#" class="button">More</a></li>
+											</ul>										
+										</article>
 
-										
 								</section>
 
 						</div>
@@ -112,8 +126,7 @@ include 'Header.php';
 						<div class="inner">
 
 						
-							
-
+						
 							<!-- MENU -->
 							<nav id="menu">
 									<header class="major">
