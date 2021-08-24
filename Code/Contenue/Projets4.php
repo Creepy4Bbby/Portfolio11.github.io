@@ -69,7 +69,7 @@ include 'Header.php';
 									</div>
 								</section>
 
-								
+
 							<!-- Section  scolaire -->
 								<section>
 									<header class="major">
@@ -94,6 +94,9 @@ include 'Header.php';
 												<li><a href="#" class="button">More</a></li>
 											</ul>
 										</article>
+
+							<!-- Section  pro  -->	
+
 										</section>
 										<section>
 									<header class="major">
@@ -116,7 +119,10 @@ include 'Header.php';
 												<li><a href="#" class="button">More</a></li>
 											</ul>
 										</article>
-</section>
+										</section>
+
+										<!-- Section  perso -->
+
 								<section>
 									<header class="major">
 									<h2 id="Perso">PERSONNEL</h2></a>
@@ -222,7 +228,7 @@ include 'Header.php';
 
 							<!-- Footer -->
 								<footer id="footer">
-									<p class="copyright">&copy; Untitled. All rights reserved. Demo Images: <a href="https://unsplash.com">Unsplash</a>. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+									<p class="copyright">&copy; Untitled. All rights reserved.</a>.</p>
 								</footer>
 
 						</div>
