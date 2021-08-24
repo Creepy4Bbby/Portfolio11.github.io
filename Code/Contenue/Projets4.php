@@ -41,24 +41,23 @@ include 'Header.php';
 									<header>
 									<center>	<h2>Différents contextes de mes projets : </h2> </center>
 									</header>
-<center>
-									<div class="features">
-										<article>
-										<span class="icon solid fas fa-user-graduate"></span>
-											<div class="content">
-											<div align="center"><a href="#Scolaire"><h3 id="#">SCOLAIRE</h3>
-												<p></p>
-											</div>
-										</article>
 
+								<!-- SOMMAIRE DES DIFFERENTES PARTIE DE LA PAGE  -->
+								<div class="features">
 										<article>
-											<span class="icon solid fas fa-user-tie"></span>
+										<span class="icon solid fas fas fa-briefcase"></span>
 											<div class="content">
-											<div align="center"><a href="#Pro"><h3 id="#">PROFESSIONNEL</h3>
+								<div align="center"><a href="#Scolaire"><h3 id="#">SCOLAIRE</h3></a></div>
 												<p></p>
 											</div>
 										</article>
-										<br><br><br><br>
+										<article>
+										<span class="icon solid fas fas fa-graduation-cap"></span>
+											<div class="content">
+											<div align="center"><a href="#Pro"><h3 id="#">PROFESSIONNEL</h3></a></div>
+												<p></p>
+											</div>
+										</article>
 										<article>
 											<span class="icon solid fas fa-user-alt"></span>
 											<div class="content">
@@ -66,9 +65,11 @@ include 'Header.php';
 												<p></p>
 											</div>
 										</article>
-</center>   					
+									
+									</div>
 								</section>
 
+								
 							<!-- Section  scolaire -->
 								<section>
 									<header class="major">
