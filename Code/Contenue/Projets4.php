@@ -36,6 +36,32 @@ include 'Header.php';
 									</ul>
 								</header>
 
+ 
+								<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+ 
+ <script>
+			 jQuery(function(){
+				 $(function () {
+					 $(window).scroll(function () {
+						 if ($(this).scrollTop() > 200 ) { 
+							 $('#scrollUp').css('right','10px');
+						 } else { 
+							 $('#scrollUp').removeAttr( 'style' );
+						 }
+  
+					 });
+				 });
+			 });
+ </script>
+  
+
+
+
+
+
+
+
+
 							<!-- Section -->
 								<section>
 									<header>
@@ -151,6 +177,10 @@ include 'Header.php';
 						</div>
 					</div>
 
+
+
+
+
 				<!-- Sidebar -->
 					<div id="sidebar">
 						<div class="inner">
@@ -187,6 +217,17 @@ include 'Header.php';
 </li>
 										
 								</nav>
+								<!-- Bouton haut de page 
+
+<button id="btnUP" class="btnUP">&nbsp;UP&nbsp;</button>
+
+<script>
+	var btnUP = document.getElementById('btnUP');
+	btnUP.addEventListener('click',pageUP);
+	function pageUP() {
+        window.scrollTo(0, 0);
+    }
+</script> -->
 
 							<!-- Section -->
 								<section>
@@ -235,8 +276,7 @@ include 'Header.php';
 					</div>
 
 			</div>
-			<br><br><br>
-<button id="btnUP" class="btnUP">&nbsp;UP&nbsp;</button>
+
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/browser.min.js"></script>
@@ -244,13 +284,9 @@ include 'Header.php';
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
 
+			<div id="scrollUp">
+<a href="#top"><img src="pic05.jpg"/></a>
+</div>
+
 	</body>
 </html>
-
-<script>
-	var btnUP = document.getElementById('btnUP');
-	btnUP.addEventListener('click',pageUP);
-	function pageUP() {
-        window.scrollTo(0, 0);
-    }
-</script>
