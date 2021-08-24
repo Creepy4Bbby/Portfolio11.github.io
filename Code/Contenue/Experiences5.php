@@ -42,6 +42,34 @@ include 'Header.php';
 								</header>
 
 
+								<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+ 
+
+								<!-- HAUT DE PAGE  -->
+								<style> 
+      i { 
+      color: #1c87c9; 
+      text-shadow: 2px 2px 4px #00ffff; 
+      font-size: 30px; 
+      } 
+    </style>
+								
+ <script>
+			 jQuery(function(){
+				 $(function () {
+					 $(window).scroll(function () {
+						 if ($(this).scrollTop() > 200 ) { 
+							 $('#scrollUp').css('right','30px');
+						 } else { 
+							 $('#scrollUp').removeAttr( 'style' );
+						 }
+  
+					 });
+				 });
+			 });
+ </script>
+
+
 							<!-- Banner -->
 								<section id="banner">
 									<div class="content">
@@ -217,7 +245,17 @@ include 'Header.php';
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
 
+
+
+
+	<!-- icône haut de page -->
+	<div id="scrollUp">
+<a href="#top" class="icon solid fas fa-cloud-upload-alt fa-2x"></a>
+</div>
+
 	</body>
+</html>
+
 
 
 <!-- !!!!!!! !!!!!!!! A MODIFIER ICI !!!!! !!!!!!!!!!!!!
