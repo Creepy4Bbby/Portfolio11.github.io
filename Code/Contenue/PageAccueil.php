@@ -36,7 +36,7 @@ include 'Header.php';
 								</header> -->
 								<!-- <header class="header1"> -->
 								<div>
-									<div align="center"style="margin-bottom: 3em ;"><h1><a href="PageAccueil.html">Portfolio</h1></a></a></div>
+									<div align="center"style="margin-bottom: 3em ;"><h1><a href="PageAccueil.php">Portfolio</h1></a></a></div>
 
 									
 
