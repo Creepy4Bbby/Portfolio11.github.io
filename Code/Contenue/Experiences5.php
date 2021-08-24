@@ -61,7 +61,7 @@ include 'Header.php';
 							<!-- Section -->
 								<section>
 									<header class="major">
-										<h2>Erat lacinia</h2>
+										<h2>Parcours d'experience</h2>
 									</header>
 									<div class="features">
 										<article>
@@ -85,23 +85,38 @@ include 'Header.php';
 							<!-- Section -->
 									<section>
 									<header class="major">
-									<h2 id="Entreprise">Pro </h2>
+									<h2 id="Entreprise">PROFESSIONNEL</h2>
 									</header>
 									<div class="posts">
 										<article>
 											<a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
-											<h3>Interdum aenean</h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+											<h3>Expérience professionnelle réalisée durant une période en entreprise</h3>
+											<p>Expliques-en détaille les stages réalisés, les périodes vécus en CDD.</p>
 											<ul class="actions">
 												<li><a href="#" class="button">More</a></li>
 											</ul>
 										</article>
 
+										</div>
+										<header class="major">
+									<h2 id="Scolaire">SCOLAIRE</h2>
+									</header>
+									<div class="posts">
+										<article>
+											<a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
+											<h3>Expérience scolaire réalisée durant une période en formation a l'école.</h3>
+											<p>Expliques-en détaille les formations obtenues, les périodes vécus en formation.</p>
+											<ul class="actions">
+												<li><a href="#" class="button">More</a></li>
+											</ul>
+										</article>
 										
 								</section>
 
 						</div>
 					</div>
+
+
 
 				<!-- Sidebar -->
 					<div id="sidebar">
