@@ -18,12 +18,16 @@ include 'Header.php';
 	</head>
 	<body class="is-preload">
 
+
+	<!-- Titre haut de page  -->
+	<div align="center"><h1><a href="PageAccueil.php">Expériences</h1></a></div>
+
+
+
 		<!-- Wrapper -->
 			<div id="wrapper">
 
-							<!-- Titre haut de page  -->
-			<div align="center"><h1><a href="PageAccueil.php">Expériences</h1></a></div>
-
+						
 				<!-- Main -->
 					<div id="main">
 						<div class="inner">
