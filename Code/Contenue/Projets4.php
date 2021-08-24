@@ -264,7 +264,7 @@ include 'Header.php';
 
 							<!-- Footer -->
 								<footer id="footer">
-									<p class="copyright">&copy; Untitled. All rights reserved.</a>.</p>
+									<p class="copyright">&copy; 2021.Etudiante à L'Efrei <U>(BTS SIO SLAM).</U></a>.</p>
 								</footer>
 
 						</div>
@@ -280,7 +280,7 @@ include 'Header.php';
 			<script src="assets/js/main.js"></script>
 
 			<div id="scrollUp">
-<a href="#top" class="icon solid fas fa-cloud-upload-alt"></a>
+<a href="#top" class="icon solid fas fa-cloud-upload-alt fa-2x"></a>
 </div>
 
 	</body>
