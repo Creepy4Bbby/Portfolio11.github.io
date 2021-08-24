@@ -16,7 +16,7 @@ include 'Header.php';
 	</head>
 	<body class="is-preload">
 
-	
+				<!-- Titre haut de page  -->
 	<div align="center"><h1><a href="PageAccueil.php">Projets</h1></a></div>
 
 		<!-- Wrapper -->
