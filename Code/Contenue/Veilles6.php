@@ -45,7 +45,6 @@ include 'Header.php';
 
 
 
-
 							<!-- Banner -->
 								<section id="banner">
 									<div class="content">

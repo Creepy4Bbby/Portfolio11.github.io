@@ -174,9 +174,9 @@ include 'Header.php';
 										<li>
 										<span class="opener">Projets</span>
 											<ul>
-												<li><a href="#">Professionel</a></li>
-												<li><a href="#">Scolaire</a></li>
-												<li><a href="#">Personnel</a></li>
+												<li><a href="#Scolaire">Scolaire</a></li>
+												<li><a href="#Pro">Professionel</a></li>
+												<li><a href="#Perso">Personnel</a></li>
 											</ul>
 </li>
 										<li><a href="Experiences5.php">Expériences</a></li>
@@ -235,7 +235,8 @@ include 'Header.php';
 					</div>
 
 			</div>
-
+			<br><br><br>
+<button id="btnUP" class="btnUP">&nbsp;UP&nbsp;</button>
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/browser.min.js"></script>
@@ -245,3 +246,11 @@ include 'Header.php';
 
 	</body>
 </html>
+
+<script>
+	var btnUP = document.getElementById('btnUP');
+	btnUP.addEventListener('click',pageUP);
+	function pageUP() {
+        window.scrollTo(0, 0);
+    }
+</script>
