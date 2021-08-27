@@ -28,7 +28,7 @@ include 'header.php';
 
 								<!-- Header -->
 								<header id="header">
-									<a href="Contacts8.php" class="logo"><stron>Me suivre...&nbsp </strong> &nbsp &nbsp &nbsp ici &nbsp →  </a>
+									<a href="Contacts8.php" class="logo"><strong>Me suivre...&nbsp </strong> &nbsp &nbsp &nbsp ici &nbsp →  </a>
 									<ul class="icons">
 										<li><a href="https://github.com/Creepy4Bbby" class="icon brands fab fa-github"><span class="label">GitHub</span></a></li>
 										<li><a href="Contacts8.php" class="icon brands fab fa-linkedin "><span class="label">Linkdin</span></a></li>
@@ -39,6 +39,7 @@ include 'header.php';
 							<!-- Banner -->
 								<section id="banner">
 									
+								<!-- Affichage du cv  -->
 									<span class="image object">
 										<center><img src="images/cv.jpg" alt="" /></center>
 									</span>
@@ -49,8 +50,9 @@ include 'header.php';
 								</section> -->
 							
 												<!-- Bouton telecharger mon CV -->								
-												<a href="images/cv.jpg"
-  												download="cv.jpg">Télécharger CV</a>
+												<div align="right"style=":180px;">	<a href="images/cv.jpg"
+  												download="cv.jpg" class="button icon solid fas fas fa-graduation-cap">Télécharger CV</a>
+												</div>
 
 						</div>
 					</div>
