@@ -47,9 +47,10 @@ include 'header.php';
 											<li><a href="#" class="button big">Learn More</a></li>
 										</ul>
 								</section> -->
-
 							
-							
+												<!-- Bouton telecharger mon CV -->								
+												<a href="images/cv.jpg"
+  												download="cv.jpg">Télécharger CV</a>
 
 						</div>
 					</div>
@@ -140,6 +141,11 @@ include 'header.php';
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+
+
+
+
+
 
 	</body>
 </html>
