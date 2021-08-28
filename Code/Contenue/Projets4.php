@@ -98,17 +98,22 @@ include 'Header.php';
 									</header>
 									<div class="posts">
 									
-									
+									<!-- Activité 1 sur la M2l  -->
+
 									<article>
-											<a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
-											<h3>Nulla amet dolore</h3>
+											<a href="#" class="image"><img src="images/M2L.jpg" alt="" /></a>
+											<h3> La Maison Des Ligues </h3>
 											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 											<ul class="actions">
 												<li><a href="#" class="button">More</a></li>
 											</ul>
 										</article>
+
+			 						<!-- Fin de l'activité  1  -->
+
+
 										<article>
-											<a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
+											<a href="#" class="image"><img src="images/Portf.jpg" alt="" /></a>
 											<h3>Nulla amet dolore</h3>
 											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 											<ul class="actions">
