@@ -1,3 +1,8 @@
+<?php
+
+include 'Header.php';
+
+?>
 <!DOCTYPE HTML>
 <!--
 	Editorial by HTML5 UP
@@ -13,24 +18,53 @@
 	</head>
 	<body class="is-preload">
 
-		<!-- Wrapper -->
-			<div id="wrapper">
+		<!-- Titre haut de page  -->
+	<div align="center"><h1><a href="PageAccueil.php">Contact</h1></a></div>
 
-				<!-- Main -->
-					<div id="main">
-						<div class="inner">
+<!-- Wrapper -->
+	<div id="wrapper">
 
-							<!-- Header -->
-								<!-- <header id="header">
-									<a href="index.html" class="logo"><strong>Editorial</strong> by HTML5 UP</a>
-									<ul class="icons">
-										<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-										<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-										<li><a href="#" class="icon brands fa-snapchat-ghost"><span class="label">Snapchat</span></a></li>
-										<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-										<li><a href="#" class="icon brands fa-medium-m"><span class="label">Medium</span></a></li>
-									</ul>
-								</header> -->
+							
+		<!-- Main -->
+		<div id="main">
+				<div class="inner">
+
+				<header id="header">
+							<a href="Contacts8.php" class="logo"><strong>Me suivre...&nbsp </strong> &nbsp &nbsp &nbsp ici &nbsp →  </a>
+							<ul class="icons">
+								<li><a href="https://github.com/Creepy4Bbby" class="icon brands fab fa-github"><span class="label">GitHub</span></a></li>
+								<li><a href="Contacts8.php" class="icon brands fab fa-linkedin "><span class="label">Linkdin</span></a></li>
+								
+							</ul>
+						</header>
+
+
+						<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+
+
+						<!-- HAUT DE PAGE  -->
+						<style> 
+i { 
+color: #1c87c9; 
+text-shadow: 2px 2px 4px #00ffff; 
+font-size: 30px; 
+} 
+</style>
+						
+<script>
+	 jQuery(function(){
+		 $(function () {
+			 $(window).scroll(function () {
+				 if ($(this).scrollTop() > 200 ) { 
+					 $('#scrollUp').css('right','30px');
+				 } else { 
+					 $('#scrollUp').removeAttr( 'style' );
+				 }
+
+			 });
+		 });
+	 });
+</script>
 
 							
 							<!-- Banner -->
@@ -249,5 +283,7 @@
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
 
+			<div style="padding: 10%; margin-bottom: 10%; box-shadow: 0px 5px 18px grey; border-radius: 10px; background-color: #E7E7E7">
+	</div>
 	</body>
 </html>
