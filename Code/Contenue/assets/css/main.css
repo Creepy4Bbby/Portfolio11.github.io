@@ -2304,3 +2304,14 @@ opacity: 1;
   grid-column: 3;
   grid-row: 4;
 }
+.container {
+  /* Ajouter box-sizing */
+  box-sizing : border-box;
+  border-radius:30px;
+  background-color:#f2f2f2;
+  padding:20px;
+  width: 100%;
+  /* redéfinition 400 + 2*20 */
+  max-width: 540px;
+  margin:0 auto;
+}
