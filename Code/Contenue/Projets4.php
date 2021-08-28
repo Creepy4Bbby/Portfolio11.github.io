@@ -105,7 +105,7 @@ include 'Header.php';
 											<h3> La Maison Des Ligues </h3>
 											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 											<ul class="actions">
-												<li><a href="#" class="button">More</a></li>
+												<li><a href="Projets4.php" class="button">More</a></li>
 											</ul>
 										</article>
 
@@ -114,7 +114,7 @@ include 'Header.php';
 
 										<article>
 											<a href="#" class="image"><img src="images/Portf.jpg" alt="" /></a>
-											<h3>Nulla amet dolore</h3>
+											<h3>Portfolio</h3>
 											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 											<ul class="actions">
 												<li><a href="#" class="button">More</a></li>
@@ -279,3 +279,26 @@ include 'Header.php';
 
 	</body>
 </html>
+
+<script>
+        let togg1 = document.getElementById("togg1");
+let togg2 = document.getElementById("togg2");
+let d1 = document.getElementById("d1");
+let d2 = document.getElementById("d2");
+togg1.addEventListener("click", () => {
+  if(getComputedStyle(d2).display != "none"){
+    d1.style.display = "none";
+  } else {
+    d1.style.display = "block";
+  }
+})
+
+function togg(){
+  if(getComputedStyle(d1).display != "none"){
+    d1.style.display = "none";
+  } else {
+    d1.style.display = "block";
+  }
+};
+togg2.onclick = togg;
+      </script>
