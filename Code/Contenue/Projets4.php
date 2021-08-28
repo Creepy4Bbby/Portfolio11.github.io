@@ -105,8 +105,19 @@ include 'Header.php';
 											<h3> La Maison Des Ligues </h3>
 											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 											<ul class="actions">
-												<li><a href="Projets4.php" class="button">More</a></li>
+												<li> <button id="togg1">En savoir plus...</button>
+											
 											</ul>
+
+											<div id="d1">
+        <p>Ce texte appartient au premier div de ma page</p>
+        <p>Ce deuxième paragraphe également</p>
+    </div>
+
+
+
+
+
 										</article>
 
 			 						<!-- Fin de l'activité  1  -->
@@ -281,24 +292,16 @@ include 'Header.php';
 </html>
 
 <script>
-        let togg1 = document.getElementById("togg1");
-let togg2 = document.getElementById("togg2");
-let d1 = document.getElementById("d1");
-let d2 = document.getElementById("d2");
-togg1.addEventListener("click", () => {
-  if(getComputedStyle(d2).display != "none"){
-    d1.style.display = "none";
-  } else {
-    d1.style.display = "block";
-  }
-})
 
-function togg(){
-  if(getComputedStyle(d1).display != "none"){
-    d1.style.display = "none";
-  } else {
-    d1.style.display = "block";
-  }
-};
-togg2.onclick = togg;
+let togg1 = document.getElementById("togg1");
+
+let d1 = document.getElementById("d1");
+
+togg1.addEventListener("click", () => {
+if(getComputedStyle(d1).display != "none"){
+d1.style.display = "none";
+} else {
+d1.style.display = "block";
+}
+})
       </script>

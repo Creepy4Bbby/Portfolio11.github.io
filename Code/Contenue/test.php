@@ -18,57 +18,73 @@
 	
 
 	<link rel="stylesheet" type="text/css" href="public/css/style.css">
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
-	<script type="text/javascript">
-		$(function() {
-			$('a[href=#header]').click(function(){
-				$('html').animate({scrollTop:0}, 'slow');
-				return false;
-			});
-		});
-	</script>
+
+	<link rel="stylesheet" href="assets/css/test.css" />
 
 		
 </head>
 <body>
 
+
+<button id="btnPopup" class="btnPopup">Afficher Popup</button>
+<div id="overlay" class="overlay">
+<div id="popup" class="popup">
+<h2>
+Exemple simple de popup 
+<span id="btnClose" class="btnClose">&times;</span>
+</h2>
+<div>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas a nulla 
+a massa interdum imperdiet sed nec nibh. Proin porttitor euismod nulla ut 
+interdum. Cras elementum placerat aliquam.
+</div>
+</div>
+</div>
+
+
+
+<script>
+
+var btnPopup = document.getElementById('btnPopup');
+var overlay = document.getElementById('overlay');
+btnPopup.addEventListener('click',openMoadl);
+function openMoadl() {
+overlay.style.display='block';
+
+
+</script>
+
+
+
+
+
+
+
+<!-- 
 <h1>Comment afficher ou masquer un élément HTML</h1>
     <button id="togg1">Cliquez-moi !</button>
-    <button id="togg2">Retour</button>
+   
     <div id="d1">
         <p>Ce texte appartient au premier div de ma page</p>
         <p>Ce deuxième paragraphe également</p>
     </div>
-    <div id="d2">
-        <p>Il existe deux façons de cacher un élément <span>comme un div</span> en CSS :</p>
-        <ul>
-            <li>Utiliser visibility: hidden</li>
-            <li>Utiliser display: none</li>
-        </ul>
-    </div>
-
+     -->
+<!-- 
       <script>
-        let togg1 = document.getElementById("togg1");
-let togg2 = document.getElementById("togg2");
-let d1 = document.getElementById("d1");
-let d2 = document.getElementById("d2");
-togg1.addEventListener("click", () => {
-  if(getComputedStyle(d2).display != "none"){
-    d1.style.display = "none";
-  } else {
-    d1.style.display = "block";
-  }
-})
 
-function togg(){
-  if(getComputedStyle(d1).display != "none"){
-    d1.style.display = "none";
-  } else {
-    d1.style.display = "block";
-  }
-};
-togg2.onclick = togg;
-      </script>
+let togg1 = document.getElementById("togg1");
+
+let d1 = document.getElementById("d1");
+
+togg1.addEventListener("click", () => {
+if(getComputedStyle(d1).display = "none"){
+d1.style.display = "block";
+} else {
+d1.style.display = "block";
+}
+})
+      </script> -->
 
 </body>
 </html>
+
