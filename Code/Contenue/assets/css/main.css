@@ -2286,3 +2286,21 @@ bottom : 40px;
 right: -100px;
 opacity: 1;
 }
+.colonne {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+  grid-auto-rows: minmax(10px, auto);
+}
+.un {
+  grid-column: 1;
+  grid-row: 4;    
+}
+.deux {
+  grid-column: 2;
+  grid-row: 4;
+}
+.trois {
+  grid-column: 3;
+  grid-row: 4;
+}

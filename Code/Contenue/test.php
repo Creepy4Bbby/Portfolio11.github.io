@@ -1,9 +1,3 @@
-<?php
-
-include 'Header.php';
-
-?>
-
 <!DOCTYPE HTML>
 
 <html>
@@ -12,10 +6,27 @@ include 'Header.php';
 		<meta charset="utf-8" />
 	    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" /> 
 		<link rel="stylesheet" href="assets/css/main.css" /> 
+		<link rel="stylesheet" href="assets/css/test.css" /> 
         <link rel="stylesheet" href="Header.html" />
 	</head>
 	<body class="is-preload">
+    <!-- Main -->
+	<div id="main">
+						<div class="inner">
 
+						<div class="colonne">
+								<div class="un" align="left"><a href=""><img src="images/pic07.jpg" WIDTH=150 HEIGHT=150></a></div>
+								<div class="deux" align="center" ><br><br><h2> Nom Prénom </h2></div>
+								<div class="trois" align="right"><a href=""><img src="images/pic01.jpg" WIDTH=150 HEIGHT=150></a></div>
+						</div>
+									<br><input id="Aujourdhui" type="date" name="date" value="" readonly>
+						
+										<!--<h1><a href="PageAccueil.html">Portfolio</h1></a> -->
+
+							    	
+						
+</div>
+</div>
 	
 	<div align="center"><h1><a href="PageAccueil.php">Projets</h1></a></div>
 
@@ -268,3 +279,8 @@ include 'Header.php';
 
 	</body>
 </html>
+<!-- Date dynamisque -->
+<div><script>
+	document.getElementById("Aujourdhui").valueAsDate = new Date();
+	</script>
+	<!-- Fin de date dynamique -->
