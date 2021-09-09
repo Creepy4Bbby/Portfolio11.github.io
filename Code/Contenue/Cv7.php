@@ -40,18 +40,15 @@ include 'header.php';
 								<section id="banner">
 									
 								<!-- Affichage du cv  -->
-									<span class="image object">
-										<center><img src="images/cv.jpg" alt="" /></center>
-									</span>
-									<!-- bouton cv a revori  -->
-									<!-- <ul class="actions">
-											<li><a href="#" class="button big">Learn More</a></li>
-										</ul>
-								</section> -->
+								<center> <a href="images/cv.jpg"class="image"><center><img src="images/cv.jpg" alt="image" width="100" height="100" /></center></a>
+										
+									</center>
+								
+								</section> 
 							
 												<!-- Bouton telecharger mon CV -->								
-												<div align="right"style=":180px;">	<a href="images/cv.jpg"
-  												download="cv.jpg" class="button icon solid fas fas fa-graduation-cap">Télécharger CV</a>
+												<div align="right"style=":510px;">	<a href="images/cv.jpg"
+  												download="cv.jpg" class="button icon solid fas fas fa-download">Télécharger CV</a>
 												</div>
 
 						</div>
