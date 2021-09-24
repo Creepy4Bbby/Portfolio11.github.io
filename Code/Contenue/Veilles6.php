@@ -237,12 +237,12 @@ include 'Header.php';
 									</header>
 									<ul>
 										<li><a href="PageAccueil.php">Accueil</a></li>
-										<li><a href="Parcours3.html">Parcours</a></li>
+										<li><a href="Parcours3.php">Parcours</a></li>
 										<li><a href="Projets4.php">Projets</a></li>
-										<li><a href="Experiences5.html">Expériences</a></li>
-										<li><a href="Veilles6.html">Veilles</a></li>
-										<li><a href="CV7.html">CV</a></li>
-										<li><a href="Contacts8.html">Contacts</a></li>
+										<li><a href="Experiences5.php">Expériences</a></li>
+										<li><a href="Veilles6.php">Veilles</a></li>
+										<li><a href="CV7.php">CV</a></li>
+										<li><a href="Contacts8.php">Contacts</a></li>
 										<li><a href="elements.html">Elements</a></li>
 										<li>
 											<span class="opener">Submenu</span>
