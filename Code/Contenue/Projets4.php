@@ -1,9 +1,3 @@
-<?php
-
-include 'Header.php';
-
-?>
-
 <!DOCTYPE HTML>
 
 <html>
@@ -16,8 +10,7 @@ include 'Header.php';
 	</head>
 	<body class="is-preload">
 
-				<!-- Titre haut de page  -->
-	<div align="center"><h1><a href="PageAccueil.php">Projets</h1></a></div>
+	
 
 		<!-- Wrapper -->
 			<div id="wrapper">
@@ -25,11 +18,11 @@ include 'Header.php';
 				<!-- Main -->
 					<div id="main">
 						<div class="inner">
-
 							<!-- Header -->
 								<header id="header">
 									<a href="Contacts8.php" class="logo"><strong>Me suivre...&nbsp </strong> &nbsp &nbsp &nbsp ici &nbsp →  </a>
 									<ul class="icons">
+									
 										<li><a href="https://github.com/Creepy4Bbby" class="icon brands fab fa-github"><span class="label">GitHub</span></a></li>
 										<li><a href="Contacts8.php" class="icon brands fab fa-linkedin "><span class="label">Linkdin</span></a></li>
 										
@@ -59,6 +52,9 @@ include 'Header.php';
 
 							<!-- Section -->
 								<section>
+
+								<div align="center"><h1><a href="PageAccueil.php">Projets</h1></a></div>
+
 									<header>
 									<center>	<h2>Différents contextes de mes projets : </h2> </center>
 									</header>
