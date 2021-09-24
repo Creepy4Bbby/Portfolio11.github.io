@@ -78,6 +78,8 @@ html {
   box-sizing: inherit; }
 
 body {
+  /* couleurs fond */
+
   background: #46a6f559; }
   body.is-preload *, body.is-preload *:before, body.is-preload *:after, body.is-resizing *, body.is-resizing *:before, body.is-resizing *:after {
     -moz-animation: none !important;
@@ -91,7 +93,8 @@ body {
 
 /* Type */
 body, input, select, textarea {
-  color: #7f888f;
+  /*TEXTE */
+  color: #8f7f7f;
   font-family: "Open Sans", sans-serif;
   font-size: 13pt;
   font-weight: 400;

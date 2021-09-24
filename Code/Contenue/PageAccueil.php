@@ -57,7 +57,7 @@ include 'Header.php';
 								<ul class="actions fit"> 
 										<!-- <a href="index.html" class="button fit">Accueil</a> -->
 										<a href="Parcours3.php" class="button fit">Parcours</a>
-										<a href="Projets4.php" class="button fit">Projets(ele)</a>
+										<a href="Projets4.php" class="button fit">Projets</a>
 										<a href="Experiences5.php" class="button fit">Expériences</a>
 										<a href="Veilles6.php" class="button fit">Veilles</a>
 										<a href="Cv7.php" class="button fit">CV</a>
