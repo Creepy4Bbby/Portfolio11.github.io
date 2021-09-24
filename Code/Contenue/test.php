@@ -1,90 +1,41 @@
+<!DOCTYPE HTML>
+<!--
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Portfolio</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/test.css" /> 
+            
+		<!-- <link rel="stylesheet" href="assets/css/Caroussel.css" /> -->
+	</head>
+	<body>
 
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-<!--  -->
-<meta http-equiv="Content-Type" content="text/html; charset=utf8">
-	<link rel="icon" type="image/png" href="Mettrelogo.png"/>
-	<title>L2M : Réservation</title>
-  <link rel="stylesheet" href="assets/css/main.css" />
-	<meta name="description" content="Site de la L2M.">
-	
-	<!-- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous"> -->
-<!-- Commenté par Marie car le fontawesome utilisé pr le menu est différente de celle ci -->
-<!-- Commenté par dololo on supprime du coup ???? ↑↑↑↑↑↑ -->
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta http-equiv="X-UA-Compatible" content="ie-edge">
-	<link rel="stylesheet" href="public/css/bootstrap.min.css">
-	
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
 
-	<link rel="stylesheet" type="text/css" href="public/css/style.css">
-
-	<link rel="stylesheet" href="assets/css/test.css" />
-
-		
-</head>
-<body>
-
-
-<button id="btnPopup" class="btnPopup">Afficher Popup</button>
-<div id="overlay" class="overlay">
-<div id="popup" class="popup">
-<h2>
-Exemple simple de popup 
-<span id="btnClose" class="btnClose">&times;</span>
-</h2>
-<div>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas a nulla 
-a massa interdum imperdiet sed nec nibh. Proin porttitor euismod nulla ut 
-interdum. Cras elementum placerat aliquam.
+								
+						<div class="colonne">
+								<div class="un" align="left"><a href=""><img src="images/pic07.jpg" WIDTH=150 HEIGHT=150></a></div>
+								<div class="deux" align="center" ><br><br><h2> Nom Prénom </h2></div>
+								<div class="trois" align="right"><a href=""><img src="images/pic01.jpg" WIDTH=150 HEIGHT=150></a></div>
+						</div>
+									<br><input id="Aujourdhui" type="date" name="date" value="" readonly>
+						
+										<!--<h1><a href="PageAccueil.html">Portfolio</h1></a> -->
 </div>
 </div>
-</div>
-
-
-
-<script>
-
-var btnPopup = document.getElementById('btnPopup');
-var overlay = document.getElementById('overlay');
-btnPopup.addEventListener('click',openMoadl);
-function openMoadl() {
-overlay.style.display='block';
-
-
-</script>
-
-
-
-
-
-
-
-<!-- 
-<h1>Comment afficher ou masquer un élément HTML</h1>
-    <button id="togg1">Cliquez-moi !</button>
-   
-    <div id="d1">
-        <p>Ce texte appartient au premier div de ma page</p>
-        <p>Ce deuxième paragraphe également</p>
-    </div>
-     -->
-<!-- 
-      <script>
-
-let togg1 = document.getElementById("togg1");
-
-let d1 = document.getElementById("d1");
-
-togg1.addEventListener("click", () => {
-if(getComputedStyle(d1).display = "none"){
-d1.style.display = "block";
-} else {
-d1.style.display = "block";
-}
-})
-      </script> -->
-
+<div align="center"><h1><a href="PageAccueil.php">Contact</h1></a></div>							
 </body>
 </html>
 
+<!-- Date dynamisque -->
+<div><script>
+	document.getElementById("Aujourdhui").valueAsDate = new Date();
+	</script>
+	<!-- Fin de date dynamique -->
