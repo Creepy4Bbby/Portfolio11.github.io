@@ -20,7 +20,7 @@
 						<div class="inner">
 							<!-- Header -->
 								<header id="header">
-									<a href="Contacts8.php" class="logo"><strong>Me suivre...&nbsp </strong> &nbsp &nbsp &nbsp ici &nbsp →  </a>
+									<a href="Contacts8.php" class="logo"><strong>Me suivre...&nbsp </strong> &nbsp &nbsp &nbsp ici &nbsp →  <div align="center"><h1><a href="PageAccueil.php">Projets</h1></a></div>  </a>
 									<ul class="icons">
 									
 										<li><a href="https://github.com/Creepy4Bbby" class="icon brands fab fa-github"><span class="label">GitHub</span></a></li>
@@ -53,7 +53,7 @@
 							<!-- Section -->
 								<section>
 
-								<div align="center"><h1><a href="PageAccueil.php">Projets</h1></a></div>
+								
 
 									<header>
 									<center>	<h2>Différents contextes de mes projets : </h2> </center>
@@ -97,7 +97,7 @@
 									<!-- Activité 1 sur la M2l  -->
 
 									<article>
-											<a href="#" class="image"><img src="images/M2L.jpg" alt="" /></a>
+											<a href="M2L.php" class="image"><img src="images/M2L.jpg" alt="" /></a>
 											<h3> La Maison Des Ligues </h3>
 											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 											<ul class="actions">
