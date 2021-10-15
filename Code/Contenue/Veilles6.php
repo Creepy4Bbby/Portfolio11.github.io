@@ -1,8 +1,4 @@
-<?php
 
-include 'Header.php';
-
-?>
 <!DOCTYPE HTML>
 <!--
 	Editorial by HTML5 UP
@@ -20,8 +16,7 @@ include 'Header.php';
 	<body class="is-preload">
 
 
-	<div align="center"><h1><a href="PageAccueil.php">Veilles</h1></a></div>
-
+	
 		<!-- Wrapper -->
 			<div id="wrapper">
 
@@ -34,7 +29,8 @@ include 'Header.php';
 
 									<!-- Header -->
 									<header id="header">
-									<a href="Contacts8.php" class="logo"><strong>Me suivre...&nbsp </strong> &nbsp &nbsp &nbsp ici &nbsp →  </a>
+									<a href="Contacts8.php" class="logo"><strong>Me suivre...&nbsp </strong> &nbsp &nbsp &nbsp ici &nbsp →  </a><div align="center"><h1><a href="PageAccueil.php">Veilles</h1></a></div>
+
 									<ul class="icons">
 										<li><a href="https://github.com/Creepy4Bbby" class="icon brands fab fa-github"><span class="label">GitHub</span></a></li>
 										<li><a href="Contacts8.php" class="icon brands fab fa-linkedin "><span class="label">Linkdin</span></a></li>
@@ -68,7 +64,7 @@ include 'Header.php';
 
 											<!-- Affichage de base Veille 1 -->
 											<a class="image" id="veille1"><img src="images/pic01.jpg" alt="" /></a>
-											<h3>Veille 1</h3>
+											<h3>Interface cerveau-machine</h3>
 											<p>[Résumé veille 1]</p>
 
 											<!-- Contenu Popup Veille 1 -->
@@ -105,7 +101,7 @@ include 'Header.php';
 
 											<!-- Affichage de base Veille 2 -->
 											<a class="image" id="veille2"><img src="images/pic02.jpg" alt="" /></a>
-											<h3>Veille 2</h3>
+											<h3>Cybersecurité</h3>
 											<p>[Résumé veille 2]</p>
 
 											<!-- Contenu Popup Veille 2 -->
@@ -142,7 +138,7 @@ include 'Header.php';
 
 											<!-- Affichage de base Veille 3 -->
 											<a class="image" id="veille3"><img src="images/adveille.jpg" alt="" /></a>
-											<h3>Veille 3</h3>
+											<h3>Bancaire</h3>
 											<p>[Résumé veille 3]</p>
 
 											<!-- Contenu Popup Veille 3 -->
@@ -179,7 +175,7 @@ include 'Header.php';
 
 											<!-- Affichage de base Veille 4 -->
 											<a class="image" id="veille4"><img src="images/pic04.jpg" alt="" /></a>
-											<h3>Veille 4</h3>
+											<h3>I.A au service de la santé</h3>
 											<p>[Résumé veille 4]</p>
 
 											<!-- Contenu Popup Veille 4 -->
@@ -220,12 +216,6 @@ include 'Header.php';
 					<div id="sidebar">
 						<div class="inner">
 
-							<!-- Search -->
-								<section id="search" class="alt">
-									<form method="post" action="#">
-										<input type="text" name="query" id="query" placeholder="Search" />
-									</form>
-								</section>
 
 							
 
