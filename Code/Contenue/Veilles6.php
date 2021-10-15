@@ -100,8 +100,8 @@
 										<article>
 
 											<!-- Affichage de base Veille 2 -->
-											<a class="image" id="veille2"><img src="images/pic02.jpg" alt="" /></a>
-											<h3>Cybersecurité</h3>
+											<a class="image" id="veille2"><img src="images/ICM.jpg" alt="" /></a>
+											<h3>Veille 2</h3>
 											<p>[Résumé veille 2]</p>
 
 											<!-- Contenu Popup Veille 2 -->
