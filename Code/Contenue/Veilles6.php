@@ -63,7 +63,7 @@
 										<article>
 
 											<!-- Affichage de base Veille 1 -->
-											<a class="image" id="veille1"><img src="images/pic01.jpg" alt="" /></a>
+											<a class="image" id="veille1"><img src="images/IAS.jpg" alt="" /></a>
 											<h3>Interface cerveau-machine</h3>
 											<p>[Résumé veille 1]</p>
 
