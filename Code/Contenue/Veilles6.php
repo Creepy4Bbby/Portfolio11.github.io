@@ -64,7 +64,7 @@
 
 											<!-- Affichage de base Veille 1 -->
 											<a class="image" id="veille1"><img src="images/IAS.jpg" alt="" /></a>
-											<h3>Interface cerveau-machine</h3>
+											<h3>L'intelligence artificelle au servcie de la santé</h3>
 											<p>[Résumé veille 1]</p>
 
 											<!-- Contenu Popup Veille 1 -->
@@ -101,7 +101,7 @@
 
 											<!-- Affichage de base Veille 2 -->
 											<a class="image" id="veille2"><img src="images/ICM.jpg" alt="" /></a>
-											<h3>Veille 2</h3>
+											<h3>L'intervace cerveau-machine</h3>
 											<p>[Résumé veille 2]</p>
 
 											<!-- Contenu Popup Veille 2 -->
@@ -175,7 +175,7 @@
 
 											<!-- Affichage de base Veille 4 -->
 											<a class="image" id="veille4"><img src="images/pic04.jpg" alt="" /></a>
-											<h3>I.A au service de la santé</h3>
+											<h3>L'algorithmique de chiffrement</h3>
 											<p>[Résumé veille 4]</p>
 
 											<!-- Contenu Popup Veille 4 -->
