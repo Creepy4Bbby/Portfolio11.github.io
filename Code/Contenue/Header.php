@@ -13,12 +13,14 @@
 		<!-- <link rel="stylesheet" href="assets/css/Caroussel.css" /> -->
 		
 	</head>
-	<body>
+	<body class="is-preload" >
 		<header>
-				<!-- Main -->
+					<!-- Main -->
 					<div id="main">
 						<div class="inner">
 
+							
+								<div>
 								
 						<div class="colonne">
 								<div class="un" align="left"><a href=""><img src="images/pic07.jpg" WIDTH=150 HEIGHT=150></a></div>

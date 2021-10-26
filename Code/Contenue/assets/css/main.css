@@ -26,6 +26,9 @@ section, summary, time, mark, audio, video {
 
 header{
   background-image: url("https://wallpapercave.com/wp/wp1997655.jpg");
+  background-attachment:fixed;
+  background-repeat:no-repeat;
+  background-position:center center;
 }
 
 article, aside, details, figcaption, figure,

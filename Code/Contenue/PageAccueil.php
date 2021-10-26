@@ -21,25 +21,12 @@ include 'Header.php';
 				<!-- Main -->
 					<div id="main">
 						<div class="inner">
-
-							
 								<div>
-									
-
-									
-
-									
-
 	
-							    <!-- </header>  -->
 
-									<!-- Menu -->
-
-							<!-- <nav id="menu"> -->
-
-								<header class="major">
+								<!-- <header class="major">
 								
-								</div> </header>
+								</div> </header> -->
 
 								<ul class="actions fit"> 
 										<!-- <a href="index.html" class="button fit">Accueil</a> -->
