@@ -79,9 +79,10 @@ html {
 
 body {
   /* couleurs fond */
-
-  background: "images/pic10.jpg" }
+  background-image:url("images/fond.jpg");
+  /* background: "images/fond.jpg" } */
   /*#46a6f559; }*/
+}
   body.is-preload *, body.is-preload *:before, body.is-preload *:after, body.is-resizing *, body.is-resizing *:before, body.is-resizing *:after {
     -moz-animation: none !important;
     -webkit-animation: none !important;
@@ -90,7 +91,9 @@ body {
     -moz-transition: none !important;
     -webkit-transition: none !important;
     -ms-transition: none !important;
-    transition: none !important; }
+    transition: none !important; 
+  }
+
 
 /* Type */
 body, input, select, textarea {

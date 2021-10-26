@@ -77,11 +77,11 @@ include 'Header.php';
 							
 
 					
-
-
+<hr>
+<br>
 							<center><h2 style="margin-bottom: 2em;"><u>Actualités lié à mes sujets de veilles : </u></h2></center>
 							<br>
-							<br><br>
+							
 									<ul class="slides">
 										
 										<input type="radio" name="radio-btn" id="img-1" checked />
