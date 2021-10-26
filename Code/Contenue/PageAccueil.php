@@ -24,7 +24,7 @@ include 'Header.php';
 
 							
 								<div>
-									<div align="center"style="margin-bottom: 3em ;"><h1><a href="PageAccueil.php">Portfolio</h1></a></a></div>
+									
 
 									
 
@@ -53,13 +53,12 @@ include 'Header.php';
 
 
 							<!-- Content -->
-								<section>
-									<header class="main">
+								
+									<div class="main">
 										<h2>Bienvenue ☺ </h2>
-									</header>
+										</div>
 
 									
-
 									<h3><p>Vous allez naviguez dans mon parcour scolaire et professionnelle ainsi 
 										que tout les actualités informatique et numérique</p></h3>
 

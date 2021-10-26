@@ -21,14 +21,20 @@ section, summary, time, mark, audio, video {
   border: 5;
   font-size: 50%;
   font: inherit;
-  vertical-align: middle; }
+  vertical-align: middle;
+ }
+
+header{
+  background-image: url("https://wallpapercave.com/wp/wp1997655.jpg");
+}
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display: block; }
 
 body {
-  line-height: 1; }
+  line-height: 1; 
+}
 
 ol, ul {
   list-style: none; }
@@ -77,12 +83,7 @@ html {
 *, *:before, *:after {
   box-sizing: inherit; }
 
-body {
-  /* couleurs fond */
-  background-image:url("images/fond.jpg");
-  /* background: "images/fond.jpg" } */
-  /*#46a6f559; }*/
-}
+
   body.is-preload *, body.is-preload *:before, body.is-preload *:after, body.is-resizing *, body.is-resizing *:before, body.is-resizing *:after {
     -moz-animation: none !important;
     -webkit-animation: none !important;
@@ -1938,7 +1939,8 @@ button,
   -ms-transition: margin-left 0.5s ease, box-shadow 0.5s ease;
   transition: margin-left 0.5s ease, box-shadow 0.5s ease;
   /* Couleur du menu  */
-  background-color: #0762b6e1;
+  /* background-color: #0762b6e1; */
+  background-image: url("https://wallpapercave.com/wp/wp1997655.jpg");
   font-size: 0.9em;
   position: relative;
   width: 26em; }
@@ -2228,7 +2230,7 @@ button,
     padding: 0.625em 0; }
     #menu ul a:hover, #menu ul span:hover {
       color: #f56a6a; }
-    #menu ul a.opener, #menu ul span.opener {
+    /* #menu ul a.opener, #menu ul span.opener {
       -moz-transition: color 0.2s ease-in-out;
       -webkit-transition: color 0.2s ease-in-out;
       -ms-transition: color 0.2s ease-in-out;
@@ -2236,7 +2238,7 @@ button,
       text-decoration: none;
       Carre autour des icones
       -webkit-tap-highlight-color: rgba(24, 9, 236, 0);
-      position: relative; }
+      position: relative; } */
       #menu ul a.opener:before, #menu ul span.opener:before {
         -moz-osx-font-smoothing: grayscale;
         -webkit-font-smoothing: antialiased;
