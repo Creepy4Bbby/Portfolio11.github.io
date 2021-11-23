@@ -21,16 +21,17 @@
 
 								
 						<div class="colonne">
-								<div class="un" align="left"><a href=""><img src="images/pic07.jpg" WIDTH=150 HEIGHT=150></a></div>
-								<div class="deux" align="center" ><br><br><h2> Nom Prénom  <br> <input id="Aujourdhui" type="date" name="date" value="" readonly></h2></div>
+								<div class="un" align="left"><a href=""><img src="images/dolores.jpg" WIDTH=150 HEIGHT=200></a></div>
+								<div class="deux" align="center" ><br><br><h2> HUET Dolores  <br> <input id="Aujourdhui" type="date" name="date" value="" readonly></h2></div>
 								<!-- <div align="center"style="margin-bottom: 3em ;"><h1><a href="PageAccueil.php">Portfolio</h1></a></a></div> -->
-								<div class="trois" align="right"><a href=""><img src="images/pic01.jpg" WIDTH=150 HEIGHT=150></a></div>
+								<div class="trois" align="right"><a href="https://www.efrei.fr/programmes-experts/bts-sio/?gclid=CjwKCAiAv_KMBhAzEiwAs-rX1JnocCBqribCGwBWr7CPiJVQpu8mb5f7-aMLivCigK9KHcw2HQwHcxoCJBUQAvD_BwE"><img src="images/efrei.jpg" WIDTH=200 HEIGHT=200></a></div>
 								
-
+							
 							
 						</div>
 						
 								
+						<br>
 						
 										<!--<h1><a href="PageAccueil.html">Portfolio</h1></a> -->
 </div>

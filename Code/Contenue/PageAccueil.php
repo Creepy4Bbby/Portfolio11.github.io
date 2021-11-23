@@ -22,12 +22,8 @@ include 'Header.php';
 					<div id="main">
 						<div class="inner">
 								<div>
-	
 
-								<!-- <header class="major">
-								
-								</div> </header> -->
-
+								<br>
 								<ul class="actions fit"> 
 										<!-- <a href="index.html" class="button fit">Accueil</a> -->
 										<a href="Parcours3.php" class="button fit">Parcours</a>
@@ -51,10 +47,12 @@ include 'Header.php';
 
 									
 
-									<h2>Interdum sed dapibus</h2>
-									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.</p>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.</p>
-
+									<h2>A mon propos </h2>
+									<p> Bonjour j'ai 20 ans et je m'appelle HUET Dolores.<br>Actuellement en deuxième année de BTS SIO <strong>"Services Informatiques aux Organisations spécialité en Solutions d'Infrastructure"</strong> SLAM<strong>"Solutions Logicielles et Applications Métiers"</strong> en Alternance à l'EFREI  </p>
+									<p> Dans le cadre de mon epreuve E6 j'ai du effectuer le portfolio que voici.J'ai choisis l'axe 2 car je trouve cela plus professionnelle et parlant aux entreprises de recruté avec une ressource comme celle-ci et puis c'est plus enrichissant pour moi de ne pas me contenté du minimum des trucs demandé ( a revoir hein)
+									
+									<p>Depuis mes jeunes années, j’ai toujours été attiré par l’informatique et les nouvelles technologies. C’est tout naturellement que je me suis tourné vers ces études, en effectuant mes trois années d’études en BAC PRO « Système Electronique et Numérique », et en poursuivant vers ce BTS.J'aimera à la rentrée de septembre 2022 de prolongé mon parcours en intégrant un Bachelor Cybersécurité et Ethical Hacking en alternance afin de renforcer mes connaissances et m'épanouir dans ce domaine devenu très important dans notre société.D'autant plus avec ces années compliqué, avec la crise sanitaire que nous avons vécu créant dans le domaine numérique d'importantes fails dans de nombreux systèmes.</p>
+									<p> Par les nombreux stages et mon expériences en alternances j'ai pu acquerirs de nombreuses compétences dans la programmations informatique ainsi que dans la maintenances de réseaux.
 									
 									<br>
 
