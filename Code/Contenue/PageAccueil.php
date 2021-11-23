@@ -71,7 +71,7 @@ include 'Header.php';
 										<input type="radio" name="radio-btn" id="img-1" checked />
 										<li class="slide-container">
 											<div class="slide">
-												<img src="images/pic07.jpg" />
+												<img src="images/cybe.jpg" />
 											</div>
 											<div class="navi">
 												<label for="img-6" class="prev">&#x2039;</label>

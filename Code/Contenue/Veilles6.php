@@ -170,41 +170,7 @@
 											</script>
 										</article>
 
-										<!-- Veille 4 -->
-										<article>
-
-											<!-- Affichage de base Veille 4 -->
-											<a class="image" id="veille4"><img src="images/pic04.jpg" alt="" /></a>
-											<h3>L'algorithmique de chiffrement</h3>
-											<p>[Résumé veille 4]</p>
-
-											<!-- Contenu Popup Veille 4 -->
-											<div id="overlayv4" class="overlay">
-												<div id="popupv4" class="popup">
-													<h2>
-														Veille 4 
-														<span id="btnClosev4" class="btnClose">&times;</span>
-													</h2>
-													<div>
-														Descriptif détaillé de la veille 4.
-													</div>
-												</div>
-											</div>
-
-											<!-- Script Veille 4 -->
-											<script>
-												var veille4 = document.getElementById('veille4');
-												var overlayv4 = document.getElementById('overlayv4');
-												veille4.addEventListener('click',openMoadl);
-												function openMoadl() {
-													overlayv4.style.display='block';
-												}
-												var btnClosev4 = document.getElementById('btnClosev4');
-												btnClosev4.addEventListener('click',closeModal);
-												function closeModal() {
-													overlayv4.style.display='none';
-												}
-											</script>
+										
 										</article>
 									</div>
 								</section>

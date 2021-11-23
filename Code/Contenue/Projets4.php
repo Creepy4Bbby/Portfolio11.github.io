@@ -20,52 +20,29 @@
 						<div class="inner">
 							<!-- Header -->
 								<header id="header">
-									<a href="Contacts8.php" class="logo"><strong>Me suivre...&nbsp </strong> &nbsp &nbsp &nbsp ici &nbsp →  <div align="center"><h1><a href="PageAccueil.php">Projets</h1></a></div>  </a>
-									<ul class="icons">
+								<div align="center"><h1><a href="PageAccueil.php">Projets</h1></a></div>  </a>
 									
-										<li><a href="https://github.com/Creepy4Bbby" class="icon brands fab fa-github"><span class="label">GitHub</span></a></li>
-										<li><a href="Contacts8.php" class="icon brands fab fa-linkedin "><span class="label">Linkdin</span></a></li>
-										
-									</ul>
 								</header>
 
- 
+ <!-- HAUT DE PAGE  -->
 								<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
  
 
-								<!-- HAUT DE PAGE  -->
- <script>
-			 jQuery(function(){
-				 $(function () {
-					 $(window).scroll(function () {
-						 if ($(this).scrollTop() > 200 ) { 
-							 $('#scrollUp').css('right','30px');
-						 } else { 
-							 $('#scrollUp').removeAttr( 'style' );
-						 }
-  
-					 });
-				 });
-			 });
- </script>
-  
 
-							<!-- Section -->
-								<section>
 
 								
-
 									<header>
+										<br>
 									<center>	<h2>Différents contextes de mes projets : </h2> </center>
+									
 									</header>
-
+<br>
 								<!-- SOMMAIRE DES DIFFERENTES PARTIE DE LA PAGE  -->
 								<div class="features">
 										<article>
 										<span class="icon solid fas fas fa-briefcase"></span>
 											<div class="content">
 								<div align="center"><a href="#Scolaire"><h3 id="#">SCOLAIRE</h3></a></div>
-												<p></p>
 											</div>
 										</article>
 										<article>
@@ -92,6 +69,8 @@
 									<header class="major">
 									<h2 id="Scolaire">SCOLAIRE</h2></a>
 									</header>
+									<br>
+									<br>
 									<div class="posts">
 									
 									<!-- Activité 1 sur la M2l  -->
@@ -99,7 +78,7 @@
 									<article>
 											<a href="M2L.php" class="image"><img src="images/M2L.jpg" alt="" /></a>
 											<h3> La Maison Des Ligues </h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+											<p>Aenean ornare velit lacus, </p>
 											<ul class="actions">
 												<li> <button id="togg1">En savoir plus...</button>
 											
@@ -301,3 +280,18 @@ d1.style.display = "block";
 }
 })
       </script>
+	  								<!-- HAUT DE PAGE  -->
+ <script>
+			 jQuery(function(){
+				 $(function () {
+					 $(window).scroll(function () {
+						 if ($(this).scrollTop() > 200 ) { 
+							 $('#scrollUp').css('right','30px');
+						 } else { 
+							 $('#scrollUp').removeAttr( 'style' );
+						 }
+  
+					 });
+				 });
+			 });
+ </script>
