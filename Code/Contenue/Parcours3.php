@@ -7,109 +7,89 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
-		<link rel="stylesheet" href="test.css">
+		<!-- <link rel="stylesheet" href="test.css"> -->
+		<link rel="stylesheet" href="assets/css/timeline.css" />
 
 
-
-
-
-
-
-		<!-- _________________ -->
-
-
-		
 	</head>
 	<body class="is-preload">
-
-
-	
 		<!-- Wrapper -->
 			<div id="wrapper">
 
-
+		
 				<!-- Main -->
 					<div id="main">
+					
 						<div class="inner">
 
-
-
+					
+						
 									<!-- Header -->
 									<header id="header">
-									<a href="Contacts8.php" class="logo"><strong>Me suivre...&nbsp </strong> &nbsp &nbsp &nbsp ici &nbsp →  </a><div align="center"><h1><a href="PageAccueil.php">Parcours</h1></a></div>
-
-									<ul class="icons">
-										<li><a href="https://github.com/Creepy4Bbby" class="icon brands fab fa-github"><span class="label">GitHub</span></a></li>
-										<li><a href="Contacts8.php" class="icon brands fab fa-linkedin "><span class="label">Linkdin</span></a></li>
-										
-									</ul>
+									<section>
+									 <div align="center"><h1><a href="PageAccueil.php">Parcours</h1></a></di>	
+									 
 								</header>
-
-
-							<!-- Section
-								<section>
+<!-- Diplomes -->
+								
 									<header class="major">
-										<h2>Diplôme</h2>
+										<br>
+										<h2>Diplômes</h2>
 									</header>
-									<div class="features">
-										<article>
-											<span class="icon fa-gem"></span>
-											<div class="content">
-												<h3>BTS SIO SLAM 2020 - 2022</h3>
-												<p>En cours de préparation à l'école d'ingénieur EFREI Paris.</p>
-											</div>
-										</article>
-										<article>
-											<span class="icon solid fa-paper-plane"></span>
-											<div class="content">
-												<h3>Baccalauréat 2017 - 2020</h3>
-												<p>Titualire d'un baccalauréat Système Numérique</p>
-											</div>
-										</article>
-									</div>
-								</section> -->
-
-
+									
+							
+<!-- Timeline -->
 
 								<ol>
-  <li>
-    <p class="diplome">BAC S</p>
-    <span class="point"></span>
-    <p class="description">
-      Ceci est la description du bac S
-    </p>
-  </li>
-  <li>
-    <p class="diplome">BTS / DUT</p>
-    <span class="point"></span>
-    <p class="description">En lien avec la biologie et/ou la zoologie</p>
-  </li>
-  <li>
-    <p class="diplome">Licence</p>
-    <span class="point"></span>
-    <p class="description">En lien avec la biologie et/ou la zoologie</p>
-  </li>
-  
-</ol>
+									<li>
+										<p class="diplome">BAC Système Nuémrique <br>Option C</p>
+										<p class="date">2017 - 2020</p>
+										<span class="point"></span>
+										<p class="description">
+											Option C = réseaux informatiques et systèmes communicants (RISC)
+										</p>
+									</li>
+									<li>
+										<p class="diplome">BTS SIO <br>SLAM <br></p>
+										<p class="date">2020 - 2022</p>
+										<span class="point"></span>
+										<p class="description">Services informatiques aux organisations option SLAM = Solutions Logicielles et Applications Métiers</p>
+									</li>
+									<li>
+										<p class="diplome">Bachelor Cybersécurity & Ethical Hacking <br><br></p>
+										<p class="date">2022 - 2023<br>A venir ↑ </p>
+										<span class="point"></span>
+										<p class="description">En lien avec la biologie et/ou la zoologie</p>
+									</li>
+									
+									</ol>
+									</section>
+<!-- //Experience pro  -->
+									<br>
+									<header class="major">
+										<h2>Expériences professionnelle</h2>
+									</header>
+									<div class="features">
+										
+									</div>
+								</section>
 
 
 
-						
-						
-								
 
 						</div>
 					</div>
+
+
+
+
+						<!-- MENU -->
+
 
 				<!-- Sidebar -->
 					<div id="sidebar">
 						<div class="inner">
 
-
-							
-
-
-							<!-- MENU -->
 							<nav id="menu" class="major">
 								
 										<h2><u>Menu</u></h2>
@@ -124,14 +104,6 @@
 										<li><a href="Contacts8.php">Contacts</a></li>
 										<li><a href="elements.html">Elements</a></li>
 										<li>
-											<span class="opener">Submenu</span>
-											<ul>
-												<li><a href="#">Lorem Dolor</a></li>
-												<li><a href="#">Ipsum Adipiscing</a></li>
-												<li><a href="#">Tempus Magna</a></li>
-												<li><a href="#">Feugiat Veroeros</a></li>
-											</ul>
-										</li>
 										<li><a href="#">Etiam Dolore</a></li>
 									
 </nav>
