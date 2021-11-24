@@ -1,89 +1,135 @@
 
-/* ///////////Timeline */
-
-
-/* ---- Timeline ---- */
-/* trait de la fleche  */
-ol {
-	position: relative;
-	display: block;
-	margin: 100px;
-	height: 6px;
-	background: #31708F;
-}
-ol::before,
-
-ol::before {
-	left: -5px;
-}
-/* bout de la fleche  */
-
-
-/* ---- Timeline elements ---- */
-li {
-	position: relative;
-	display: inline-block;
-	float: left;
-	width: 220px;
-	font: bold 14px arial;
-  height: 50px;
-}
-li .diplome {
-  position: absolute;
-  top: -60px;
-  left: 36%;
-  color: #000000;
-}
-li .date{
-    position: absolute;
-    top: 47px;
-    left: 36%;
-    color: #000000;
-}
-li .point {
-	content: "";
-	top: -4px;
-	left: 43%;
-	display: block;
-	width: 6px;
-	height: 6px;
-	border: 10px solid #31708F;
-	border-radius: 10px;
-	background: #fff;
-  position: absolute;
-}
-li .description {
-  display: none;
-  background-color: #f4f4f4;
-  padding: 10px;
-  margin-top: 20px;
-  position: relative;
-  font-weight: normal;
-  z-index: 1;
-}
-.description::before {
-  content: '';
-  width: 0; 
-  height: 0; 
-  border-left: 5px solid transparent;
-  border-right: 5px solid transparent;
-  border-bottom: 5px solid #f4f4f4;
-  position: absolute;
-  top: -5px;
-  left: 43%;
-}
-
-/* ---- Hover effects ---- */
-li:hover {
-	cursor: pointer;
-  color: #48A4D2;
-}
-li:hover .description {
-  display: block;
-}
-
-
-
 /* _______________Vericale_______________________________________
 */
+ /* fleche vertical  */
+.cbp_tmtimeline {
+  margin: 60px 30px 0 0;
+  padding: 0;
+  list-style: none;
+  position: relative;
+}
+
+.cbp_tmtimeline:before {
+  content: '';
+  position: absolute;
+  top: 3%;
+  bottom: 0;
+  width: 10px;
+  background: #1e8be4;
+  left: 13%;
+  height: 100%;
+}
+
+.cbp_tmtimeline > li .cbp_tmlabel {
+  margin: 0 0 15px 25%;
+  background: #1e8be4;
+  color: #FFF;
+  padding: 30px;
+  font-size: 1.2em;
+  font-weight: 300;
+  line-height: 1.4;
+  font-family: 'Open Sans';
+  position: relative;
+  border-radius: 5px;
+  min-height: 150px;
+}
+
+.cbp_tmtimeline > li:nth-child(odd) .cbp_tmlabel {
+  background: #1e8be4;
+}
+
+.cbp_tmtimeline > li .cbp_tmlabel h3 {
+  margin-top: 0px;
+  color: white;
+  font-size: 20px;
+  margin-bottom: 5px;
+  padding: 0 0 10px 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+}
+
+.cbp_tmtimeline > li .cbp_tmlabel h4 i {
+  margin-right: 5px;
+  vertical-align: middle;
+}
+
+.cbp_tmtimeline > li .cbp_tmlabel:after {
+  right: 100%;
+  border: solid transparent;
+  content: " ";
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+  border-right-color: rgba(50, 68, 84, 1);
+  border-width: 10px;
+  top: 70px;
+}
+
+.cbp_tmtimeline > li:nth-child(odd) .cbp_tmlabel:after {
+  border-right-color: #2B3A48;
+}
+
+.cbp_tmtimeline > li .cbp_tmicon {
+  width: 150px;
+  height: 150px;
+  top: 3%;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  font-size: 1.4em;
+  line-height: 40px;
+  -webkit-font-smoothing: antialiased;
+  position: absolute;
+  background: #000000;
+  border-radius: 50%;
+  text-align: center;
+  left: 8%;
+  margin: 0 0 0 -25px;
+}
+
+.cbp_tmtimeline li {
+  margin-bottom: 70px;
+  position: relative;
+}
+
+
+
+
+.faPra {
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 70px;
+  vertical-align: middle;
+  color: white;
+  line-height: 150px;
+}
+
+
+.date {
+  color: #BFC3C7;
+  display: block;
+  font-size: 14px;
+  font-weight: 600;
+  position: absolute;
+  top: 30px;
+  right: 20px;
+}
+
+.date i {
+  margin-right: 8px;
+  vertical-align: top;
+  font-size: 18px;
+  line-height: 20px;
+}
+
+
+
+
 
