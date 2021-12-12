@@ -106,7 +106,7 @@
 
 										<!-- snake -->
 										<article>
-											<a href="#" class="image"><img src="images/Portf.jpg" alt="" /></a>
+											<a href="#" class="image"><img src="images/snake.png" alt="" /></a>
 											<h3>SNAKE 2.0</h3>
 											<p>Reproduction libre du célébre jeu snake programmer en C</p>
 											<ul class="actions">
@@ -125,7 +125,7 @@
 										</article>
 									<!-- calculatrice -->
 										<article>
-											<a href="#" class="image"><img src="images/Portf.jpg" alt="" /></a>
+											<a href="#" class="image"><img src="images/cal.png" alt="" /></a>
 											<h3>Calculatrice</h3>
 											<p>en c</p>
 											<ul class="actions">
