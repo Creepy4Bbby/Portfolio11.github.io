@@ -90,9 +90,6 @@
     </div>
 
 
-
-
-
 										</article>
 
 			 						<!-- Fin de l'activité  1  -->
@@ -107,6 +104,36 @@
 											</ul>
 										</article>
 
+										<!-- snake -->
+										<article>
+											<a href="#" class="image"><img src="images/Portf.jpg" alt="" /></a>
+											<h3>SNAKE 2.0</h3>
+											<p>Reproduction libre du célébre jeu snake programmer en C</p>
+											<ul class="actions">
+												<li><a href="#" class="button">More</a></li>
+											</ul>
+										</article>
+
+										<!-- banque -->
+										<article>
+											<a href="#" class="image"><img src="images/Portf.jpg" alt="" /></a>
+											<h3>Banque</h3>
+											<p>Creation d'une interface en C# de compte en banque côté gestionnaire</p>
+											<ul class="actions">
+												<li><a href="#" class="button">More</a></li>
+											</ul>
+										</article>
+									<!-- calculatrice -->
+										<article>
+											<a href="#" class="image"><img src="images/Portf.jpg" alt="" /></a>
+											<h3>Calculatrice</h3>
+											<p>en c</p>
+											<ul class="actions">
+												<li><a href="#" class="button">More</a></li>
+											</ul>
+										</article>
+					
+
 							<!-- Section  pro  -->	
 
 										</section>
@@ -114,19 +141,22 @@
 									<header class="major">
 									<h2 id="Pro">PROFESSIONNEL</h2></a>
 									</header>
+									<br>
+									<br>
 									<div class="posts">
+										
 										<article>
 											<a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
-											<h3>Tempus ullamcorper</h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+											<h3>Configurateur DRM </h3>
+											<p>Afin de paramétré des DRM pour les techniciens j'ai creer un configurateur</p>
 											<ul class="actions">
 												<li><a href="#" class="button">More</a></li>
 											</ul>
 										</article>
 										<article>
 											<a href="#" class="image"><img src="images/pic04.jpg" alt="" /></a>
-											<h3>Sed etiam facilis</h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+											<h3>Statsofts</h3>
+											<p>Creation application de statistique</p>
 											<ul class="actions">
 												<li><a href="#" class="button">More</a></li>
 											</ul>
@@ -139,11 +169,13 @@
 									<header class="major">
 									<h2 id="Perso">PERSONNEL</h2></a>
 									</header>
+									<br>
+									<br>
 									<div class="posts">
 										<article>
 											<a href="#" class="image"><img src="images/pic05.jpg" alt="" /></a>
-											<h3>Feugiat lorem aenean</h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+											<h3>Site web assistante maternelle</h3>
+											<p>Ma mère ayant besoin d'un plateforme pour communiquer avec les parents des enfants qu'elle garde j'ai donc creer un site à cet effet</p>
 											<ul class="actions">
 												<li><a href="#" class="button">More</a></li>
 											</ul>
