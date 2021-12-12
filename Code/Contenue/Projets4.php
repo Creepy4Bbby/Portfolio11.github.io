@@ -116,7 +116,7 @@
 
 										<!-- banque -->
 										<article>
-											<a href="#" class="image"><img src="images/Portf.jpg" alt="" /></a>
+											<a href="#" class="image"><img src="images/banque.png" alt="" /></a>
 											<h3>Banque</h3>
 											<p>Creation d'une interface en C# de compte en banque côté gestionnaire</p>
 											<ul class="actions">
