@@ -101,24 +101,27 @@
 								
 
 <!-- Timeline pro -->
+
 <div class="timeline">
   <div class="timeline__component">
-    <div class="timeline__date timeline__date--right">2001</div>
+    <div class="timeline__date timeline__date--right">2017 & 2019 </div>
   </div>
   <div class="timeline__middle">
     <div class="timeline__point"></div>
   </div>
   <div class="timeline__component timeline__component--bg">
-    <h2 class="timeline__title">The beggining</h2>
+    <h2 class="timeline__title">Serveuse (Job été)</h2>
     <p class="timeline__paragraph">
-      RIETE is set up in 2001 with 25 Spanish physicians participating in sharing the data of their patients in a single database.
+      (1x 2 mois) <br>
+	  Communications avec les clients (services en salle/bar/terrasse)<br>
+	  <a href="https://cafebleuroi-versailles.fr/" target="_blank">Café bleu roi, Versailles</a>
     </p>
   </div>
   
   <div class="timeline__component timeline__component--bg">
-    <h2 class="timeline__title">The first article</h2>
+    <h2 class="timeline__title">Technicienne de maintenance</h2>
     <p class="timeline__paragraph">
-      We publish our first original article, at <span class = "titol"><a href="https://pubmed.ncbi.nlm.nih.gov/15529451/" target="_blank">The New England Journal of Medicine</a></span>.
+      Brassage , Maintenances reseau + parc informatique<br>  <span class = "titol"><a href="https://www.versailles.fr/" target="_blank">Mairie , Versailles</a></span>.
     </p>
   </div>
   
@@ -126,27 +129,27 @@
     <div class="timeline__point"></div>
   </div>
   <div class="timeline__component">
-    <div class="timeline__date">2004</div>
+    <div class="timeline__date">2017 (stage de 4 sem)</div>
   </div>
   
   <div class="timeline__component">
-    <div class="timeline__date timeline__date--right">2006</div>
+    <div class="timeline__date timeline__date--right">2018 (stage de 8 sem)</div>
   </div>
   <div class="timeline__middle">
     <div class="timeline__point"></div>
   </div>
   
   <div class="timeline__component timeline__component--bg">
-    <h2 class="timeline__title">RIETE around the world</h2>
+    <h2 class="timeline__title">Technicienne de maintenance</h2>
     <p class="timeline__paragraph">
-      The database's website is translated into English, aimed to expand RIETE to other countries.
+     Migration des boites Office 365 ( + maintenances liés aux problèmes liés à la migration)<br><span class = "titol"><a href="https://www.energiemutuelle.fr/" target="_blank">Energie Mutuelle , Paris</a></span>.
     </p>
   </div>
  
   <div class="timeline__component timeline__component--bottom timeline__component--bg">
-    <h2 class="timeline__title">Who dies of a pulmonary embolism?</h2>
+    <h2 class="timeline__title">Technicienne informatique</h2>
     <p class="timeline__paragraph">
-      In 2008 <span class = "titol"><a href="https://pubmed.ncbi.nlm.nih.gov/18347212/" target="_blank">Circulation</a></span> we publish an article where we identify patients with a higher risk to die of a pulmonary embolism.
+      Création de macro sur Excel & de Logiciels Akio + Création d'image ghost <br><span class = "titol"><a href="https://www.edf.fr/" target="_blank">Tour EDF , Courbevoie</a></span> 
     </p>
   </div>
   
@@ -156,7 +159,7 @@
     <div class="timeline__point timeline__point--bottom"></div>
   </div>
   <div class="timeline__component timeline__component--bottom">
-    <div class="timeline__date">2008</div>
+    <div class="timeline__date">2019 (stage de 8 sem)</div>
   </div>
 </div>
 
