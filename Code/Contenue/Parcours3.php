@@ -34,7 +34,10 @@
 
 <!-- Section -->
 
+<br>
+
 									<div class="features">
+									
 										<article>
 										<span class="icon solid fas fas fa-briefcase"></span>
 											<div class="content">
@@ -59,7 +62,7 @@
 									</header>
 									
 							
-		<!-- Timeline -->
+		<!-- Timeline scolaire  -->
 
 								<ol>
 									<li>
@@ -97,60 +100,125 @@
 									</div>
 								
 
-<!-- ________________________________ -->
-<!-- 
-	
-<div id="workexperience" class="sectionClass">
-  <div class="row ">
-    <div class="fullWidth eight columns">
-      <ul class="cbp_tmtimeline">
-        <li>
-          <div class="cbp_tmicon cbp_tmicon-phone">
-            <i class="faPra fa-briefcase"></i>
-          </div>
-          <div class="cbp_tmlabel wow fadeInRight animated">
-            <h3>Web developer</h3>
-            <div class="date">
-              <i class="fa fa-calendar"></i>April 2014 - Current
-            </div>
-            <h4><i class="fa fa-flag"></i>Davic Company, Bratislava</h4>
-            <p class="projectParagraph">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit obcaecati ipsa quae, iusto laudantium qui, nisi eum modi perspiciatis quasi facilis corporis iure soluta enim incidunt itaque aspernatur sequi tempora.</p>
-          </div>
-        </li>
-        <li>
-          <div class="cbp_tmicon cbp_tmicon-screen">
-            <i class="faPra fa-briefcase"></i>
-          </div>
-          <div class="cbp_tmlabel wow fadeInRight animated">
-            <h3>Web designer</h3>
-            <h4><i class="fa fa-flag"></i>Fannous Company, Prague</h4>
-            <div class="date"><i class="fa fa-calendar"></i>June 2012 - April 2014</div>
-            <p class="projectParagraph">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt quasi perspiciatis, aliquid sed maiores accusamus. Adipisci quidem nostrum quos quae doloremque esse a, ipsum earum, recusandae omnis dignissimos et sint.</p>
-          </div>
-        </li>
-        <li>
-          <div class="cbp_tmicon cbp_tmicon-mail">
-            <i class="faPra fa-briefcase"></i>
-          </div>
-          <div class="cbp_tmlabel wow fadeInRight animated">
-            <h3>Web </h3>
-            <h4><i class="fa fa-flag"></i>Techixs Company, London</h4>
-            <div class="date"><i class="fa fa-calendar"></i>November 2009 - June 2012</div>
-            <p class="projectParagraph">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla labore atque alias ipsa, nam quod rerum repellat cumque, aliquam sequi vitae voluptatibus cum soluta incidunt tempore accusamus eius sed excepturi!Lorem ipsum dolor sit amet,
-              consectetur adipisicing elit. Tempora natus veritatis aperiam repellendus dolor vel, expedita assumenda eos, mollitia quae ullam esse voluptas vero. Dolores culpa eaque vitae eum quibusdam?</p>
-
-          </div>
-        </li>
-       
-      </ul>
-    </div>
+<!-- Timeline pro -->
+<div class="timeline">
+  <div class="timeline__component">
+    <div class="timeline__date timeline__date--right">2001</div>
+  </div>
+  <div class="timeline__middle">
+    <div class="timeline__point"></div>
+  </div>
+  <div class="timeline__component timeline__component--bg">
+    <h2 class="timeline__title">The beggining</h2>
+    <p class="timeline__paragraph">
+      RIETE is set up in 2001 with 25 Spanish physicians participating in sharing the data of their patients in a single database.
+    </p>
+  </div>
+  
+  <div class="timeline__component timeline__component--bg">
+    <h2 class="timeline__title">The first article</h2>
+    <p class="timeline__paragraph">
+      We publish our first original article, at <span class = "titol"><a href="https://pubmed.ncbi.nlm.nih.gov/15529451/" target="_blank">The New England Journal of Medicine</a></span>.
+    </p>
+  </div>
+  
+  <div class="timeline__middle">
+    <div class="timeline__point"></div>
+  </div>
+  <div class="timeline__component">
+    <div class="timeline__date">2004</div>
+  </div>
+  
+  <div class="timeline__component">
+    <div class="timeline__date timeline__date--right">2006</div>
+  </div>
+  <div class="timeline__middle">
+    <div class="timeline__point"></div>
+  </div>
+  
+  <div class="timeline__component timeline__component--bg">
+    <h2 class="timeline__title">RIETE around the world</h2>
+    <p class="timeline__paragraph">
+      The database's website is translated into English, aimed to expand RIETE to other countries.
+    </p>
+  </div>
+ 
+  <div class="timeline__component timeline__component--bottom timeline__component--bg">
+    <h2 class="timeline__title">Who dies of a pulmonary embolism?</h2>
+    <p class="timeline__paragraph">
+      In 2008 <span class = "titol"><a href="https://pubmed.ncbi.nlm.nih.gov/18347212/" target="_blank">Circulation</a></span> we publish an article where we identify patients with a higher risk to die of a pulmonary embolism.
+    </p>
+  </div>
+  
+  
+  <div class="timeline__middle">
+    <div class="timeline__point"></div>
+    <div class="timeline__point timeline__point--bottom"></div>
+  </div>
+  <div class="timeline__component timeline__component--bottom">
+    <div class="timeline__date">2008</div>
   </div>
 </div>
 
-</section>
- -->
 
-<!-- ______________________________________ -->
+<div class="timeline">
+  <div class="timeline__component">
+    <div class="timeline__date timeline__date--right">2014</div>
+  </div>
+  <div class="timeline__middle">    
+  </div>
+  <div class="timeline__component timeline__component--bg">
+    <h2 class="timeline__title">Better mortality rates</h2>
+    <p class="timeline__paragraph">
+      The Journal American College Cardiology (JACC) publishes a study showing that over 12 years patients included in RIETE have improved their <strong>health</strong>.
+    </p>
+  </div>
+  
+  <div class="timeline__component timeline__component--bg">
+    <h2 class="timeline__title">TROMBO.info, a website for patients</h2>
+    <p class="timeline__paragraph">
+      We launch <a href="https://https://trombo.info/?lang=en/" target="_blank">TROMBO.info</a>, a website to inform patients that uses data from the RIETE registry.
+    </p>
+  </div>
+  
+  <div class="timeline__middle">
+    <div class="timeline__point"></div>
+  </div>
+  <div class="timeline__component">
+  </div>
+  <div class="timeline__component">
+    <div class="timeline__date timeline__date--right">2017</div>
+  </div>
+  <div class="timeline__middle">
+    <div class="timeline__point"></div>
+  </div>
+  
+  <div class="timeline__component timeline__component--bg">
+    <h2 class="timeline__title">Scientific production</h2>
+    <p class="timeline__paragraph">
+      In December, we reached our article number 150.
+    </p>
+  </div>
+ 
+  <div class="timeline__component timeline__component--bottom timeline__component--bg">
+    <h2 class="timeline__title">100,000 patients</h2>
+    <p class="timeline__paragraph">
+      At the beggining of August the RIETE Registry achieves the 100,000 patients.
+    </p>
+  </div>
+  
+  
+  
+  
+  <div class="timeline__middle">
+    <div class="timeline__point"></div>
+    <div class="timeline__point timeline__point--bottom"></div>
+  </div>
+  <div class="timeline__component timeline__component--bottom">
+    <div class="timeline__date">2021</div>
+  </div>
+</div>
+<!-- ________________________________ -->
 
 						</div>
 					</div>
@@ -174,14 +242,10 @@
 										<li><a href="CV7.php">CV</a></li>
 										<li><a href="Contacts8.php">Contacts</a></li>
 										<li><a href="elements.html">Elements</a></li>
-										<li>
-										<li><a href="#">Etiam Dolore</a></li>
+										
 									
-</nav>
+							</nav>
 
-
-
-	
 
 						</div>
 					</div>
