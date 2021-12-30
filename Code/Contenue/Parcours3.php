@@ -166,51 +166,25 @@
 
 <div class="timeline">
   <div class="timeline__component">
-    <div class="timeline__date timeline__date--right">2014</div>
+    <div class="timeline__date timeline__date--right">Août 2020-Février 2021 (6 mois)</div>
   </div>
   <div class="timeline__middle">    
   </div>
   <div class="timeline__component timeline__component--bg">
-    <h2 class="timeline__title">Better mortality rates</h2>
+    <h2 class="timeline__title">Apprentie Développeuse</h2>
     <p class="timeline__paragraph">
-      The Journal American College Cardiology (JACC) publishes a study showing that over 12 years patients included in RIETE have improved their <strong>health</strong>.
+      Modification de la BDD prod & Test interface web + suivi de l'api.<br>
+	  <a href="https://www.servicepostal.com/" target="_blank">Service Postal ,Trappes</a>
     </p>
   </div>
   
-  <div class="timeline__component timeline__component--bg">
-    <h2 class="timeline__title">TROMBO.info, a website for patients</h2>
-    <p class="timeline__paragraph">
-      We launch <a href="https://https://trombo.info/?lang=en/" target="_blank">TROMBO.info</a>, a website to inform patients that uses data from the RIETE registry.
-    </p>
-  </div>
   
-  <div class="timeline__middle">
-    <div class="timeline__point"></div>
-  </div>
-  <div class="timeline__component">
-  </div>
-  <div class="timeline__component">
-    <div class="timeline__date timeline__date--right">2017</div>
-  </div>
-  <div class="timeline__middle">
-    <div class="timeline__point"></div>
-  </div>
-  
-  <div class="timeline__component timeline__component--bg">
-    <h2 class="timeline__title">Scientific production</h2>
-    <p class="timeline__paragraph">
-      In December, we reached our article number 150.
-    </p>
-  </div>
- 
   <div class="timeline__component timeline__component--bottom timeline__component--bg">
     <h2 class="timeline__title">100,000 patients</h2>
     <p class="timeline__paragraph">
       At the beggining of August the RIETE Registry achieves the 100,000 patients.
     </p>
   </div>
-  
-  
   
   
   <div class="timeline__middle">
