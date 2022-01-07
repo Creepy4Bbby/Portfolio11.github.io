@@ -180,9 +180,10 @@
   
   
   <div class="timeline__component timeline__component--bottom timeline__component--bg">
-    <h2 class="timeline__title">100,000 patients</h2>
+    <h2 class="timeline__title">Apprentie Développeuse</h2>
     <p class="timeline__paragraph">
-      At the beggining of August the RIETE Registry achieves the 100,000 patients.
+	Amélioration d’un configurateur pour DRM + Création de documentations et modifications du soft Statstof.  <br>
+	  <a href="https://www.monetik.fr/presentation-de-la-societe/" target="_blank">MONETIK ,Chatou</a>
     </p>
   </div>
   
@@ -192,7 +193,7 @@
     <div class="timeline__point timeline__point--bottom"></div>
   </div>
   <div class="timeline__component timeline__component--bottom">
-    <div class="timeline__date">2021</div>
+    <div class="timeline__date"> Février 2021(fin de contrat 30 août 2022)</div>
   </div>
 </div>
 <!-- ________________________________ -->
@@ -214,7 +215,7 @@
 										<li><a href="PageAccueil.php">Accueil</a></li>
 										<li><a href="Parcours3.php">Parcours</a></li>
 										<li><a href="Projets4.php">Projets</a></li>
-										<li><a href="Experiences5.php">Expériences</a></li>
+										<!-- <li><a href="Experiences5.php">Expériences</a></li> -->
 										<li><a href="Veilles6.php">Veilles</a></li>
 										<li><a href="CV7.php">CV</a></li>
 										<li><a href="Contacts8.php">Contacts</a></li>

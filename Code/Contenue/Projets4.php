@@ -225,7 +225,7 @@
 												<li><a href="#Perso">Personnel</a></li>
 											</ul>
 </li>
-										<li><a href="Experiences5.php">Expériences</a></li>
+										<!-- <li><a href="Experiences5.php">Expériences</a></li> -->
 										<li><a href="Veilles6.php">Veilles</a></li>
 										<li><a href="CV7.php">CV</a></li>
 										<li><a href="Contacts8.php">Contacts</a></li>
