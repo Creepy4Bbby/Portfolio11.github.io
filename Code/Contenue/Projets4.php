@@ -255,7 +255,15 @@
 										</article>
 									</div>
 									<ul class="actions">
-										<li><a href="#" class="button">More</a></li>
+										<li><a href="image/efrei.jpg" class="button">Moe</a></li>
+
+										
+
+
+
+
+
+
 									</ul>
 								</section>
 
