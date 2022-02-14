@@ -1,140 +1,76 @@
-<?php
-
-include 'Header.php';
-
-?>
 <!DOCTYPE HTML>
-<!--
-	Editorial by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
+
 <html>
 	<head>
 		<title>Portfolio</title>
 		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
+	    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" /> 
+		<link rel="stylesheet" href="assets/css/main.css" /> 
+        <link rel="stylesheet" href="Header.html" />
 	</head>
 	<body class="is-preload">
 
-		<!-- Titre haut de page  -->
-	<div align="center"><h1><a href="PageAccueil.php">Contact</h1></a></div>
+	
 
-<!-- Wrapper -->
-	<div id="wrapper">
+		<!-- Wrapper -->
+			<div id="wrapper">
 
-							
-		<!-- Main -->
-		<div id="main">
-				<div class="inner">
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<!-- Header -->
+								<header id="header">
+								<div align="center"><h1><a href="PageAccueil.php">Contact</h1></a></div>  </a>
+									
+								</header>
 
-				<header id="header">
-							<a href="Contacts8.php" class="logo"><strong>Me suivre...&nbsp </strong> &nbsp &nbsp &nbsp ici &nbsp →  </a>
-							<ul class="icons">
-								<li><a href="https://github.com/Creepy4Bbby" class="icon brands fab fa-github"><span class="label">GitHub</span></a></li>
-								<li><a href="Contacts8.php" class="icon brands fab fa-linkedin "><span class="label">Linkdin</span></a></li>
-								
-							</ul>
-						</header>
+ <!-- HAUT DE PAGE  -->
+								<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+ 
 
 
-						<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+</div>				
 
 
-						<!-- HAUT DE PAGE  -->
-						<style> 
-i { 
-color: #1c87c9; 
-text-shadow: 2px 2px 4px #00ffff; 
-font-size: 30px; 
-} 
-</style>
-						
-<script>
-	 jQuery(function(){
-		 $(function () {
-			 $(window).scroll(function () {
-				 if ($(this).scrollTop() > 200 ) { 
-					 $('#scrollUp').css('right','30px');
-				 } else { 
-					 $('#scrollUp').removeAttr( 'style' );
-				 }
-
-			 });
-		 });
-	 });
-</script>
-<br>
-<div class="container">
-  <center><h1>Formulaire de contact</h1></center>
-  <form action="/action_page.php">
-    <label for="fname">Nom</label>
-    <input type="text" id="fname" name="firstname" placeholder="Votre nom">
-
-	<label for="fname">Prénom</label>
-    <input type="text" id="name" name="name" placeholder="Votre prénom">
-
-    <label for="sujet">Sujet</label>
-    <input type="text" id="sujet" name="sujet" placeholder="L'objet de votre message">
-
-    <label for="emailAddress">Email</label>
-    <input id="emailAddress" type="email" name="email" placeholder="Votre email">
 
 
-    <label for="subject">Message</label>
-    <textarea id="subject" name="subject" placeholder="Votre message" style="height:200px"></textarea>
-	 <br>
-    <input type="submit" value="Envoyer">
-  </form>
-</div>
-							
-							
-<!-- Sidebar -->
-<div id="sidebar">
+				<!-- Sidebar -->
+					<div id="sidebar">
 						<div class="inner">
 
-							<!-- Search -->
+							<!-- Search
 								<section id="search" class="alt">
 									<form method="post" action="#">
 										<input type="text" name="query" id="query" placeholder="Search" />
 									</form>
-								</section>
+								</section> -->
 
-							<!-- Menu -->
+							<!-- MENU -->
 								<nav id="menu">
 									<header class="major">
 										<h2>Menu</h2>
 									</header>
 									<ul>
-										<li><a href="index.html">Homepage</a></li>
-										<li><a href="PageAccueil.html">Generic</a></li>
+										<li><a href="PageAccueil.php">Accueil</a></li>
+										<li><a href="Parcours3.php">Parcours</a></li>
+										<li><a href="E4.php">Epreuve E4</a></li>
+										<li>
+										<span class="opener">Projets</span>
+											<ul>
+												<li><a href="#Scolaire">Scolaire</a></li>
+												<li><a href="#Pro">Professionel</a></li>
+												<li><a href="#Perso">Personnel</a></li>
+											</ul>
+</li>
+										<!-- <li><a href="Experiences5.php">Expériences</a></li> -->
+										<li><a href="Veilles6.php">Veilles</a></li>
+										<li><a href="CV7.php">CV</a></li>
+										<li><a href="Contacts8.php">Contacts</a></li>
 										<li><a href="elements.html">Elements</a></li>
-										<li>
-											<span class="opener">Submenu</span>
-											<ul>
-												<li><a href="#">Lorem Dolor</a></li>
-												<li><a href="#">Ipsum Adipiscing</a></li>
-												<li><a href="#">Tempus Magna</a></li>
-												<li><a href="#">Feugiat Veroeros</a></li>
-											</ul>
-										</li>
-										<li><a href="#">Etiam Dolore</a></li>
-										<li><a href="#">Adipiscing</a></li>
-										<li>
-											<span class="opener">Another Submenu</span>
-											<ul>
-												<li><a href="#">Lorem Dolor</a></li>
-												<li><a href="#">Ipsum Adipiscing</a></li>
-												<li><a href="#">Tempus Magna</a></li>
-												<li><a href="#">Feugiat Veroeros</a></li>
-											</ul>
-										</li>
-										<li><a href="#">Maximus Erat</a></li>
-										<li><a href="#">Sapien Mauris</a></li>
-										<li><a href="#">Amet Lacinia</a></li>
-									</ul>
+</li>
+										
 								</nav>
+
 
 							<!-- Section -->
 								<section>
@@ -143,7 +79,7 @@ font-size: 30px;
 									</header>
 									<div class="mini-posts">
 										<article>
-											<a href="#" class="image"><img src="images/pic07.jpg" alt="" /></a>
+										
 											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
 										</article>
 										<article>
@@ -156,7 +92,15 @@ font-size: 30px;
 										</article>
 									</div>
 									<ul class="actions">
-										<li><a href="#" class="button">More</a></li>
+										<li><a href="image/efrei.jpg" class="button">Moe</a></li>
+
+										
+
+
+
+
+
+
 									</ul>
 								</section>
 
@@ -176,7 +120,7 @@ font-size: 30px;
 
 							<!-- Footer -->
 								<footer id="footer">
-									<p class="copyright">&copy; Untitled. All rights reserved. Demo Images: <a href="https://unsplash.com">Unsplash</a>. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+									<p class="copyright">&copy; 2021.Etudiante à L'Efrei <u>(BTS SIO SLAM).</u></a>.</p>
 								</footer>
 
 						</div>
@@ -191,5 +135,40 @@ font-size: 30px;
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
 
+<!-- icône haut de page -->
+			<div id="scrollUp">
+<a href="#top" class="icon solid fas fa-cloud-upload-alt fa-2x"></a>
+</div>
+
 	</body>
 </html>
+
+<script>
+
+let togg1 = document.getElementById("togg1");
+
+let d1 = document.getElementById("d1");
+
+togg1.addEventListener("click", () => {
+if(getComputedStyle(d1).display != "none"){
+d1.style.display = "none";
+} else {
+d1.style.display = "block";
+}
+})
+      </script>
+	  								<!-- HAUT DE PAGE  -->
+ <script>
+			 jQuery(function(){
+				 $(function () {
+					 $(window).scroll(function () {
+						 if ($(this).scrollTop() > 200 ) { 
+							 $('#scrollUp').css('right','30px');
+						 } else { 
+							 $('#scrollUp').removeAttr( 'style' );
+						 }
+  
+					 });
+				 });
+			 });
+ </script>

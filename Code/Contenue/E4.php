@@ -37,7 +37,7 @@
 										<article>
 										<span class="icon solid fas fas fa-briefcase"></span>
 											<div class="content">
-								<div align="center"><a href="#Scolaire"><h3 id="#">SCOLAIRE</h3></a></div>
+								<div align="center"><a href="#Scolaire"><h3 id="#">TABLEAU DE SYNTHESE </h3></a></div>
 											</div>
 										</article>
 										<article>
@@ -47,13 +47,7 @@
 												<p></p>
 											</div>
 										</article>
-										<article>
-											<span class="icon solid fas fa-user-alt"></span>
-											<div class="content">
-											<div align="center"><a href="#Perso"><h3 id="#">PERSONNEL</h3>
-												<p></p>
-											</div>
-										</article>
+									
 									
 									</div>
 								</section>
@@ -62,7 +56,7 @@
 							<!-- Section  scolaire -->
 								<section>
 									<header class="major">
-									<h2 id="Scolaire">SCOLAIRE</h2></a>
+									<h2 id="Scolaire">TABLEAU DE SYNTHESE </h2></a>
 									</header>
 									<br>
 									<br>
@@ -212,14 +206,8 @@
 										<li><a href="PageAccueil.php">Accueil</a></li>
 										<li><a href="Parcours3.php">Parcours</a></li>
                                         <li><a href="E4.php">Epreuve E4</a></li>
-										<li>
-										<span class="opener">Projets</span>
-											<ul>
-												<li><a href="#Scolaire">Scolaire</a></li>
-												<li><a href="#Pro">Professionel</a></li>
-												<li><a href="#Perso">Personnel</a></li>
-											</ul>
-</li>
+										<li><a href="Projets4.php">Projet</a></li>
+				
 										<!-- <li><a href="Experiences5.php">Expériences</a></li> -->
 										<li><a href="Veilles6.php">Veilles</a></li>
 										<li><a href="CV7.php">CV</a></li>
