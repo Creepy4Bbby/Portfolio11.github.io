@@ -216,7 +216,7 @@
 									<ul>
 										<li><a href="PageAccueil.php">Accueil</a></li>
 										<li><a href="Parcours3.php">Parcours</a></li>
-
+										<li><a href="E4.php">Epreuve E4</a></li>
 										<li>
 										<span class="opener">Projets</span>
 											<ul>
