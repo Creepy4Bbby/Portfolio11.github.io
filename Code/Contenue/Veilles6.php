@@ -46,15 +46,20 @@
 									<div class="content">
 										<header>
 											<h1>Veilles</h1>
+											
 											<p>Voici les différentes veilles sur lesquelles je travaille.</p>
 										</header>
-										<p>Vous retrouverez dans la page ci-dessous quatres veilles portants sur des thèmes différents concernant l'informatique.</p>
+										<p>La veille technologique est une activité qui met en œuvre des techniques d’acquisition, de stockage et d’analyse d’informations, concernant un produit ou un procédé, sur l’état de l’art et l’évolution de son environnement scientifique, technique, industriel ou commercial, afin de collecter, organiser, puis analyser et diffuser les informations pertinentes qui vont permettre d’anticiper les évolutions, et qui vont faciliter l’innovation. </p>
 									</div>
-									<span class="image object">
-										<img src="images/pic10.jpg" alt="" />
-									</span>
 								</section>
-
+								<section id="banner">
+									<div class="content">
+										<header>
+								<strong><h1>Organisations : <br></strong></h1>
+								<h2>Avoir un bon lecteur de flux RSS</h2>
+</header>
+								<p> Le plus simple est d’utiliser un lecteur de flux RSS. Il en existe plein : Firefox, NetVibes, Google Alerts … Personnellement j'utilise Google Alerts qui va m'envoyer un mail par jour concernant les nouveaux articles mis en ligne concernant le sujet de ma veille technologique. Ensuite il faut faire le tri, et ça devient moins drôle ! J'ai créé une adresse mail dédiée à ma veille qui récupère le flux.</p>
+</section>
 							<!-- Veilles -->
 								<section>
 									<div class="posts">
@@ -75,7 +80,7 @@
 														<span id="btnClosev1" class="btnClose">&times;</span> <!-- Bouton Fermer Veille -->
 													</h2>
 													<div>
-														Descriptif détaillé de la veille 1. <!-- Corps de la Veille -->
+														Descriptif détaillé de la veille 1 <!-- Corps de la Veille -->
 													</div>
 												</div>
 											</div>
