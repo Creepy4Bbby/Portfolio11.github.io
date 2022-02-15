@@ -39,14 +39,14 @@
 									<div class="features">
 									
 										<article>
-										<span class="icon solid fas fas fa-briefcase"></span>
+										<span class="icon solid fas fas fa-graduation-cap"></span>
 											<div class="content">
 											<div align="center"><a href="#Scolaire"><h3 id="#">SCOLAIRE</h3></a></div>
 												<p></p>
 											</div>
 										</article>
 										<article>
-										<span class="icon solid fas fas fa-graduation-cap"></span>
+										<span class="icon solid fas fas fa-briefcase"></span>
 											<div class="content">
 											<div align="center"><a href="#Entreprise"><h3 id="#">PROFESSIONNEL</h3></a></div>
 												<p></p>

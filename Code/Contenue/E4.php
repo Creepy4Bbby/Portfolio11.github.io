@@ -35,15 +35,15 @@
 								<!-- SOMMAIRE DES DIFFERENTES PARTIE DE LA PAGE  -->
 								<div class="features">
 										<article>
-										<span class="icon solid fas fas fa-briefcase"></span>
+										<span class="icon solid fas fas fa-graduation-cap"></span>
 											<div class="content">
 								<div align="center"><a href="#Scolaire"><h3 id="#">TABLEAU DE SYNTHESE </h3></a></div>
 											</div>
 										</article>
 										<article>
-										<span class="icon solid fas fas fa-graduation-cap"></span>
+										<span class="icon solid fas fas fa-briefcase"></span>
 											<div class="content">
-											<div align="center"><a href="#Pro"><h3 id="#">PROFESSIONNEL</h3></a></div>
+											<div align="center"><a href="#Pro"><h3 id="#">CONTRAT DE TRAVAIL</h3></a></div>
 												<p></p>
 											</div>
 										</article>
@@ -79,56 +79,13 @@
     </div>
 
 
-										</article>
-
-			 						<!-- Fin de l'activité  1  -->
-
-
-										<article>
-											<a href="#" class="image"><img src="images/Portf.jpg" alt="" /></a>
-											<h3>Portfolio</h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-											<ul class="actions">
-												<li><a href="#" class="button">More</a></li>
-											</ul>
-										</article>
-
-										<!-- snake -->
-										<article>
-											<a href="#" class="image"><img src="images/snake.png" alt="" /></a>
-											<h3>SNAKE 2.0</h3>
-											<p>Reproduction libre du célébre jeu snake programmer en C</p>
-											<ul class="actions">
-												<li><a href="#" class="button">More</a></li>
-											</ul>
-										</article>
-
-										<!-- banque -->
-										<article>
-											<a href="#" class="image"><img src="images/banque.png" alt="" /></a>
-											<h3>Banque</h3>
-											<p>Creation d'une interface en C# de compte en banque côté gestionnaire</p>
-											<ul class="actions">
-												<li><a href="#" class="button">More</a></li>
-											</ul>
-										</article>
-									<!-- calculatrice -->
-										<article>
-											<a href="#" class="image"><img src="images/cal.png" alt="" /></a>
-											<h3>Calculatrice</h3>
-											<p>en c</p>
-											<ul class="actions">
-												<li><a href="#" class="button">More</a></li>
-											</ul>
-										</article>
-					
 
 							<!-- Section  pro  -->	
 
 										</section>
 										<section>
 									<header class="major">
-									<h2 id="Pro">PROFESSIONNEL</h2></a>
+									<h2 id="Pro">CONTRATS DE TRAVAILS</h2></a>
 									</header>
 									<br>
 									<br>
@@ -152,33 +109,7 @@
 										</article>
 										</section>
 
-										<!-- Section  perso -->
-
-								<section>
-									<header class="major">
-									<h2 id="Perso">PERSONNEL</h2></a>
-									</header>
-									<br>
-									<br>
-									<div class="posts">
-										<article>
-											<a href="#" class="image"><img src="images/pic05.jpg" alt="" /></a>
-											<h3>Site web assistante maternelle</h3>
-											<p>Ma mère ayant besoin d'une plateforme pour communiquer avec les parents des enfants qu'elle garde j'ai donc creer un site à cet effet</p>
-											<ul class="actions">
-												<li><a href="#" class="button">More</a></li>
-											</ul>
-										</article>
-										<!-- <article>
-											<a href="#" class="image"><img src="images/pic06.jpg" alt="" /></a>
-											<h3>Amet varius aliquam</h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-											<ul class="actions">
-												<li><a href="#" class="button">More</a></li>
-											</ul>
-										</article> -->
-									</div>
-								</section>
+					
 								
 
 						</div>

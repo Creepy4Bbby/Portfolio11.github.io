@@ -40,7 +40,8 @@
 																
 										<div class="container">
 								
-										<form action="/action_page.php">
+										<!-- <form action="Cv7.php"> -->
+										<form method="post" action="mail.php">
 											<label for="fname">Nom</label>
 											<input type="text" id="fname" name="firstname" placeholder="Votre nom">
 
@@ -51,17 +52,18 @@
 											<input type="text" id="sujet" name="sujet" placeholder="L'objet de votre message">
 
 											<label for="emailAddress">Email</label>
-											<input id="emailAddress" type="email" name="email" placeholder="Votre email">
+											<input id="emailAddress" type="email" name="email" placeholder="Votre email" required>
 
 
 											<label for="subject">Message</label>
-											<textarea id="subject" name="subject" placeholder="Votre message" style="height:200px"></textarea>
+											<textarea id="subject" name="subject" placeholder="Votre message" style="height:150px" required></textarea>
 											<br>
 											<input type="submit" value="Envoyer">
 										</form>
 										</div>
 								
 								</section> 
+					
 							
 											
 
