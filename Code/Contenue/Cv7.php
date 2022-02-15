@@ -1,13 +1,6 @@
-<?php
-include 'header.php';
-?>
 
 <!DOCTYPE HTML>
-<!--
-	Editorial by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
+
 <html>
 	<head>
 		<title>Portfolio</title>
@@ -17,8 +10,7 @@ include 'header.php';
 	</head>
 	<body class="is-preload">
 
-	<div align="center"><h1><a href="PageAccueil.php">CV</h1></a></div>
-
+	
 		<!-- Wrapper -->
 			<div id="wrapper">
 
@@ -28,7 +20,7 @@ include 'header.php';
 
 								<!-- Header -->
 								<header id="header">
-									<a href="Contacts8.php" class="logo"><strong>Me suivre...&nbsp </strong> &nbsp &nbsp &nbsp ici &nbsp →  </a>
+									<a href="Contacts8.php" class="logo"><strong>Me suivre...&nbsp </strong> &nbsp &nbsp &nbsp ici &nbsp → <div align="center"><h1><a href="PageAccueil.php">CV</h1></a></div> </a>
 									<ul class="icons">
 										<li><a href="https://github.com/Creepy4Bbby" class="icon brands fab fa-github"><span class="label">GitHub</span></a></li>
 										<li><a href="Contacts8.php" class="icon brands fab fa-linkedin "><span class="label">Linkdin</span></a></li>
@@ -38,12 +30,14 @@ include 'header.php';
 
 							<!-- Banner -->
 								<section id="banner">
-									
+								<div class="container">
 								<!-- Affichage du cv  -->
 								<center> <a href="images/cv.jpg"class="image"><center><img src="images/cv.jpg" alt="image" width="100" height="100" /></center></a>
 										
 									</center>
-								
+
+									
+</div>
 								</section> 
 							
 												<!-- Bouton telecharger mon CV -->								
@@ -61,10 +55,10 @@ include 'header.php';
 						
 
 								<!-- MENU -->
-								<nav id="menu">
-									<header class="major">
-										<h2>Menu</h2>
-									</header>
+								<nav id="menu" class="major">
+									
+										<u><h2>Menu</h2></U>
+								
 									<ul>
 										<li><a href="PageAccueil.php">Accueil</a></li>
 										<li><a href="Parcours3.php">Parcours</a></li>
@@ -87,7 +81,7 @@ include 'header.php';
 								</nav>
 
 							<!-- Section -->
-								<section>
+								<!-- <section>
 									<header class="major">
 										<h2>Ante interdum</h2>
 									</header>
@@ -108,10 +102,10 @@ include 'header.php';
 									<ul class="actions">
 										<li><a href="#" class="button">More</a></li>
 									</ul>
-								</section>
+								</section> -->
 
 							<!-- Section -->
-								<section>
+								<!-- <section>
 									<header class="major">
 										<h2>Get in touch</h2>
 									</header>
@@ -122,12 +116,12 @@ include 'header.php';
 										<li class="icon solid fa-home">1234 Somewhere Road #8254<br />
 										Nashville, TN 00000-0000</li>
 									</ul>
-								</section>
+								</section> -->
 
 							<!-- Footer -->
-								<footer id="footer">
+								<!-- <footer id="footer">
 									<p class="copyright">&copy; Untitled. All rights reserved. Demo Images: <a href="https://unsplash.com">Unsplash</a>. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
-								</footer>
+								</footer> -->
 
 						</div>
 					</div>

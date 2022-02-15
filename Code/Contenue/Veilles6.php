@@ -192,10 +192,10 @@
 
 
 							<!-- MENU -->
-							<nav id="menu">
-									<header class="major">
+							<nav id="menu" class="major">
+									
 										<h2>Menu</h2>
-									</header>
+				
 									<ul>
 										<li><a href="PageAccueil.php">Accueil</a></li>
 										<li><a href="Parcours3.php">Parcours</a></li>
@@ -209,12 +209,10 @@
 </nav>
 
 
-
-						
 							<!-- Footer -->
-								<footer id="footer">
+								<!-- <footer id="footer">
 									<p class="copyright">&copy; Untitled. All rights reserved. Demo Images: <a href="https://unsplash.com">Unsplash</a>. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
-								</footer>
+								</footer> -->
 
 						</div>
 					</div>
