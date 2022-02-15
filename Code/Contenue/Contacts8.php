@@ -1,6 +1,10 @@
 
 <!DOCTYPE HTML>
-
+<!--
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
 <html>
 	<head>
 		<title>Portfolio</title>
@@ -11,97 +15,89 @@
 	<body class="is-preload">
 
 	
+
 		<!-- Wrapper -->
-		<div id="wrapper">
+			<div id="wrapper">
 
-<!-- Main -->
-	<div id="main">
-		<div class="inner">
-			<!-- Header -->
-				<header id="header">
-				<div align="center"><h1><a href="PageAccueil.php">Contacts</h1></a></div>  </a>
-					
-				</header>
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
 
+								<!-- Header -->
+								<header id="header">
+									<a href="Contacts8.php" class="logo"><strong>Me suivre...&nbsp </strong> &nbsp &nbsp &nbsp ici &nbsp →  </a>
+									<div align="center"><h1><a href="PageAccueil.php">Contact</h1></a></div>
+									<ul class="icons">
+										<li><a href="https://github.com/Creepy4Bbby" class="icon brands fab fa-github"><span class="label">GitHub</span></a></li>
+										<li><a href="Contacts8.php" class="icon brands fab fa-linkedin "><span class="label">Linkdin</span></a></li>
+										
+									</ul>
+								</header>
 
-						<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+							<!-- Banner -->
+								<section id="banner">
+									
+																
+										<div class="container">
+								
+										<form action="/action_page.php">
+											<label for="fname">Nom</label>
+											<input type="text" id="fname" name="firstname" placeholder="Votre nom">
 
+											<label for="fname">Prénom</label>
+											<input type="text" id="name" name="name" placeholder="Votre prénom">
 
-						<!-- HAUT DE PAGE  -->
-						<style> 
-i { 
-color: #1c87c9; 
-text-shadow: 2px 2px 4px #00ffff; 
-font-size: 30px; 
-} 
-</style>
-						
-<script>
-	 jQuery(function(){
-		 $(function () {
-			 $(window).scroll(function () {
-				 if ($(this).scrollTop() > 200 ) { 
-					 $('#scrollUp').css('right','30px');
-				 } else { 
-					 $('#scrollUp').removeAttr( 'style' );
-				 }
+											<label for="sujet">Sujet</label>
+											<input type="text" id="sujet" name="sujet" placeholder="L'objet de votre message">
 
-			 });
-		 });
-	 });
-</script>
-<br>
-<div class="container">
-  <center><h1>Formulaire de contact</h1></center>
-  <form action="/action_page.php">
-    <label for="fname">Nom</label>
-    <input type="text" id="fname" name="firstname" placeholder="Votre nom">
-
-	<label for="fname">Prénom</label>
-    <input type="text" id="name" name="name" placeholder="Votre prénom">
-
-    <label for="sujet">Sujet</label>
-    <input type="text" id="sujet" name="sujet" placeholder="L'objet de votre message">
-
-    <label for="emailAddress">Email</label>
-    <input id="emailAddress" type="email" name="email" placeholder="Votre email">
+											<label for="emailAddress">Email</label>
+											<input id="emailAddress" type="email" name="email" placeholder="Votre email">
 
 
-    <label for="subject">Message</label>
-    <textarea id="subject" name="subject" placeholder="Votre message" style="height:200px"></textarea>
-	 <br>
-    <input type="submit" value="Envoyer">
-  </form>
-</div>
+											<label for="subject">Message</label>
+											<textarea id="subject" name="subject" placeholder="Votre message" style="height:200px"></textarea>
+											<br>
+											<input type="submit" value="Envoyer">
+										</form>
+										</div>
+								
+								</section> 
 							
-							
-<!-- Sidebar -->
-<div id="sidebar">
+											
+
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+					<div id="sidebar">
+						<div class="inner">
+
 						
-			<!-- MENU -->
-			<nav id="menu">
+
+								<!-- MENU -->
+								<nav id="menu">
 									<header class="major">
 										<h2>Menu</h2>
 									</header>
 									<ul>
 										<li><a href="PageAccueil.php">Accueil</a></li>
 										<li><a href="Parcours3.php">Parcours</a></li>
-										<li><a href="E4.php">Epreuve E4</a></li>
+
 										<li>
 										<span class="opener">Projets</span>
 											<ul>
-												<li><a href="#Scolaire">Scolaire</a></li>
-												<li><a href="#Pro">Professionel</a></li>
-												<li><a href="#Perso">Personnel</a></li>
+												<li><a href="#">Professionel</a></li>
+												<li><a href="#">Scolaire</a></li>
+												<li><a href="#">Personnel</a></li>
 											</ul>
 </li>
-										<!-- <li><a href="Experiences5.php">Expériences</a></li> -->
+										<li><a href="Experiences5.php">Expériences</a></li>
 										<li><a href="Veilles6.php">Veilles</a></li>
 										<li><a href="CV7.php">CV</a></li>
 										<li><a href="Contacts8.php">Contacts</a></li>
 										<li><a href="elements.html">Elements</a></li>
-</li>
 										
+									
 								</nav>
 
 							<!-- Section -->
@@ -158,6 +154,11 @@ font-size: 30px;
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+
+
+
+
+
 
 	</body>
 </html>
