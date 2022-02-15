@@ -207,7 +207,7 @@
 					<div id="sidebar">
 						<div class="inner">
 
-							<nav id="menu" class="major">
+							<nav id="menu" >
 								
 										<h2><u>Menu</u></h2>
 									
@@ -222,7 +222,7 @@
 										<li><a href="Contacts8.php">Contacts</a></li>
 										<li><a href="elements.html">Elements</a></li>
 										
-									
+	                               </ul>
 							</nav>
 
 

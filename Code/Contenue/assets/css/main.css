@@ -22,12 +22,13 @@ section, summary, time, mark, audio, video {
   font-size: 50%;
   font: inherit;
   vertical-align: middle;
+
  }
 
 header{
   background-image: url("https://wallpapercave.com/wp/wp1997655.jpg");
   /* background-image: url("https://wallpapercave.com/w/wp9500730.jpg"); */
- 
+
   background-attachment:fixed;
   background-repeat:no-repeat;
   background-position:center center;
@@ -1945,7 +1946,9 @@ button,
   transition: margin-left 0.5s ease, box-shadow 0.5s ease;
   /* Couleur du menu  */
   /* background-color: #0762b6e1; */
-  background-image: url("https://wallpapercave.com/wp/wp1997655.jpg");
+  /* background-image: url("https://wallpapercave.com/wp/wp1997655.jpg"); */
+  /* background:#18B7Be; */
+  background:#18B7Be;
   font-size: 0.9em;
   position: relative;
   width: 26em; }
