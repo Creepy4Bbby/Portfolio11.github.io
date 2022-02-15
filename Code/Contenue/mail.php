@@ -7,9 +7,7 @@
 
 <body>
     <?php
-    SMTP = smtp.gmail.com
-    smtp_port = 587 ou 465
-    sendmail_from =votremail@gmail.com
+    
     $retour = mail('dolores.bby4@gmail.com', 'Envoi depuis la page Contact', $_POST['subject'], '$email');
     if ($retour)
         echo '<p>Votre message a bien été envoyé.</p>';
