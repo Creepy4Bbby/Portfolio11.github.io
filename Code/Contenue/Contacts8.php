@@ -11,6 +11,7 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
+		<!-- <link rel="stylesheet" href="assets/css/timeline.css" /> -->
 	</head>
 	<body class="is-preload">
 
@@ -77,10 +78,10 @@
 						
 
 								<!-- MENU -->
-								<nav id="menu">
-									<header class="major">
-										<h2>Menu</h2>
-									</header>
+								<nav id="menu" class="major">
+								
+										<u><h2>Menu</h2></u>
+									
 									<ul>
 										<li><a href="PageAccueil.php">Accueil</a></li>
 										<li><a href="Parcours3.php">Parcours</a></li>
@@ -104,9 +105,9 @@
 
 							<!-- Section -->
 								<section>
-									<header class="major">
+								
 										<h2>Ante interdum</h2>
-									</header>
+								
 									<div class="mini-posts">
 										<article>
 											<a href="#" class="image"><img src="images/pic07.jpg" alt="" /></a>
@@ -128,9 +129,9 @@
 
 							<!-- Section -->
 								<section>
-									<header class="major">
+								
 										<h2>Get in touch</h2>
-									</header>
+								
 									<p>Sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin sed aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 									<ul class="contact">
 										<li class="icon solid fa-envelope"><a href="#">information@untitled.tld</a></li>
