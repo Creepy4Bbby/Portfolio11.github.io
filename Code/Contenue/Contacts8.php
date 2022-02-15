@@ -1,52 +1,85 @@
+
 <!DOCTYPE HTML>
 
 <html>
 	<head>
 		<title>Portfolio</title>
 		<meta charset="utf-8" />
-	    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" /> 
-		<link rel="stylesheet" href="assets/css/main.css" /> 
-        <link rel="stylesheet" href="Header.html" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
 	</head>
 	<body class="is-preload">
 
 	
-
 		<!-- Wrapper -->
-			<div id="wrapper">
+		<div id="wrapper">
 
-				<!-- Main -->
-					<div id="main">
-						<div class="inner">
-							<!-- Header -->
-								<header id="header">
-								<div align="center"><h1><a href="PageAccueil.php">Contact</h1></a></div>  </a>
-									
-								</header>
-
- <!-- HAUT DE PAGE  -->
-								<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
- 
+<!-- Main -->
+	<div id="main">
+		<div class="inner">
+			<!-- Header -->
+				<header id="header">
+				<div align="center"><h1><a href="PageAccueil.php">Contacts</h1></a></div>  </a>
+					
+				</header>
 
 
-</div>				
+						<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
 
 
+						<!-- HAUT DE PAGE  -->
+						<style> 
+i { 
+color: #1c87c9; 
+text-shadow: 2px 2px 4px #00ffff; 
+font-size: 30px; 
+} 
+</style>
+						
+<script>
+	 jQuery(function(){
+		 $(function () {
+			 $(window).scroll(function () {
+				 if ($(this).scrollTop() > 200 ) { 
+					 $('#scrollUp').css('right','30px');
+				 } else { 
+					 $('#scrollUp').removeAttr( 'style' );
+				 }
+
+			 });
+		 });
+	 });
+</script>
+<br>
+<div class="container">
+  <center><h1>Formulaire de contact</h1></center>
+  <form action="/action_page.php">
+    <label for="fname">Nom</label>
+    <input type="text" id="fname" name="firstname" placeholder="Votre nom">
+
+	<label for="fname">Prénom</label>
+    <input type="text" id="name" name="name" placeholder="Votre prénom">
+
+    <label for="sujet">Sujet</label>
+    <input type="text" id="sujet" name="sujet" placeholder="L'objet de votre message">
+
+    <label for="emailAddress">Email</label>
+    <input id="emailAddress" type="email" name="email" placeholder="Votre email">
 
 
-				<!-- Sidebar -->
-					<div id="sidebar">
-						<div class="inner">
-
-							<!-- Search
-								<section id="search" class="alt">
-									<form method="post" action="#">
-										<input type="text" name="query" id="query" placeholder="Search" />
-									</form>
-								</section> -->
-
-							<!-- MENU -->
-								<nav id="menu">
+    <label for="subject">Message</label>
+    <textarea id="subject" name="subject" placeholder="Votre message" style="height:200px"></textarea>
+	 <br>
+    <input type="submit" value="Envoyer">
+  </form>
+</div>
+							
+							
+<!-- Sidebar -->
+<div id="sidebar">
+						
+			<!-- MENU -->
+			<nav id="menu">
 									<header class="major">
 										<h2>Menu</h2>
 									</header>
@@ -71,7 +104,6 @@
 										
 								</nav>
 
-
 							<!-- Section -->
 								<section>
 									<header class="major">
@@ -79,7 +111,7 @@
 									</header>
 									<div class="mini-posts">
 										<article>
-										
+											<a href="#" class="image"><img src="images/pic07.jpg" alt="" /></a>
 											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
 										</article>
 										<article>
@@ -92,15 +124,7 @@
 										</article>
 									</div>
 									<ul class="actions">
-										<li><a href="image/efrei.jpg" class="button">Moe</a></li>
-
-										
-
-
-
-
-
-
+										<li><a href="#" class="button">More</a></li>
 									</ul>
 								</section>
 
@@ -120,7 +144,7 @@
 
 							<!-- Footer -->
 								<footer id="footer">
-									<p class="copyright">&copy; 2021.Etudiante à L'Efrei <u>(BTS SIO SLAM).</u></a>.</p>
+									<p class="copyright">&copy; Untitled. All rights reserved. Demo Images: <a href="https://unsplash.com">Unsplash</a>. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
 								</footer>
 
 						</div>
@@ -135,40 +159,5 @@
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
 
-<!-- icône haut de page -->
-			<div id="scrollUp">
-<a href="#top" class="icon solid fas fa-cloud-upload-alt fa-2x"></a>
-</div>
-
 	</body>
 </html>
-
-<script>
-
-let togg1 = document.getElementById("togg1");
-
-let d1 = document.getElementById("d1");
-
-togg1.addEventListener("click", () => {
-if(getComputedStyle(d1).display != "none"){
-d1.style.display = "none";
-} else {
-d1.style.display = "block";
-}
-})
-      </script>
-	  								<!-- HAUT DE PAGE  -->
- <script>
-			 jQuery(function(){
-				 $(function () {
-					 $(window).scroll(function () {
-						 if ($(this).scrollTop() > 200 ) { 
-							 $('#scrollUp').css('right','30px');
-						 } else { 
-							 $('#scrollUp').removeAttr( 'style' );
-						 }
-  
-					 });
-				 });
-			 });
- </script>
