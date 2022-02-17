@@ -39,9 +39,9 @@
 									<div class="posts">
 									
 									<!-- Activité 1 sur la M2l  -->
-
+					
 									<article>
-											<a href="M2L.php" class="image"><img src="images/M2L.jpg" alt="" /></a>
+											<a href="M2Lpdf.php" class="image"><img src="images/M2L.jpg" alt="" /></a>
 											<h3> La Maison Des Ligues </h3>
 											<p>Aenean ornare velit lacus, </p>
 											<ul class="actions">
