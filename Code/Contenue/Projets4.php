@@ -96,14 +96,14 @@
 			 						<!-- Fin de l'activité  1  -->
 
 
-										<article>
+										<!-- <article>
 											<a href="#" class="image"><img src="images/Portf.jpg" alt="" /></a>
 											<h3>Portfolio</h3>
 											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 											<ul class="actions">
 												<li><a href="#" class="button">More</a></li>
 											</ul>
-										</article>
+										</article> -->
 
 										<!-- snake -->
 										<article>
