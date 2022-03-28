@@ -39,7 +39,7 @@ include 'Header.php';
 							<!-- Content -->
 								
 									<div class="main">
-										<h2>Bienvenue ☺ </h2>
+										<marquee width="100%" scrollamount="4" scrolldelay="10" direction="left" direction="right" ><h2>Bienvenue ☺ </h2></marquee direction="right">
 										</div>
 
 									
@@ -83,7 +83,7 @@ include 'Header.php';
 										<input type="radio" name="radio-btn" id="img-2" />
 										<li class="slide-container">
 											<div class="slide">
-											  <img src="images/pic07.jpg"/>
+											<video src="images/moi.mp4" controls></video>
 											</div>
 											<div class="navi">
 												<label for="img-1" class="prev">&#x2039;</label>
