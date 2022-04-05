@@ -74,8 +74,31 @@
 										</p>
 									</li>
 									<li>
-										<p class="diplome">BTS SIO <br>SLAM <br></p>
-										<p class="date">2020 - 2022 <br>A l'EFREI Paris</p>
+
+
+
+									<?php 
+													// Le chemin du fichier (path) 
+													$file = "images/BTS-SIO.pdf"; 
+														
+													// Type de contenu d'en-tête
+													header("Content-type: application/pdf"); 
+														
+													header("Content-Length: " . filesize($file)); 
+														
+													// Envoyez le fichier au navigateur.
+													readfile($file); 
+
+													// ///////////
+													
+
+
+                                                              ?>
+
+
+
+										<p class="diplome">	<a href="BTS-SIO.pdf">BTS SIO <br>SLAM </a><br></p>
+										<p class="date">2020 - 2022 <br>A l'EFREI Paris </p>
 										<span class="point"></span>
 										<p class="description">Services informatiques aux organisations option SLAM = Solutions Logicielles et Applications Métiers</p>
 									</li>
@@ -88,6 +111,12 @@
 									
 									</ol>
 									</section>
+
+
+
+
+
+									
 <!-- //Experience pro  -->
 									<br>
 									<header class="major">

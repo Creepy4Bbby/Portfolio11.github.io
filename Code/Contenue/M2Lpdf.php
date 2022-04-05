@@ -12,6 +12,19 @@
   // Envoyez le fichier au navigateur.
   readfile($file); 
 
+  // ///////////
+
+    // Le chemin du fichier (path) 
+    $file = "images/BTS-SIO.pdf"; 
+    
+    // Type de contenu d'en-tête
+    header("Content-type: application/pdf"); 
+      
+    header("Content-Length: " . filesize($file)); 
+      
+    // Envoyez le fichier au navigateur.
+    readfile($file); 
+
 
 ?>
 									
