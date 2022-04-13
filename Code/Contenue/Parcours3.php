@@ -76,27 +76,7 @@
 									<li>
 
 
-
-									<?php 
-													// Le chemin du fichier (path) 
-													$file = "images/BTS-SIO.pdf"; 
-														
-													// Type de contenu d'en-tête
-													header("Content-type: application/pdf"); 
-														
-													header("Content-Length: " . filesize($file)); 
-														
-													// Envoyez le fichier au navigateur.
-													readfile($file); 
-
-													// ///////////
-													
-
-
-                                                              ?>
-
-
-
+									
 										<p class="diplome">	<a href="BTS-SIO.pdf">BTS SIO <br>SLAM </a><br></p>
 										<p class="date">2020 - 2022 <br>A l'EFREI Paris </p>
 										<span class="point"></span>

@@ -78,18 +78,20 @@
 
 									<article>
 											<!-- <a href="M2L.php" class="image"><img src="images/M2L.jpg" alt="" /></a> -->
+									
+									
 											<a href="M2Lpdf.php" class="image"><img src="images/M2L.jpg" alt="" /></a>
 											<h3> La Maison Des Ligues </h3>
-											<p>Aenean ornare velit lacus, </p>
+											<p>Contexte : site logistique des inscriptions,<br>réservations de salles,forum ect..</p>
 											<ul class="actions">
-												<li> <button id="togg1">En savoir plus...</button>
-											
+												<!-- <li> <button id="togg1">En savoir plus...</button> -->
+												<li><a href="M2L.php" class="button"> En savoir plus...</a> 
 											</ul>
 
-											<div id="d1">
+											<!-- <div id="d1">
 												<p>Ce texte appartient au premier div de ma page</p>
 												<p>Ce deuxième paragraphe également</p>
-									    	</div>
+									    	</div> -->
 
 
 										</article>
@@ -108,30 +110,30 @@
 
 										<!-- snake -->
 										<article>
-											<a href="#" class="image"><img src="images/snake.png" alt="" /></a>
+											<a href="snakepdf.php" class="image"><img src="images/snake.png" alt="" /></a>
 											<h3>SNAKE 2.0</h3>
 											<p>Reproduction libre du célébre jeu snake programmer en C</p>
 											<ul class="actions">
-												<li><a href="#" class="button">More</a></li>
+											<li><a href="snake.php" class="button"> En savoir plus...</a> 
 											</ul>
 										</article>
 
 										<!-- banque -->
 										<article>
-											<a href="#" class="image"><img src="images/banque.png" alt="" /></a>
+											<a href="banquepdf.php" class="image"><img src="images/banque.png" alt="" /></a>
 											<h3>Banque</h3>
 											<p>Creation d'une interface en C# de compte en banque côté gestionnaire</p>
 											<ul class="actions">
-												<li><a href="#" class="button">More</a></li>
+											<li><a href="banque.php" class="button"> En savoir plus...</a> 
 											</ul>
 										</article>
 									<!-- calculatrice -->
 										<article>
-											<a href="#" class="image"><img src="images/cal.png" alt="" /></a>
-											<h3>Calculatrice</h3>
+											<a href="conservatoirepdf.php" class="image"><img src="images/cal.png" alt="" /></a>
+											<h3>Conservatoire de musique</h3>
 											<p>en c</p>
 											<ul class="actions">
-												<li><a href="#" class="button">More</a></li>
+											<li><a href="conservatoire.php" class="button"> En savoir plus...</a> 
 											</ul>
 										</article>
 					
@@ -152,7 +154,7 @@
 											<h3>Configurateur DRM </h3>
 											<p>Afin de paramétré des DRM pour les techniciens j'ai creer un configurateur</p>
 											<ul class="actions">
-												<li><a href="#" class="button">More</a></li>
+											<li><a href="#" class="button"> En savoir plus...</a> 
 											</ul>
 										</article>
 										<article>
@@ -160,7 +162,7 @@
 											<h3>Statsofts</h3>
 											<p>Creation application de statistique</p>
 											<ul class="actions">
-												<li><a href="#" class="button">More</a></li>
+											<li><a href="#" class="button"> En savoir plus...</a> 
 											</ul>
 										</article>
 										</section>
@@ -179,7 +181,7 @@
 											<h3>Site web assistante maternelle</h3>
 											<p>Ma mère ayant besoin d'une plateforme pour communiquer avec les parents des enfants qu'elle garde j'ai donc creer un site à cet effet</p>
 											<ul class="actions">
-												<li><a href="#" class="button">More</a></li>
+											<li><a href="#" class="button"> En savoir plus...</a> 
 											</ul>
 										</article>
 										<!-- <article>
