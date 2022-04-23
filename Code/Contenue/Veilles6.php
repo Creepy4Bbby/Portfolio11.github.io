@@ -203,7 +203,7 @@
 										<li><a href="E4.php">Epreuve E4</a></li>
 										<li><a href="Projets4.php">Projets</a></li>
 										<li><a href="Veilles6.php">Veilles</a></li>
-										<li><a href="CV7.php">CV</a></li>
+										<li><a href="Cv7.php">CV</a></li>
 										<li><a href="Contacts8.php">Contacts</a></li>
 									
 									
