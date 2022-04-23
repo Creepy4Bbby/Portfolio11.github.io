@@ -21,7 +21,7 @@
 						<div class="inner">
 							<!-- Header -->
 								<header id="header">
-								<div align="center"><h1><a href="PageAccueil.php">Projets</h1></a></div>  </a>
+								<div align="center"><h1><a href="index.php">Projets</h1></a></div>  </a>
 									
 								</header>
 
@@ -212,7 +212,7 @@
 										<h2>Menu</h2>
 								
 									<ul>
-										<li><a href="PageAccueil.php">Accueil</a></li>
+										<li><a href="index.php">Accueil</a></li>
 										<li><a href="Parcours3.php">Parcours</a></li>
 										<li><a href="E4.php">Epreuve E4</a></li>
 										<li>

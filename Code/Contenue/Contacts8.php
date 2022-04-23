@@ -27,7 +27,7 @@
 								<!-- Header -->
 								<header id="header">
 									<a href="Contacts8.php" class="logo"><strong>Me suivre...&nbsp </strong> &nbsp &nbsp &nbsp ici &nbsp →  </a>
-									<div align="center"><h1><a href="PageAccueil.php">Contact</h1></a></div>
+									<div align="center"><h1><a href="index.php">Contact</h1></a></div>
 									<ul class="icons">
 										<li><a href="https://github.com/Creepy4Bbby" class="icon brands fab fa-github"><span class="label">GitHub</span></a></li>
 										<li><a href="Contacts8.php" class="icon brands fab fa-linkedin "><span class="label">Linkdin</span></a></li>

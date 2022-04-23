@@ -62,7 +62,7 @@
 										<u><h2>Menu</h2></U>
 								
 									<ul>
-										<li><a href="PageAccueil.php">Accueil</a></li>
+										<li><a href="index.php">Accueil</a></li>
 										<li><a href="Parcours3.php">Parcours</a></li>
 
 										<li>

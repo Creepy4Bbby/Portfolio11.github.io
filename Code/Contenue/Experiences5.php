@@ -20,7 +20,7 @@ include 'Header.php';
 
 
 	<!-- Titre haut de page  -->
-	<div align="center"><h1><a href="PageAccueil.php">Expériences</h1></a></div>
+	<div align="center"><h1><a href="index.php">Expériences</h1></a></div>
 
 
 
@@ -161,7 +161,7 @@ include 'Header.php';
 										<h2>Menu</h2>
 									</header>
 									<ul>
-										<li><a href="PageAccueil.php">Accueil</a></li>
+										<li><a href="index.php">Accueil</a></li>
 										<li><a href="Parcours3.php">Parcours</a></li>
 										 <li><a href="Projets4.php">Projets</a></li> 
 									<!--	<li>

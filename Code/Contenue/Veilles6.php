@@ -30,7 +30,7 @@
 
 									<!-- Header -->
 									<header id="header">
-									<a href="Contacts8.php" class="logo"><strong>Me suivre...&nbsp </strong> &nbsp &nbsp &nbsp ici &nbsp →  </a><div align="center"><h1><a href="PageAccueil.php">Veilles</h1></a></div>
+									<a href="Contacts8.php" class="logo"><strong>Me suivre...&nbsp </strong> &nbsp &nbsp &nbsp ici &nbsp →  </a><div align="center"><h1><a href="index.php">Veilles</h1></a></div>
 
 									<ul class="icons">
 										<li><a href="https://github.com/Creepy4Bbby" class="icon brands fab fa-github"><span class="label">GitHub</span></a></li>
@@ -198,7 +198,7 @@
 										<h2>Menu</h2>
 				
 									<ul>
-										<li><a href="PageAccueil.php">Accueil</a></li>
+										<li><a href="index.php">Accueil</a></li>
 										<li><a href="Parcours3.php">Parcours</a></li>
 										<li><a href="E4.php">Epreuve E4</a></li>
 										<li><a href="Projets4.php">Projets</a></li>

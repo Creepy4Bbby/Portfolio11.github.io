@@ -12,7 +12,6 @@
 	<body>
 
 	
-
 		<!-- Wrapper -->
 			<div id="wrapper" >
 
@@ -22,7 +21,7 @@
 						<div class="inner">
 							<!-- Header -->
 								<header id="M2l">
-								<div align="center"><h1 style="background-image: images/M2L.jpg"><a href="PageAccueil.php">M2L</h1></a></div>  </a>
+								<div align="center"><h1 style="background-image: images/M2L.jpg"><a href="index.php">M2L</h1></a></div>  </a>
 									
 								</header>
 
@@ -75,7 +74,7 @@
 										<h2>Menu</h2>
 								
 									<ul>
-										<li><a href="PageAccueil.php">Accueil</a></li>
+										<li><a href="index.php">Accueil</a></li>
 										<li><a href="Parcours3.php">Parcours</a></li>
 										<li><a href="E4.php">Epreuve E4</a></li>
 										<li>
