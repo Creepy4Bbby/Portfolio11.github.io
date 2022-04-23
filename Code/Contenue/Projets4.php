@@ -77,15 +77,15 @@
 									<!-- Activité 1 sur la M2l  -->
 
 									<article>
-											<!-- <a href="M2L.php" class="image"><img src="images/M2L.jpg" alt="" /></a> -->
+											<a href="M2L.php" class="image"><img src="images/M2L.jpg" alt="" /></a> 
 									
 									
-											<a href="Versaillespdf.php" class="image"><img src="images/M2L.jpg" alt="" /></a>
+											<!-- <a href="M2Lpdf.php" class="image"><img src="images/M2L.jpg" alt="" /></a> -->
 											<h3> La Maison Des Ligues </h3>
 											<p>Contexte : site logistique des inscriptions,<br>réservations de salles,forum ect..</p>
 											<ul class="actions">
 												<!-- <li> <button id="togg1">En savoir plus...</button> -->
-												<li><a href="#" class="button"> En savoir plus...</a> 
+												<li><a href="https://github.com/thomasnastorg/L2M" class="button"> Lien git </a> 
 											</ul>
 
 											<!-- <div id="d1">

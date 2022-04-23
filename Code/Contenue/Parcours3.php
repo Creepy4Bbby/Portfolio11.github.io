@@ -84,24 +84,25 @@
 										<p class="diplome"><a href="PDF/Bachepdf.php" class="image">Bachelor Cybersécurity & Ethical Hacking <br><br></a></p>
 										<p class="date">2022 - 2023<br>A venir ↑ </p>
 										<span class="point"></span>
-										<p class="description">Egalement a l'EFREI Paris </p>
+										<p class="description">Egalement a l'EFREI Paris Pathéon</p>
 									</li>
 									
-									<li>
-										<p class="diplome"><a href="PDF/Bachepdf.php" class="image">Bachelor Cybersécurity & Ethical Hacking <br><br></a></p>
-										<p class="date">2022 - 2023<br>A venir ↑ </p>
-										<span class="point"></span>
-										<p class="description">Egalement a l'EFREI Paris </p>
-									</li>
-									
+							
 									</ol>
 									</section>
+<section>
+	<h1>Dans le futur <h1>
+									<ol>
+									<li>
+										<p class="diplome"><a href="PDF/Masterpdf.php" class="image">Master of Science Cybersécurité & Management </a></p>
+										<p class="date">2023 - 2025<br>Futur ↑ </p>
+										<span class="point"></span>
+										<p class="description">Egalement a l'EFREI Paris Pathéon </p>
+									</li>
+									</ol>
+</section>
 
-
-
-
-
-									
+						
 <!-- //Experience pro  -->
 									<br>
 									<header class="major">
@@ -215,6 +216,8 @@
     <div class="timeline__date"> Février 2021(fin de contrat 30 août 2022)</div>
   </div>
 </div>
+
+
 <!-- ________________________________ -->
 
 						</div>
