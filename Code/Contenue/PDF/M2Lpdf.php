@@ -1,8 +1,6 @@
-
-									
 <?php 
   // Le chemin du fichier (path) 
-  $file = "images/doc.pdf"; 
+  $file = "../images/doc.pdf"; 
     
   // Type de contenu d'en-tête
   header("Content-type: application/pdf"); 
@@ -14,23 +12,9 @@
 
   // ///////////
 
-    // Le chemin du fichier (path) 
-    $file = "images/BTS-SIO.pdf"; 
-    
-    // Type de contenu d'en-tête
-    header("Content-type: application/pdf"); 
-      
-    header("Content-Length: " . filesize($file)); 
-      
-    // Envoyez le fichier au navigateur.
-    readfile($file); 
-
-
 ?>
 									
-
 							
-
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/browser.min.js"></script>

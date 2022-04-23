@@ -80,12 +80,12 @@
 											<!-- <a href="M2L.php" class="image"><img src="images/M2L.jpg" alt="" /></a> -->
 									
 									
-											<a href="M2Lpdf.php" class="image"><img src="images/M2L.jpg" alt="" /></a>
+											<a href="Versaillespdf.php" class="image"><img src="images/M2L.jpg" alt="" /></a>
 											<h3> La Maison Des Ligues </h3>
 											<p>Contexte : site logistique des inscriptions,<br>réservations de salles,forum ect..</p>
 											<ul class="actions">
 												<!-- <li> <button id="togg1">En savoir plus...</button> -->
-												<li><a href="M2L.php" class="button"> En savoir plus...</a> 
+												<li><a href="#" class="button"> En savoir plus...</a> 
 											</ul>
 
 											<!-- <div id="d1">
@@ -97,7 +97,6 @@
 										</article>
 
 			 						<!-- Fin de l'activité  1  -->
-
 
 										<!-- <article>
 											<a href="#" class="image"><img src="images/Portf.jpg" alt="" /></a>
@@ -181,7 +180,7 @@
 											<h3>Site web assistante maternelle</h3>
 											<p>Ma mère ayant besoin d'une plateforme pour communiquer avec les parents des enfants qu'elle garde j'ai donc creer un site à cet effet</p>
 											<ul class="actions">
-											<li><a href="#" class="button"> En savoir plus...</a> 
+											<li><a href="" class="button"> En savoir plus...</a> 
 											</ul>
 										</article>
 										<!-- <article>

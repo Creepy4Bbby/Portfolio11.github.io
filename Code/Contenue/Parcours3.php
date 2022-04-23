@@ -1,4 +1,3 @@
-
 <!DOCTYPE HTML>
 
 <html>
@@ -77,7 +76,7 @@
 
 
 									
-										<p class="diplome">	<a href="BTS-SIO.pdf">BTS SIO <br>SLAM </a><br></p>
+										<p class="diplome">	<a href="BTS-SIOpdf.pdf">BTS SIO <br>SLAM </a><br></p>
 										<p class="date">2020 - 2022 <br>A l'EFREI Paris </p>
 										<span class="point"></span>
 										<p class="description">Services informatiques aux organisations option SLAM = Solutions Logicielles et Applications Métiers</p>
@@ -124,13 +123,15 @@
       (1x 2 mois) <br>
 	  Communications avec les clients (services en salle/bar/terrasse)<br>
 	  <a href="https://cafebleuroi-versailles.fr/" target="_blank">Café bleu roi, Versailles</a>
+	  
     </p>
   </div>
   
   <div class="timeline__component timeline__component--bg">
     <h2 class="timeline__title">Technicienne de maintenance</h2>
     <p class="timeline__paragraph">
-      Brassage , Maintenances reseau + parc informatique<br>  <span class = "titol"><a href="https://www.versailles.fr/" target="_blank">Mairie , Versailles</a></span>.
+	Brassage , Maintenances reseau + parc informatique<br>  <span class = "titol"><a href="https://www.versailles.fr/" target="_blank">Mairie , Versailles</span>.
+		<br><br><a href="PDF/Versaillespdf.php" class="image">Rapport de stage ici</a>
     </p>
   </div>
   
@@ -159,6 +160,7 @@
     <h2 class="timeline__title">Technicienne informatique</h2>
     <p class="timeline__paragraph">
       Création de macro sur Excel & de Logiciels Akio + Création d'image ghost <br><span class = "titol"><a href="https://www.edf.fr/" target="_blank">Tour EDF , Courbevoie</a></span> 
+	  <br><br><a href="PDF/EDFpdf.php" class="image">Rapport de stage ici</a>
     </p>
   </div>
   
@@ -184,6 +186,7 @@
     <p class="timeline__paragraph">
       Modification de la BDD prod & Test interface web + suivi de l'api.<br>
 	  <a href="https://www.servicepostal.com/" target="_blank">Service Postal ,Trappes</a>
+	  <br><br><a href="PDF/Postalepdf.php" class="image">Présentation de l'entreprise ici</a>
     </p>
   </div>
   
@@ -193,6 +196,7 @@
     <p class="timeline__paragraph">
 	Amélioration d’un configurateur pour DRM + Création de documentations et modifications du soft Statstof.  <br>
 	  <a href="https://www.monetik.fr/presentation-de-la-societe/" target="_blank">MONETIK ,Chatou</a>
+	  <br><br><a href="PDF/Monetikpdf.php" class="image">Présentation de l'entreprise ici</a>
     </p>
   </div>
   
