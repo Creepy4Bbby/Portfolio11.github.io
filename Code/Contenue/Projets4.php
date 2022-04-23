@@ -214,14 +214,7 @@
 										<li><a href="index.php">Accueil</a></li>
 										<li><a href="Parcours3.php">Parcours</a></li>
 										<li><a href="E4.php">Epreuve E4</a></li>
-										<li>
-										<span class="opener">Projets</span>
-											<ul>
-												<li><a href="#Scolaire">Scolaire</a></li>
-												<li><a href="#Pro">Professionel</a></li>
-												<li><a href="#Perso">Personnel</a></li>
-											</ul>
-</li>
+										<li><a href="Projets4.php">Projets</a></li>
 										<!-- <li><a href="Experiences5.php">Expériences</a></li> -->
 										<li><a href="Veilles6.php">Veilles</a></li>
 										<li><a href="Cv7.php">CV</a></li>

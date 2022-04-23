@@ -65,7 +65,7 @@
 
 								<ol>
 									<li>
-										<p class="diplome">BAC Système Nuémrique <br>Option C</p>
+										<p class="diplome"><a href="http://www.lyc-moulin-lechesnay.ac-versailles.fr/systemes-numeriques/">BAC Système Nuémrique <br>Option C</p>
 										<p class="date">2017 - 2020 <br>Au lycée Jean Moulin Au Chesnay</p>
 										<span class="point"></span>
 										<p class="description">
@@ -74,15 +74,21 @@
 									</li>
 									<li>
 
-
-									
-										<p class="diplome">	<a href="BTS-SIOpdf.pdf">BTS SIO <br>SLAM </a><br></p>
+							
+										<p class="diplome"><a href="PDF/BTSpdf.php" class="image">BTS SIO <br>SLAM </a><br></p>
 										<p class="date">2020 - 2022 <br>A l'EFREI Paris </p>
 										<span class="point"></span>
 										<p class="description">Services informatiques aux organisations option SLAM = Solutions Logicielles et Applications Métiers</p>
 									</li>
 									<li>
-										<p class="diplome">Bachelor Cybersécurity & Ethical Hacking <br><br></p>
+										<p class="diplome"><a href="PDF/Bachepdf.php" class="image">Bachelor Cybersécurity & Ethical Hacking <br><br></a></p>
+										<p class="date">2022 - 2023<br>A venir ↑ </p>
+										<span class="point"></span>
+										<p class="description">Egalement a l'EFREI Paris </p>
+									</li>
+									
+									<li>
+										<p class="diplome"><a href="PDF/Bachepdf.php" class="image">Bachelor Cybersécurity & Ethical Hacking <br><br></a></p>
 										<p class="date">2022 - 2023<br>A venir ↑ </p>
 										<span class="point"></span>
 										<p class="description">Egalement a l'EFREI Paris </p>
