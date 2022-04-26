@@ -149,7 +149,7 @@
 									<div class="posts">
 										
 										<article>
-											<a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
+											<a href="#" class="image"><img src="images/Configurateur.jpg" alt="" /></a>
 											<h3>Configurateur DRM </h3>
 											<p>Afin de paramétré des DRM pour les techniciens j'ai creer un configurateur</p>
 											<ul class="actions">
@@ -157,7 +157,7 @@
 											</ul>
 										</article>
 										<article>
-											<a href="#" class="image"><img src="images/pic04.jpg" alt="" /></a>
+											<a href="#" class="image"><img src="images/Statsoft.jpg" alt="" /></a>
 											<h3>Statsofts</h3>
 											<p>Creation application de statistique</p>
 											<ul class="actions">

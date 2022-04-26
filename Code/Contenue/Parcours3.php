@@ -261,5 +261,27 @@
 			<script src="assets/js/main.js"></script>
 			<script src="assets/js/timeline.js"></script>
 
+			
+<!-- icône haut de page -->
+<div id="scrollUp">
+<a href="#top" class="icon solid fas fa-cloud-upload-alt fa-2x"></a>
+</div>
+
 	</body>
 </html>
+
+			<!-- HAUT DE PAGE  -->
+			<script>
+			 jQuery(function(){
+				 $(function () {
+					 $(window).scroll(function () {
+						 if ($(this).scrollTop() > 200 ) { 
+							 $('#scrollUp').css('right','30px');
+						 } else { 
+							 $('#scrollUp').removeAttr( 'style' );
+						 }
+  
+					 });
+				 });
+			 });
+ </script>

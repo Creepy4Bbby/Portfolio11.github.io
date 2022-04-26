@@ -29,16 +29,18 @@
 										
 									</ul>
 								</header>
-
+<br>
+<a href="https://docs.google.com/spreadsheets/d/1H8qbyT8ViCYmXxE5tXnyYN19tsT0CXScEqNhVhiN0_o/edit#gid=1386834576" > <h1> Tableau de suivi</h1><a/a>
 							<!-- Banner -->
 								<section id="banner">
 								<div class="container">
+								<br><br>
                                 <embed src="images/M2L.pdf" type="application/pdf" width="100%" height="700px" />
 <br>
 <br>
 <br>
-                                <h1> Tableau de suivi</h1>
-								<p>https://docs.google.com/spreadsheets/d/1H8qbyT8ViCYmXxE5tXnyYN19tsT0CXScEqNhVhiN0_o/edit#gid=1386834576</p>
+
+
 
 									
 </div>
