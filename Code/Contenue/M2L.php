@@ -62,16 +62,7 @@
 									<ul>
 										<li><a href="index.php">Accueil</a></li>
 										<li><a href="Parcours3.php">Parcours</a></li>
-
-										<li>
-										<span class="opener">Projets</span>
-											<ul>
-												<li><a href="#">Professionel</a></li>
-												<li><a href="#">Scolaire</a></li>
-												<li><a href="#">Personnel</a></li>
-											</ul>
-</li>
-										<li><a href="Experiences5.php">Expériences</a></li>
+										<li><a href="Projet4.php">Projet</a></li>
 										<li><a href="Veilles6.php">Veilles</a></li>
 										<li><a href="CV7.php">CV</a></li>
 										<li><a href="Contacts8.php">Contacts</a></li>
