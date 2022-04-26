@@ -1,10 +1,6 @@
 
 <!DOCTYPE HTML>
-<!--
-	Editorial by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
+
 <html>
 	<head>
 		<title>Portfolio</title>
@@ -57,9 +53,9 @@
 									<div class="content">
 										<header>
 								<strong><h1>Organisations : <br></strong></h1>
-								<h2>Avoir un bon lecteur de flux RSS</h2>
+								<h2>Avoir un bon lecteur de flux RSS mais pas que...</h2>
 </header>
-								<p> Le plus simple est d’utiliser un lecteur de flux RSS. Il en existe plein : Firefox, NetVibes, Google Alerts … Personnellement j'utilise Google Alerts qui va m'envoyer un mail par jour concernant les nouveaux articles mis en ligne concernant le sujet de ma veille technologique. Ensuite il faut faire le tri, et ça devient moins drôle ! J'ai créé une adresse mail dédiée à ma veille qui récupère le flux.</p>
+								<p> Le plus simple est d’utiliser un lecteur de flux RSS. Il en existe plein : Firefox, NetVibes, Google Alerts … Personnellement j'utilise aussi Google Alerts qui va m'envoyer un mail par jour concernant les nouveaux articles mis en ligne concernant le sujet de ma veille technologique. Il faut bien évidement faire le tri J'ai créé une adresse mail dédiée à ma veille qui récupère le flux.</p>
 </section>
 							<!-- Veilles -->
 								<section>

@@ -1,7 +1,7 @@
 									
 <?php 
   // Le chemin du fichier (path) 
-  $file = "../images/EDF.pdf"; 
+  $file = "../images/Configurateur.pdf"; 
   
   // Type de contenu d'en-tête
   header("Content-type: application/pdf"); 

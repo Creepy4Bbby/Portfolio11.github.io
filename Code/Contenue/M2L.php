@@ -56,10 +56,9 @@
 
 								<!-- MENU -->
 								<nav id="menu" class="major">
+							<ul>
+										<u><h2>Menu</h2></u>
 									
-										<u><h2>Menu</h2></U>
-								
-									<ul>
 										<li><a href="index.php">Accueil</a></li>
 										<li><a href="Parcours3.php">Parcours</a></li>
 										<li><a href="Projet4.php">Projet</a></li>
@@ -67,7 +66,7 @@
 										<li><a href="CV7.php">CV</a></li>
 										<li><a href="Contacts8.php">Contacts</a></li>
 										<li><a href="elements.html">Elements</a></li>
-										
+</ul>
 									
 								</nav>
 

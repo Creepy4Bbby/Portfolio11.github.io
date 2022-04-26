@@ -126,13 +126,13 @@
 											<li><a href="banque.php" class="button"> En savoir plus...</a> 
 											</ul>
 										</article>
-									<!-- calculatrice -->
+									<!-- conservatoire -->
 										<article>
-											<a href="conservatoirepdf.php" class="image"><img src="images/cal.png" alt="" /></a>
+											<a href="https://conservatoire.dhdolores.me/" class="image"><img src="images/Conservatoire.jpg" alt="" /></a>
 											<h3>Conservatoire de musique</h3>
 											<p>en c</p>
 											<ul class="actions">
-											<li><a href="conservatoire.php" class="button"> En savoir plus...</a> 
+											<li><a href="conservatoire.php" class="button"> Lien git</a> 
 											</ul>
 										</article>
 					
@@ -149,7 +149,8 @@
 									<div class="posts">
 										
 										<article>
-											<a href="#" class="image"><img src="images/Configurateur.jpg" alt="" /></a>
+											
+											<a href="PDF/Configurateurpdf.php" class="image"><img src="images/Configurateur.jpg" alt="" /></a> 
 											<h3>Configurateur DRM </h3>
 											<p>Afin de paramétré des DRM pour les techniciens j'ai creer un configurateur</p>
 											<ul class="actions">
@@ -157,7 +158,7 @@
 											</ul>
 										</article>
 										<article>
-											<a href="#" class="image"><img src="images/Statsoft.jpg" alt="" /></a>
+											<a href="PDF/Statsoftpdf.php" class="image"><img src="images/Statsoft.jpg" alt="" /></a>
 											<h3>Statsofts</h3>
 											<p>Creation application de statistique</p>
 											<ul class="actions">
