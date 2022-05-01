@@ -44,7 +44,7 @@
 										<header>
 											<h1>Veilles</h1>
 											
-											<p>Voici les différentes veilles sur lesquelles je travaille.</p>
+											<p>Voici les différentes veilles sur lesquelles je m'informe.</p>
 										</header>
 										<p>La veille technologique est une activité qui met en œuvre des techniques d’acquisition, de stockage et d’analyse d’informations, concernant un produit ou un procédé, sur l’état de l’art et l’évolution de son environnement scientifique, technique, industriel ou commercial, afin de collecter, organiser, puis analyser et diffuser les informations pertinentes qui vont permettre d’anticiper les évolutions, et qui vont faciliter l’innovation. </p>
 									</div>
