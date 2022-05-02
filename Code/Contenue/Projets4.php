@@ -116,7 +116,7 @@
 											<li><a href="snake.php" class="button">Vidéo</a> 
 											</ul>
 										</article>
-									
+
 										<!-- banque -->
 										<article>
 											<a href="banquepdf.php" class="image"><img src="images/banque.png" alt="" /></a>
@@ -130,7 +130,7 @@
 										<article>
 											<a href="https://conservatoire.dhdolores.me/" class="image"><img src="images/Conservatoire.jpg" alt="" /></a>
 											<h3>Conservatoire de musique</h3>
-											<p>en c</p>
+											<p>en php</p>
 											<ul class="actions">
 											<li><a href="conservatoire.php" class="button"> Lien git</a> 
 											</ul>
