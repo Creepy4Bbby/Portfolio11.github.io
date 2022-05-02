@@ -113,10 +113,10 @@
 											<h3>SNAKE 2.0</h3>
 											<p>Reproduction libre du célébre jeu snake programmer en C</p>
 											<ul class="actions">
-											<li><a href="snake.php" class="button"> En savoir plus...</a> 
+											<li><a href="snake.php" class="button">Vidéo</a> 
 											</ul>
 										</article>
-
+									
 										<!-- banque -->
 										<article>
 											<a href="banquepdf.php" class="image"><img src="images/banque.png" alt="" /></a>
@@ -274,3 +274,5 @@ d1.style.display = "block";
 				 });
 			 });
  </script>
+
+ 
