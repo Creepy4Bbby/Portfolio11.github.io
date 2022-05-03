@@ -111,7 +111,7 @@
 										<article>
 											<a href="snakepdf.php" class="image"><img src="images/snake.png" alt="" /></a>
 											<h3>SNAKE 2.0</h3>
-											<p>Reproduction libre du célébre jeu snake programmer en C</p>
+											<p>Reproduction libre du célébre jeu snake programmer en C avec la SFML</p>
 											<ul class="actions">
 											<li><a href="snake.php" class="button">Vidéo</a> 
 											</ul>
