@@ -74,6 +74,16 @@
 									<br>
 									<div class="posts">
 									
+												<!-- Gestion conservatoire  -->
+												<article>
+											<a href="banquepdf.php" class="image"><img src="images/banque.png" alt="" /></a>
+											<h3>Banque</h3>
+											<p>Creation d'une interface en C# de compte en banque côté gestionnaire</p>
+											<ul class="actions">
+											<li><a href="banque.php" class="button"> En savoir plus...</a> 
+											</ul>
+										</article>
+					
 									<!-- Activité 1 sur la M2l  -->
 
 									<article>
@@ -107,16 +117,7 @@
 											</ul>
 										</article> -->
 
-										<!-- snake -->
-										<article>
-											<a href="snakepdf.php" class="image"><img src="images/snake.png" alt="" /></a>
-											<h3>SNAKE 2.0</h3>
-											<p>Reproduction libre du célébre jeu snake programmer en C avec la SFML</p>
-											<ul class="actions">
-											<li><a href="snake.php" class="button">Vidéo</a> 
-											</ul>
-										</article>
-
+							
 										<!-- banque -->
 										<article>
 											<a href="banquepdf.php" class="image"><img src="images/banque.png" alt="" /></a>
@@ -135,7 +136,16 @@
 											<li><a href="conservatoire.php" class="button"> Lien git</a> 
 											</ul>
 										</article>
-					
+
+									<!-- snake -->
+										<article>
+											<a href="snakepdf.php" class="image"><img src="images/snake.png" alt="" /></a>
+											<h3>SNAKE 2.0</h3>
+											<p>Reproduction libre du célébre jeu snake programmer en C avec la SFML</p>
+											<ul class="actions">
+											<li><a href="snake.php" class="button">Vidéo</a> 
+											</ul>
+										</article>
 
 							<!-- Section  pro  -->	
 

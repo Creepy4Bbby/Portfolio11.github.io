@@ -55,7 +55,7 @@
 								<strong><h1>Organisations : <br></strong></h1>
 								<h2>Avoir un bon lecteur de flux RSS mais pas que...</h2>
 </header>
-								<p> Le plus simple est d’utiliser un lecteur de flux RSS. Il en existe plein : Firefox, NetVibes, Google Alerts … Personnellement j'utilise aussi Google Alerts qui va m'envoyer un mail par jour concernant les nouveaux articles mis en ligne concernant le sujet de ma veille technologique. Il faut bien évidement faire le tri J'ai créé une adresse mail dédiée à ma veille qui récupère le flux.</p>
+								<p> Le plus simple est d’utiliser un lecteur de flux RSS. Il en existe plein : Firefox, NetVibes, Google Alerts … Personnellement j'utilise aussi Google Alerts qui va m'envoyer un mail par jour concernant les nouveaux articles mis en ligne concernant le sujet de ma veille technologique.Mais ce n'est pas la seule manière de se tenir au courant alors laisser moi vous montrer :) 
 </section>
 							<!-- Veilles -->
 								<section>
@@ -66,19 +66,30 @@
 
 											<!-- Affichage de base Veille 1 -->
 											<a class="image" id="veille1"><img src="images/cybe.jpg" alt="" /></a>
-											<h3>L'intelligence artificelle au servcie de la santé</h3>
-											<p>[Résumé veille 1]</p>
+											<h3>Cybersécurité</h3>
+											<p>[Organisation ↑ ]
+
+                                          <br>
+										
+
+											</p>
 
 											<!-- Contenu Popup Veille 1 -->
 											<div id="overlayv1" class="overlay">
 												<div id="popupv1" class="popup">
 													<h2>
-														Veille 1 <!-- Titre Veille -->
-														<span id="btnClosev1" class="btnClose">&times;</span> <!-- Bouton Fermer Veille -->
-													</h2>
-													<div>
-														Descriptif détaillé de la veille 1 <!-- Corps de la Veille -->
-													</div>
+													<span id="btnClosev1" class="btnClose">&times;</span> <!-- Bouton Fermer Veille -->
+														<marquee width="100%" scrollamount="8" scrolldelay="0" ><h2> Organisation Veille CYBERSECURITE</h2></marquee direction="right">
+</h2>
+													<a href="https://www.pearltrees.com/doloreshh/cybersecurite/id47172871">Perltrees</a>
+													<br>
+													<a href="https://discord.com/channels/911530029425520670/911545243541839883">Discord</a>
+													<br>
+													<a href="https://mail.google.com/mail/u/3/#label/Cybers%C3%A9curit%C3%A9">Mail dédié</a>
+													<br>
+												    <a href="https://www.jeunes-ihedn.org/comites/cyber/">IHEDN Comité cyber</a>
+													<br>
+													<a href="https://www.nolimitsecu.fr/">Podcast quotidien</a>
 												</div>
 											</div>
 
