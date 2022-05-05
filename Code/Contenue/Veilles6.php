@@ -119,11 +119,13 @@
 </h2>
 													<a href="https://www.pearltrees.com/julesthouvenin/interface-cerveau-machine/id47173299">Perltrees</a>
 													<br>
+													<a href="https://www.youtube.com/playlist?list=PLs3FH7Qv_ogwe-xnqCYWCSWyuxUn7qiHr">Playlist Youtube</a>
+													<br>
 													<a href="https://mail.google.com/mail/u/3/#label/Interface+Cerveau+machine">Mail dédié</a>
 													<br>
 													<a href="https://podcasts.google.com/queue">Podcast quotidien</a>
 												
-									
+													
 												</div>
 											</div>
 
@@ -158,12 +160,14 @@
 												
 														<span id="btnClosev3" class="btnClose">&times;</span>
 														<marquee width="100%" scrollamount="8" scrolldelay="0" ><h2> Organisation Veille BANCAIRE DANS L'INFORMATIQUES</h2></marquee direction="right">
-</h2>
-					
+														</h2>
+
+													<a href="https://www.youtube.com/playlist?list=PLs3FH7Qv_ogy0H8TpY-t_UbPJ-20u2SSD">Playlist Youtube</a>
+													<br>
 													<a href="https://mail.google.com/mail/u/3/#label/Bancaire+Info">Mail dédié</a>
 													<br>
 													<a href="https://podcasts.google.com/queue">Podcast quotidien</a>
-												
+													
 												</div>
 											</div>
 
@@ -199,7 +203,9 @@
 													<h2>
 													<span id="btnClosev4" class="btnClose">&times;</span>
 													<marquee width="100%" scrollamount="8" scrolldelay="0" ><h2> Organisation Veille IA AU SERVICE DE LA SANTE</h2></marquee direction="right">
-</h2>
+
+</h2>                                               <a href="https://www.youtube.com/playlist?list=PLs3FH7Qv_ogyUVG4mpqk4LGBYBOjMAZDD">Playlist Youtube</a>
+													<br>
 													<a href="https://www.pearltrees.com/julesthouvenin/interface-cerveau-machine/id47173299">Perltrees</a>
 													<br>
 													<a href="https://mail.google.com/mail/u/3/#label/IA+au+service+de+la+sant%C3%A9">Mail dédié</a>
