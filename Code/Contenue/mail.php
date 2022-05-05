@@ -8,7 +8,7 @@
 <body>
     <?php
     
-    $retour = mail('dolores.bby4@gmail.com', 'Envoi depuis la page Contact', $_POST['subject'], '$email');
+    $retour = mail('dolo', 'Envoi depuis la page Contact', $_POST['subject'], '$email');
     if ($retour)
         echo '<p>Votre message a bien été envoyé.</p>';
     ?>

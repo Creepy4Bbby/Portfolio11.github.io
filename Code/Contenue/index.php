@@ -27,7 +27,7 @@ include 'Header.php';
 										<a href="E4.php" class="button fit">Epreuve E4</a>
 										<a href="Veilles6.php" class="button fit">Veilles</a>
 										<a href="Cv7.php" class="button fit">CV</a>
-										<a href="Contacts8.php" class="button fit">Contacts</a>
+										<!-- <a href="Contacts8.php" class="button fit">Contacts</a> -->
 								</ul>
 
 								

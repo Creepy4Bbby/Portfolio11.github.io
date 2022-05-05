@@ -77,7 +77,7 @@
 												<!-- Gestion conservatoire  -->
 												<article>
 											<a href="banquepdf.php" class="image"><img src="images/banque.png" alt="" /></a>
-											<h3>Banque</h3>
+											<h3>Gestionnaire de conservatoire</h3>
 											<p>Creation d'une interface en C# de compte en banque côté gestionnaire</p>
 											<ul class="actions">
 											<li><a href="banque.php" class="button"> En savoir plus...</a> 
@@ -117,8 +117,17 @@
 											</ul>
 										</article> -->
 
+									<!-- conservatoire -->
+											<article>
+											<a href="https://conservatoire.dhdolores.me/" class="image"><img src="images/Conservatoire.jpg" alt="" /></a>
+											<h3>Conservatoire de musique</h3>
+											<p>en php</p>
+											<ul class="actions">
+											<li><a href="conservatoire.php" class="button"> Lien git</a> 
+											</ul>
+										</article>
 							
-										<!-- banque -->
+										<!-- Gestionnaire Conservatoire -->
 										<article>
 											<a href="banquepdf.php" class="image"><img src="images/banque.png" alt="" /></a>
 											<h3>Banque</h3>
@@ -127,15 +136,7 @@
 											<li><a href="banque.php" class="button"> En savoir plus...</a> 
 											</ul>
 										</article>
-									<!-- conservatoire -->
-										<article>
-											<a href="https://conservatoire.dhdolores.me/" class="image"><img src="images/Conservatoire.jpg" alt="" /></a>
-											<h3>Conservatoire de musique</h3>
-											<p>en php</p>
-											<ul class="actions">
-											<li><a href="conservatoire.php" class="button"> Lien git</a> 
-											</ul>
-										</article>
+						
 
 									<!-- snake -->
 										<article>
@@ -229,8 +230,7 @@
 										<!-- <li><a href="Experiences5.php">Expériences</a></li> -->
 										<li><a href="Veilles6.php">Veilles</a></li>
 										<li><a href="Cv7.php">CV</a></li>
-										<li><a href="Contacts8.php">Contacts</a></li>
-										<li><a href="elements.html">Elements</a></li>
+								
 </li>
 										
 								</nav>

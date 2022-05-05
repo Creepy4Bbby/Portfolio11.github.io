@@ -26,17 +26,9 @@
 
 									<!-- Header -->
 									<header id="header">
-									<a href="Contacts8.php" class="logo"><strong>Me suivre...&nbsp </strong> &nbsp &nbsp &nbsp ici &nbsp →  </a><div align="center"><h1><a href="index.php">Veilles</h1></a></div>
+								</a><div align="center"><h1><a href="index.php">Veilles</h1></a></div>
 
-									<ul class="icons">
-										<li><a href="https://github.com/Creepy4Bbby" class="icon brands fab fa-github"><span class="label">GitHub</span></a></li>
-										<li><a href="Contacts8.php" class="icon brands fab fa-linkedin "><span class="label">Linkdin</span></a></li>
-										
-									</ul>
 								</header>
-
-
-
 
 							<!-- Banner -->
 								<section id="banner">
@@ -115,18 +107,23 @@
 											<!-- Affichage de base Veille 2 -->
 											<a class="image" id="veille2"><img src="images/ICM.jpg" alt="" /></a>
 											<h3>L'intervace cerveau-machine</h3>
-											<p>[Résumé veille 2]</p>
+											<p>[Organisation ↑]</p>
 
 											<!-- Contenu Popup Veille 2 -->
 											<div id="overlayv2" class="overlay">
 												<div id="popupv2" class="popup">
 													<h2>
-														Veille 2 
+												
 														<span id="btnClosev2" class="btnClose">&times;</span>
-													</h2>
-													<div>
-														Descriptif détaillé de la veille 2.
-													</div>
+														<marquee width="100%" scrollamount="8" scrolldelay="0" ><h2> Organisation Veille INTERFACE CERVEAU MACHINE</h2></marquee direction="right">
+</h2>
+													<a href="https://www.pearltrees.com/julesthouvenin/interface-cerveau-machine/id47173299">Perltrees</a>
+													<br>
+													<a href="https://mail.google.com/mail/u/3/#label/Interface+Cerveau+machine">Mail dédié</a>
+													<br>
+													<a href="https://podcasts.google.com/queue">Podcast quotidien</a>
+												
+									
 												</div>
 											</div>
 
@@ -151,19 +148,22 @@
 
 											<!-- Affichage de base Veille 3 -->
 											<a class="image" id="veille3"><img src="images/adveille.jpg" alt="" /></a>
-											<h3>Bancaire</h3>
-											<p>[Résumé veille 3]</p>
+											<h3>Bancaire dans l'informatique</h3>
+											<p>[[Organisation ↑]]</p>
 
 											<!-- Contenu Popup Veille 3 -->
 											<div id="overlayv3" class="overlay">
 												<div id="popupv3" class="popup">
 													<h2>
-														Veille 3 
+												
 														<span id="btnClosev3" class="btnClose">&times;</span>
-													</h2>
-													<div>
-														Descriptif détaillé de la veille 3.
-													</div>
+														<marquee width="100%" scrollamount="8" scrolldelay="0" ><h2> Organisation Veille BANCAIRE DANS L'INFORMATIQUEs</h2></marquee direction="right">
+</h2>
+					
+													<a href="https://mail.google.com/mail/u/3/#label/Bancaire+Info">Mail dédié</a>
+													<br>
+													<a href="https://podcasts.google.com/queue">Podcast quotidien</a>
+												
 												</div>
 											</div>
 
@@ -191,18 +191,20 @@
 											<!-- Affichage de base Veille 4 -->
 											<a class="image" id="veille4"><img src="images/IAS.jpg" alt="" /></a>
 											<h3>L'intelligence Artificiel au service de la santé</h3>
-											<p>[Résumé veille 2]</p>
+											<p>[Organisation ↑]</p>
 
 											<!-- Contenu Popup Veille 2 -->
 											<div id="overlayv4" class="overlay">
 												<div id="popupv4" class="popup">
 													<h2>
-														Veille 4
-														<span id="btnClosev4" class="btnClose">&times;</span>
-													</h2>
-													<div>
-													<a class="image" id="veille3"><img src="images/adveille.jpg" alt="" /></a>
-													</div>
+													<marquee width="100%" scrollamount="8" scrolldelay="0" ><h2> Organisation Veille IA AU SERVICE DE LA SANTE</h2></marquee direction="right">
+</h2>
+													<a href="https://www.pearltrees.com/julesthouvenin/interface-cerveau-machine/id47173299">Perltrees</a>
+													<br>
+													<a href="https://mail.google.com/mail/u/3/#label/IA+au+service+de+la+sant%C3%A9">Mail dédié</a>
+													<br>
+													<a href="https://podcasts.google.com/queue">Podcast quotidien</a>
+												
 												</div>
 											</div>
 
@@ -254,7 +256,7 @@
 										<li><a href="Projets4.php">Projets</a></li>
 										<li><a href="Veilles6.php">Veilles</a></li>
 										<li><a href="Cv7.php">CV</a></li>
-										<li><a href="Contacts8.php">Contacts</a></li>
+								
 									
 									
 </nav>

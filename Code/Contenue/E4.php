@@ -1,3 +1,4 @@
+
 <!DOCTYPE HTML>
 
 <html>
@@ -21,7 +22,7 @@
 
 								<!-- Header -->
 								<header id="header">
-									<a href="Contacts8.php" class="logo"> <div align="center"><h1><a href="PageAccueil.php">SNAKE</h1></a></div> </a>
+									<a href="Contacts8.php" class="logo"><div align="center"><h1><a href="PageAccueil.php">E4</h1></a></div> </a>
 									<ul class="icons">
 										<li><a href="https://github.com/Creepy4Bbby"><span class="label"></span></a></li>
 										<li><a href="Contacts8.php" ><span class="label"></span></a></li>
@@ -29,12 +30,11 @@
 									</ul>
 								</header>
 <br>
-
 							<!-- Banner -->
 								<section id="banner">
-								<div class="snake">
+								<div class="container">
 								<br><br>
-                                <video src="images/snake.mov " controls></video>
+                                <embed src="images/Synthese.pdf" type="application/pdf" width="100%" height="700px" />
 <br>
 <br>
 <br>
@@ -60,11 +60,11 @@
 									
 										<li><a href="index.php">Accueil</a></li>
 										<li><a href="Parcours3.php">Parcours</a></li>
-										<li><a href="Projet4.php">Projet</a></li>
+										<li><a href="E4.php">Epreuve E4</a></li>
+										<li><a href="Projets4.php">Projets</a></li>
 										<li><a href="Veilles6.php">Veilles</a></li>
 										<li><a href="CV7.php">CV</a></li>
-										<li><a href="Contacts8.php">Contacts</a></li>
-										<li><a href="elements.html">Elements</a></li>
+									
 </ul>
 									
 								</nav>
