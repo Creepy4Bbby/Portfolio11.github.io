@@ -64,7 +64,7 @@
 									<ul>
 										<li><a href="index.php">Accueil</a></li>
 										<li><a href="Parcours3.php">Parcours</a></li>
-										<li><a href="E4.php">E4</a></li>
+										<li><a href="E4.php">Epreuve E4</a></li>
 										<li><a href="Projets4.php">Projets</a></li>
 										<li><a href="Veilles6.php">Veilles</a></li>
 										<li><a href="CV7.php">CV</a></li>
