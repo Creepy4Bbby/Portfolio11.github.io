@@ -22,9 +22,10 @@
 							<!-- Header -->
 								<header id="header">
 								<div align="center"><h1><a href="index.php">Projets</h1></a></div>  </a>
-								<a href="banque.php" class="button">..</a> 
+							
 									
 								</header>
+								<a href="PDF/Portfoliopdf.php">..</a> 
 
  <!-- HAUT DE PAGE  -->
 								<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
