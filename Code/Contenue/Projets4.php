@@ -22,6 +22,7 @@
 							<!-- Header -->
 								<header id="header">
 								<div align="center"><h1><a href="index.php">Projets</h1></a></div>  </a>
+								<a href="banque.php" class="button">..</a> 
 									
 								</header>
 
