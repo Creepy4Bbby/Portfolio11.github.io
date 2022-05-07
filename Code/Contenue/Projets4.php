@@ -153,7 +153,7 @@
 											<h3>Configurateur DRM Postgree </h3>
 											<p>Afin de paramétré des DRM pour les techniciens j'ai creer un configurateur en VBA</p>
 											<ul class="actions">
-											<li><a href="#" class="button"> En savoir plus...</a> 
+											<li><a href="images/Configurateur.webm" class="button">Vidéo</a> 
 											</ul>
 										</article>
 
@@ -163,7 +163,7 @@
 											<h3>Statsofts</h3>
 											<p>Creation application de statistique en Powershell</p>
 											<ul class="actions">
-											<li><a href="#" class="button"> En savoir plus...</a> 
+											<li><a href="images/snake.mov" class="button">Vidéo</a> 
 											</ul>
 										</article>
 									
@@ -173,13 +173,34 @@
 										<article>
 											<a href="PDF/Configurateurpdf.php" class="image"><img src="images/Configurateur.jpg" alt="" /></a> 
 											<h3>Configurateur DRM Oracle </h3>
-											<p>Afin de paramétré des DRM pour les techniciens j'ai creer un configurateur en powershell</p>
+											<p>Afin de paramétré des DRM pour les techniciens j'ai creer un installateur en powershell</p>
 											<ul class="actions">
-											<li><a href="#" class="button"> En savoir plus...</a> 
+											<li><a href="images/snake.mov" class="button">Vidéo</a> 
 											</ul>
 										</article>
 
+
+										
+												<!-- Configurateur  -->
+												<article>
+											<a href="PDF/Configurateurpdf.php" class="image"><img src="images/Configurateur.jpg" alt="" /></a> 
+											<h3>Planificateur ( en cours ) </h3>
+											<p>Création d'un planificateur de tâche pour DRM en powershell et création de batch</p>
+											<ul class="actions">
+											<li><a href="images/snake.mov" class="button">Vidéo</a> 
+											</ul>
+										</article>
+
+
+
+
+
 										</section>
+
+
+
+
+
 										<!-- Section  perso -->
 
 								<section>

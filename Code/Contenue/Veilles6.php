@@ -48,7 +48,8 @@
 								<h2>Avoir un bon lecteur de flux RSS mais pas que...</h2>
 </header>
 								<p> Le plus simple est d’utiliser un lecteur de flux RSS. Il en existe plein : Firefox, NetVibes, Google Alerts … Personnellement j'utilise aussi Google Alerts qui va m'envoyer un mail par jour concernant les nouveaux articles mis en ligne concernant le sujet de ma veille technologique.Mais ce n'est pas la seule manière de se tenir au courant alors laisser moi vous montrer :) 
-</section>
+						<br>	<a href="PDF/Veillepdf.php">ORGANISATION EXPLICATIONS </a>
+							</section>				
 							<!-- Veilles -->
 								<section>
 									<div class="posts">
