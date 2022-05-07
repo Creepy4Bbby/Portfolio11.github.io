@@ -36,18 +36,21 @@ include 'Header.php';
 										</div>
 
 									
-									<h3><p>Vous allez naviguez dans mon parcour scolaire et professionnelle ainsi 
-										que tout les actualités informatique et numérique</p></h3>
+									<h3><p>Vous allez naviguer 
+										dans mon parcours scolaire et professionnel ainsi que toutes les actualités informatiques et numériques.</p></h3>
 
 									
 
-									<h2>A mon propos </h2>
-									<p> Bonjour j'ai 20 ans et je m'appelle HUET Dolores.<br>Actuellement en deuxième année de BTS SIO <strong>"Services Informatiques aux Organisations spécialité en Solutions d'Infrastructure"</strong> SLAM<strong>"Solutions Logicielles et Applications Métiers"</strong> en Alternance à l'EFREI  </p>
-									<p> Dans le cadre de mon epreuve E4 j'ai du effectuer le portfolio que voici.J'ai choisis l'axe 2 car je trouve cela plus professionnelle et parlant pour les entreprises de recruté avec une ressource comme celle-ci et puis c'est plus enrichissant pour moi d'avoir réalisé un projet comme la création de celui-ci.
+									<h2>À mon propos</h2>
+									<p> <strong>Bonjour, j'ai 20 ans et je m'appelle HUET Dolores.<br>Actuellement en deuxième année de BTS SIO"Services Informatiques aux Organisations spécialité en Solutions d'Infrastructure" SLAM"Solutions Logicielles et Applications Métiers" en Alternance à l'EFREI</p>
+									<p>
+				                     Dans le cadre de mon épreuve E4, j'ai 
+			                        dû effectuer le portfolio ( en php / html css ) que voici. 
+				                    J'ai choisi l'axe 2 car je trouve cela plus professionnelle et parlant pour les entreprises de recruté avec une ressource comme celle-ci et puis c'est plus enrichissant pour moi d'avoir réalisé un projet comme la création de celui-ci.
 									
-									<p>Depuis mes jeunes années, j’ai toujours été attiré par l’informatique et les nouvelles technologies. C’est tout naturellement que je me suis tourné vers ces études, en effectuant mes trois années d’études en BAC PRO « Système et Numérique », et en poursuivant vers ce BTS.Je poursuis mon parcours en intégrant à la rentrée de septembre 2022 un Bachelor Cybersécurité et Ethical Hacking en alternance afin de renforcer mes connaissances et m'épanouir dans ce domaine devenu très important dans notre société.D'autant plus avec ces années compliqué, avec la crise sanitaire que nous avons vécu créant dans le domaine numérique d'importantes fails dans de nombreux systèmes.</p>
+									<p>Depuis mes jeunes années, j’ai toujours été attiré par l’informatique et les nouvelles technologies. C’est tout naturellement que je me suis tourné vers ces études, en effectuant mes trois années d’études en BAC PRO « Système et Numérique », et en poursuivant vers ce BTS. Je poursuis mon parcours en intégrant à la rentrée de septembre 2022 un Bachelor Cybersécurité et Ethical Hacking en alternance afin de renforcer mes connaissances et de m'épanouir dans ce domaine devenu très important dans notre société. D'autant plus avec ces années compliqué, avec la crise sanitaire que nous avons vécu créant dans le domaine numérique d'importantes faille dans de nombreux systèmes.</p>
 									<p> Par les nombreux stages et mon expériences en alternances j'ai pu acquerirs de nombreuses compétences dans la programmations informatique ainsi que dans la maintenances de réseaux.
-									
+									</strong> 
 									<br>
 
 								</section>
