@@ -82,7 +82,7 @@
 											<h3>Gestionnaire de conservatoire</h3>
 											<p>Creation d'une interface en C# de compte en banque côté gestionnaire</p>
 											<ul class="actions">
-											<li><a href="images/Gestion.mp4" class="button"> En savoir plus...</a> 
+											<li><a href="images/Gestion.mp4" class="button"> Vidéo <a> 
 											</ul>
 										</article>
 					
@@ -118,33 +118,34 @@
 											</ul>
 										</article>
 
+										<!-- Calculatrice -->
 									<article>
 											<a href="#" class="image"><img src="images/cal.png" alt="" /></a>
-											<h3>Portfolio</h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+											<h3>Calculatrice</h3>
+											<p>Fait en C en utilisant git bash et l'IDE visual studio code 	</p>
 											<ul class="actions">
-												<li><a href="#" class="button">More</a></li>
+												<li><a href="/Calpdf.php" class="button">Doc</a></li>
 											</ul>
 										</article> 
 							
-										<!-- Gestionnaire Conservatoire -->
+										<!-- Banque -->
 										<article>
 											<a href="banquepdf.php" class="image"><img src="images/banque.png" alt="" /></a>
 											<h3>Banque</h3>
 											<p>Creation d'une interface en C# de compte en banque côté gestionnaire</p>
 											<ul class="actions">
-											<li><a href="banque.php" class="button"> En savoir plus...</a> 
+											<li><a href="images/Gestion.mp4" class="button"> Vidéo <a> 
 											</ul>
 										</article>
 						
 
 									<!-- snake -->
 										<article>
-											<a href="snakepdf.php" class="image"><img src="images/snake.png" alt="" /></a>
+											<a href="PDF/Snakepdf.php" class="image"><img src="images/snake.png" alt="" /></a>
 											<h3>SNAKE 2.0</h3>
 											<p>Reproduction libre du célébre jeu snake programmer en C avec la SFML</p>
 											<ul class="actions">
-											<li><a href="snake.php" class="button">Vidéo</a> 
+											<li><a href="images/snake.mov" class="button">Vidéo</a> 
 											</ul>
 										</article>
 
