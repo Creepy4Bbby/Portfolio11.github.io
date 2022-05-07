@@ -75,70 +75,47 @@
 									<br>
 									<br>
 									<div class="posts">
-									
-												<!-- Gestion conservatoire  -->
-												<article>
-											<a href="banquepdf.php" class="image"><img src="images/banque.png" alt="" /></a>
-											<h3>Gestionnaire de conservatoire</h3>
-											<p>Creation d'une interface en C# de compte en banque côté gestionnaire</p>
+
+										<!-- Banque -->
+										<article>
+											<a href="PDF/Banquepdf.php" class="image"><img src="images/banque.png" alt="" /></a>
+											<h3>Banque</h3>
+											<p>Creation d'une interface en C# de compte en banque</p>
 											<ul class="actions">
 											<li><a href="images/Gestion.mp4" class="button"> Vidéo <a> 
 											</ul>
 										</article>
-					
-									<!-- Activité 1 sur la M2l  -->
-
+						
+									<!--  M2l  -->
 									<article>
 											<a href="M2L.php" class="image"><img src="images/M2L.jpg" alt="" /></a> 
-									
-									
-											<!-- <a href="M2Lpdf.php" class="image"><img src="images/M2L.jpg" alt="" /></a> -->
 											<h3> La Maison Des Ligues </h3>
 											<p>Contexte : site logistique des inscriptions,<br>réservations de salles,forum ect..</p>
 											<ul class="actions">
-												<!-- <li> <button id="togg1">En savoir plus...</button> -->
-												<li><a href="https://github.com/thomasnastorg/L2M" class="button"> Lien git </a> 
+											<li><a href="https://github.com/thomasnastorg/L2M" class="button"> Lien git </a> 
 											</ul>
-
-											<!-- <div id="d1">
-												<p>Ce texte appartient au premier div de ma page</p>
-												<p>Ce deuxième paragraphe également</p>
-									    	</div> -->
-
-
 										</article>
 
 									<!-- conservatoire -->
 											<article>
 											<a href="https://conservatoire.dhdolores.me/" class="image"><img src="images/Conservatoire.jpg" alt="" /></a>
 											<h3>Conservatoire de musique</h3>
-											<p>en php</p>
+											<p>en php avec phpmyadmin</p>
 											<ul class="actions">
-											<li><a href="conservatoire.php" class="button"> Lien git</a> 
+											<li><a href="https://github.com/Creepy4Bbby/Projetzicmu" class="button"> Lien git</a> 
 											</ul>
 										</article>
 
 										<!-- Calculatrice -->
-									<article>
-											<a href="#" class="image"><img src="images/cal.png" alt="" /></a>
+								        	<article>
+											<a href="PDF/Calpdf.php" class="image"><img src="images/cal.png" alt="" /></a>
 											<h3>Calculatrice</h3>
 											<p>Fait en C en utilisant git bash et l'IDE visual studio code 	</p>
 											<ul class="actions">
-												<li><a href="/Calpdf.php" class="button">Doc</a></li>
+												<li><a href="PDF/Calpdf.php" class="button">Doc</a></li>
 											</ul>
 										</article> 
 							
-										<!-- Banque -->
-										<article>
-											<a href="banquepdf.php" class="image"><img src="images/banque.png" alt="" /></a>
-											<h3>Banque</h3>
-											<p>Creation d'une interface en C# de compte en banque côté gestionnaire</p>
-											<ul class="actions">
-											<li><a href="images/Gestion.mp4" class="button"> Vidéo <a> 
-											</ul>
-										</article>
-						
-
 									<!-- snake -->
 										<article>
 											<a href="PDF/Snakepdf.php" class="image"><img src="images/snake.png" alt="" /></a>
@@ -149,6 +126,16 @@
 											</ul>
 										</article>
 
+									<!-- Gestion conservatoire  -->
+										<article>
+											<a href="banquepdf.php" class="image"><img src="images/banque.png" alt="" /></a>
+											<h3>Gestionnaire de conservatoire</h3>
+											<p>Creation d'une interface en C# de compte en banque côté gestionnaire</p>
+											<ul class="actions">
+											<li><a href="images/Gestion.mp4" class="button"> Vidéo <a> 
+											</ul>
+										</article>
+					
 							<!-- Section  pro  -->	
 
 										</section>
@@ -160,25 +147,39 @@
 									<br>
 									<div class="posts">
 										
+										<!-- Configurateur  -->
 										<article>
-											
 											<a href="PDF/Configurateurpdf.php" class="image"><img src="images/Configurateur.jpg" alt="" /></a> 
-											<h3>Configurateur DRM </h3>
-											<p>Afin de paramétré des DRM pour les techniciens j'ai creer un configurateur</p>
+											<h3>Configurateur DRM Postgree </h3>
+											<p>Afin de paramétré des DRM pour les techniciens j'ai creer un configurateur en VBA</p>
 											<ul class="actions">
 											<li><a href="#" class="button"> En savoir plus...</a> 
 											</ul>
 										</article>
+
+										<!-- Statsoft -->
 										<article>
 											<a href="PDF/Statsoftpdf.php" class="image"><img src="images/Statsoft.jpg" alt="" /></a>
 											<h3>Statsofts</h3>
-											<p>Creation application de statistique</p>
+											<p>Creation application de statistique en Powershell</p>
 											<ul class="actions">
 											<li><a href="#" class="button"> En savoir plus...</a> 
 											</ul>
 										</article>
-										</section>
+									
 
+
+										<!-- Configurateur  -->
+										<article>
+											<a href="PDF/Configurateurpdf.php" class="image"><img src="images/Configurateur.jpg" alt="" /></a> 
+											<h3>Configurateur DRM Oracle </h3>
+											<p>Afin de paramétré des DRM pour les techniciens j'ai creer un configurateur en powershell</p>
+											<ul class="actions">
+											<li><a href="#" class="button"> En savoir plus...</a> 
+											</ul>
+										</article>
+
+										</section>
 										<!-- Section  perso -->
 
 								<section>
