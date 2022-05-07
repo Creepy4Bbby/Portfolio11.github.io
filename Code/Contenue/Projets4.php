@@ -25,7 +25,7 @@
 							
 									
 								</header>
-								<a href="PDF/Portfoliopdf.php">..</a> 
+								<a href="PDF /Portfoliopdf.php">..</a> 
 
  <!-- HAUT DE PAGE  -->
 								<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
@@ -82,7 +82,7 @@
 											<h3>Gestionnaire de conservatoire</h3>
 											<p>Creation d'une interface en C# de compte en banque côté gestionnaire</p>
 											<ul class="actions">
-											<li><a href="banque.php" class="button"> En savoir plus...</a> 
+											<li><a href="images/Gestion.mp4" class="button"> En savoir plus...</a> 
 											</ul>
 										</article>
 					
