@@ -91,7 +91,7 @@
 									</ol>
 									</section>
 <section>
-	<h1>Dans le futur <h1>
+	<h1>Dans le futur </h1>
 									<ol>
 									<li>
 										<p class="diplome"><a href="PDF/Masterpdf.php" class="image">Master of Science Cybersécurité & Management </a></p>
