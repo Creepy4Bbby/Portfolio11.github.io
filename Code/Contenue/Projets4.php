@@ -159,7 +159,7 @@
 
 										<!-- Configurateur  -->
 										<article>
-											<a href="PDF/Configurateurpdf.php" class="image"><img src="images/Configurateur.jpg" alt="" /></a> 
+											<a href="PDF/Configurateurpdf.php" class="image"><img src="images/configurateur.jpg" alt="" /></a> 
 											<h3>Configurateur DRM Postgree </h3>
 											<p>Afin de paramétré des DRM pour les techniciens j'ai creer un configurateur en VBA</p>
 											<ul class="actions">
