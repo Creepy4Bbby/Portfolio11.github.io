@@ -147,6 +147,16 @@
 									<br>
 									<div class="posts">
 										
+			<!-- Configurateur  -->
+			<article>
+											<a href="PDF/Configurateurpdf.php" class="image"><img src="images/plannificateur.jpg" alt="" /></a> 
+											<h3>Planificateur ( en cours ) </h3>
+											<p>Création d'un planificateur de tâche pour DRM en powershell et création de batch</p>
+											<ul class="actions">
+											<li><a href="images/snake.mov" class="button">Vidéo</a> 
+											</ul>
+										</article>
+
 										<!-- Configurateur  -->
 										<article>
 											<a href="PDF/Configurateurpdf.php" class="image"><img src="images/Configurateur.jpg" alt="" /></a> 
@@ -163,36 +173,19 @@
 											<h3>Statsofts</h3>
 											<p>Creation application de statistique en Powershell</p>
 											<ul class="actions">
-											<li><a href="images/snake.mov" class="button">Vidéo</a> 
+											<li><a href="images/Configurateur.webm" class="button">Vidéo</a> 
 											</ul>
 										</article>
-									
-
-
+										
 										<!-- Configurateur  -->
 										<article>
-											<a href="PDF/Configurateurpdf.php" class="image"><img src="images/Configurateur.jpg" alt="" /></a> 
+											<a href="PDF/Configurateurpdf.php" class="image"><img src="images/Installateur.jpg" alt="" /></a> 
 											<h3>Configurateur DRM Oracle </h3>
 											<p>Afin de paramétré des DRM pour les techniciens j'ai creer un installateur en powershell</p>
 											<ul class="actions">
-											<li><a href="images/snake.mov" class="button">Vidéo</a> 
+											<li><a href="images/Installateur.webm" class="button">Vidéo</a> 
 											</ul>
 										</article>
-
-
-										
-												<!-- Configurateur  -->
-												<article>
-											<a href="PDF/Configurateurpdf.php" class="image"><img src="images/Configurateur.jpg" alt="" /></a> 
-											<h3>Planificateur ( en cours ) </h3>
-											<p>Création d'un planificateur de tâche pour DRM en powershell et création de batch</p>
-											<ul class="actions">
-											<li><a href="images/snake.mov" class="button">Vidéo</a> 
-											</ul>
-										</article>
-
-
-
 
 
 										</section>
