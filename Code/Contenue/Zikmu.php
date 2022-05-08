@@ -22,20 +22,16 @@
 
 								<!-- Header -->
 								<header id="header">
-									<a href="Contacts8.php" class="logo"><strong>Me suivre...&nbsp </strong> &nbsp &nbsp &nbsp ici &nbsp → <div align="center"><h1><a href="PageAccueil.php">M2L</h1></a></div> </a>
-									<ul class="icons">
-										<li><a href="https://github.com/Creepy4Bbby" class="icon brands fab fa-github"><span class="label">GitHub</span></a></li>
-										<li><a href="Contacts8.php" class="icon brands fab fa-linkedin "><span class="label">Linkdin</span></a></li>
-										
-									</ul>
+									<div align="center"><h2><a href="PageAccueil.php">Conservatoire Ziqmu Intranet </h2></a>
+								
 								</header>
 <br>
-<a href="https://docs.google.com/spreadsheets/d/1H8qbyT8ViCYmXxE5tXnyYN19tsT0CXScEqNhVhiN0_o/edit#gid=1386834576" > <h1> Tableau de suivi</h1><a/a>
+<a href="https://conservatoire.dhdolores.me/" > <h1> Lien du site </h1><a/a>
 							<!-- Banner -->
 								<section id="banner">
 								<div class="container">
 								<br><br>
-                                <embed src="images/M2L.pdf" type="application/pdf" width="100%" height="700px" />
+                                <embed src="images/Ziqmu.pdf" type="application/pdf" width="100%" height="700px" />
 <br>
 <br>
 <br>
@@ -62,7 +58,7 @@
 										<li><a href="index.php">Accueil</a></li>
 										<li><a href="Parcours3.php">Parcours</a></li>
 										<li><a href="Projet4.php">Projet</a></li>
-										<li><a href="E4.php">Epreuve E4</a></li>
+                                        <li><a href="E4.php">Epreuve E4</a></li>
 										<li><a href="Veilles6.php">Veilles</a></li>
 										<li><a href="CV7.php">CV</a></li>
 								

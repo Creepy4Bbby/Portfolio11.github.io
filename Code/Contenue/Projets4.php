@@ -98,7 +98,7 @@
 
 									<!-- conservatoire -->
 											<article>
-											<a href="https://conservatoire.dhdolores.me/" class="image"><img src="images/Conservatoire.jpg" alt="" /></a>
+											<a href="Zikmu.php" class="image"><img src="images/Conservatoire.jpg" alt="" /></a>
 											<h3>Conservatoire de musique</h3>
 											<p>en php avec phpmyadmin</p>
 											<ul class="actions">
@@ -128,11 +128,11 @@
 
 									<!-- Gestion conservatoire  -->
 										<article>
-											<a href="banquepdf.php" class="image"><img src="images/banque.png" alt="" /></a>
+											<a href="PDF/Gestionnairepdf.php" class="image"><img src="images/Gestionnaire.jpg" alt="" /></a>
 											<h3>Gestionnaire de conservatoire</h3>
 											<p>Creation d'une interface en C# de compte en banque côté gestionnaire</p>
 											<ul class="actions">
-											<li><a href="images/Gestion.mp4" class="button"> Vidéo <a> 
+											<li><a href="https://github.com/Creepy4Bbby/GestionConservatoire/tree/main/Banque%20V4%20-%20Etudiants" class="button"> Lien Git <a> 
 											</ul>
 										</article>
 					
@@ -173,7 +173,7 @@
 											<h3>Statsofts</h3>
 											<p>Creation application de statistique en Powershell</p>
 											<ul class="actions">
-											<li><a href="images/Configurateur.webm" class="button">Vidéo</a> 
+											<!-- <li><a href="images/Configurateur.webm" class="button">Vidéo</a>  -->
 											</ul>
 										</article>
 										
@@ -241,9 +241,8 @@
 									<ul>
 										<li><a href="index.php">Accueil</a></li>
 										<li><a href="Parcours3.php">Parcours</a></li>
-										<li><a href="E4.php">Epreuve E4</a></li>
 										<li><a href="Projets4.php">Projets</a></li>
-										<!-- <li><a href="Experiences5.php">Expériences</a></li> -->
+										<li><a href="E4.php">Epreuve E4</a></li>
 										<li><a href="Veilles6.php">Veilles</a></li>
 										<li><a href="Cv7.php">CV</a></li>
 								
