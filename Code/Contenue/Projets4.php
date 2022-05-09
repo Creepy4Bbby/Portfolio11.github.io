@@ -153,7 +153,7 @@
 											<h3>Planificateur ( en cours ) </h3>
 											<p>Création d'un planificateur de tâche pour DRM en powershell et création de batch</p>
 											<ul class="actions">
-											<li><a href="images/snake.mov" class="button">Vidéo</a> 
+											<li><a href="PDF/Planifpdf.php" class="button">Doc</a> 
 											</ul>
 										</article>
 
