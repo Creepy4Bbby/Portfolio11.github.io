@@ -85,6 +85,8 @@
 													<a href="https://www.nolimitsecu.fr/">Podcast quotidien</a>
 						<br>
 													<a href="https://news.tech2tech.fr/p/i/?a=normal&get=c_6">Flux RSS</a>
+													<br>
+													<a href="https://www.ssi.gouv.fr/">AN</a><a href="https://github.com/ANSSI-FR">SSI</a>
 
 												</div>
 											</div>
@@ -128,7 +130,10 @@
 													<a href="https://mail.google.com/mail/u/3/#label/Interface+Cerveau+machine">Mail dédié</a>
 													<br>
 													<a href="https://podcasts.google.com/queue">Podcast quotidien</a>
+<br><br>
+                                                    <a href="detail.php">Détails</a>
 												
+											
 													
 												</div>
 											</div>

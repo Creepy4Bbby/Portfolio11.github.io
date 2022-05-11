@@ -22,18 +22,17 @@
 
 								<!-- Header -->
 								<header id="header">
-									<a href="Contacts8.php" class="logo"><strong>Me suivre...&nbsp </strong> &nbsp &nbsp &nbsp ici &nbsp → <div align="center"><h1><a href="PageAccueil.php">M2L</h1></a></div> </a>
+									<a href="Contacts8.php" class="logo"><<div align="center"><h1><a href="PageAccueil.php">Veilles détails</h1></a></div> </a>
 									<ul class="icons">
-								
+									
 									</ul>
 								</header>
-<br>
-<a href="https://docs.google.com/spreadsheets/d/1H8qbyT8ViCYmXxE5tXnyYN19tsT0CXScEqNhVhiN0_o/edit#gid=1386834576" > <h1> Tableau de suivi</h1><a/a>
+
 							<!-- Banner -->
 								<section id="banner">
 								<div class="container">
 								<br><br>
-                                <embed src="images/M2L.pdf" type="application/pdf" width="100%" height="700px" />
+                                <embed src="images/ICM.pdf" type="application/pdf" width="100%" height="700px" />
 <br>
 <br>
 <br>
