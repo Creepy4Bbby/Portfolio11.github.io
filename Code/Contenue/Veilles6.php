@@ -83,6 +83,9 @@
 												    <a href="https://www.jeunes-ihedn.org/comites/cyber/">IHEDN Comité cyber</a>
 													<br>
 													<a href="https://www.nolimitsecu.fr/">Podcast quotidien</a>
+						<br>
+													<a href="https://news.tech2tech.fr/p/i/?a=normal&get=c_6">Flux RSS</a>
+
 												</div>
 											</div>
 

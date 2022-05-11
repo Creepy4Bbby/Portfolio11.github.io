@@ -149,11 +149,12 @@
 										
 			<!-- Configurateur  -->
 			<article>
-											<a href="PDF/Configurateurpdf.php" class="image"><img src="images/plannificateur.jpg" alt="" /></a> 
+											<a href="PDF/Plannifpdf.php" class="image"><img src="images/plannificateur.jpg" alt="" /></a> 
 											<h3>Planificateur ( en cours ) </h3>
-											<p>Création d'un planificateur de tâche pour DRM en powershell et création de batch</p>
+											<p>Création d'un planificateur de tâche pour DRM en powershell et création de batch</p><br>
+											<p>Les techniciens vont intervenir sur les machines et installer les batchs afin d'automatiser des tâches creer en amont par mes soins</p>
 											<ul class="actions">
-											<li><a href="PDF/Planifpdf.php" class="button">Doc</a> 
+											<!-- <li><a href="PDF/Plannifpdf.php" class="button">Doc</a>  -->
 											</ul>
 										</article>
 
@@ -171,7 +172,7 @@
 										<article>
 											<a href="PDF/Statsoftpdf.php" class="image"><img src="images/Statsoft.jpg" alt="" /></a>
 											<h3>Statsofts</h3>
-											<p>Creation application de statistique en Powershell</p>
+											<p>Creation application de statistique en Powershell → Pour les Clients</p>
 											<ul class="actions">
 											<!-- <li><a href="images/Configurateur.webm" class="button">Vidéo</a>  -->
 											</ul>
@@ -179,7 +180,7 @@
 										
 										<!-- Configurateur  -->
 										<article>
-											<a href="PDF/Configurateurpdf.php" class="image"><img src="images/Installateur.jpg" alt="" /></a> 
+											<a href="PDF/Installateurpdf.php" class="image"><img src="images/Installateur.jpg" alt="" /></a> 
 											<h3>Configurateur DRM Oracle </h3>
 											<p>Afin de paramétré des DRM pour les techniciens j'ai creer un installateur en powershell</p>
 											<ul class="actions">
@@ -206,9 +207,9 @@
 										<article>
 											<a href="#" class="image"><img src="images/pic05.jpg" alt="" /></a>
 											<h3>Site web assistante maternelle</h3>
-											<p>Ma mère ayant besoin d'une plateforme pour communiquer avec les parents des enfants qu'elle garde j'ai donc creer un site à cet effet</p>
+											<p>Ma mère ayant besoin d'une plateforme pour communiquer avec les parents des enfants qu'elle garde je suis en cours de creation d'un site à cet effet</p>
 											<ul class="actions">
-											<li><a href="" class="button"> En savoir plus...</a> 
+									
 											</ul>
 										</article>
 										<!-- <article>
