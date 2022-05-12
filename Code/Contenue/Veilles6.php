@@ -74,8 +74,8 @@
 													<span id="btnClosev1" class="btnClose">&times;</span> <!-- Bouton Fermer Veille -->
 														<marquee width="100%" scrollamount="8" scrolldelay="0" ><h2> Organisation Veille CYBERSECURITE</h2></marquee direction="right">
 </h2>
-													<a href="https://www.pearltrees.com/doloreshh/cybersecurite/id47172871">Perltrees</a>
-													<br>
+													<!-- <a href="https://www.pearltrees.com/doloreshh/cybersecurite/id47172871">Perltrees</a>
+													<br> -->
 													<a href="https://discord.com/channels/911530029425520670/911545243541839883">Discord</a>
 													<br>
 													<a href="https://mail.google.com/mail/u/3/#label/Cybers%C3%A9curit%C3%A9">Mail dédié</a>
@@ -123,7 +123,7 @@
 														<span id="btnClosev2" class="btnClose">&times;</span>
 														<marquee width="100%" scrollamount="8" scrolldelay="0" ><h2> Organisation Veille INTERFACE CERVEAU MACHINE</h2></marquee direction="right">
 </h2>
-													<a href="https://www.pearltrees.com/julesthouvenin/interface-cerveau-machine/id47173299">Perltrees</a>
+													<a href="https://www.pearltrees.com/doloreshh/interface-cerveau-machine/id52902653">Perltrees</a>
 													<br>
 													<a href="https://www.youtube.com/playlist?list=PLs3FH7Qv_ogwe-xnqCYWCSWyuxUn7qiHr">Playlist Youtube</a>
 													<br>
@@ -155,15 +155,15 @@
 										</article>
 
 										<!-- Veille 3 -->
-										<article>
+										<!-- <article> -->
 
 											<!-- Affichage de base Veille 3 -->
-											<a class="image" id="veille3"><img src="images/adveille.jpg" alt="" /></a>
+											<!-- <a class="image" id="veille3"><img src="images/adveille.jpg" alt="" /></a>
 											<h3>Bancaire dans l'informatique</h3>
-											<p>[[Organisation ↑]]</p>
+											<p>[[Organisation ↑]]</p> -->
 
 											<!-- Contenu Popup Veille 3 -->
-											<div id="overlayv3" class="overlay">
+											<!-- <div id="overlayv3" class="overlay">
 												<div id="popupv3" class="popup">
 													<h2>
 												
@@ -178,10 +178,10 @@
 													<a href="https://podcasts.google.com/queue">Podcast quotidien</a>
 													
 												</div>
-											</div>
+											</div> -->
 
 											<!-- Script Veille 3 -->
-											<script>
+											<!-- <script>
 												var veille3 = document.getElementById('veille3');
 												var overlayv3 = document.getElementById('overlayv3');
 												veille3.addEventListener('click',openMoadl);
@@ -194,20 +194,20 @@
 													overlayv3.style.display='none';
 												}
 											</script>
-										</article>
+										</article> -->
 
 										
 
 												<!-- Veille 4 -->
-												<article>
+												<!-- <article> -->
 
 											<!-- Affichage de base Veille 4 -->
-											<a class="image" id="veille4"><img src="images/IAS.jpg" alt="" /></a>
+											<!-- <a class="image" id="veille4"><img src="images/IAS.jpg" alt="" /></a>
 											<h3>L'intelligence Artificiel au service de la santé</h3>
-											<p>[Organisation ↑]</p>
+											<p>[Organisation ↑]</p> -->
 
 											<!-- Contenu Popup Veille 4 -->
-											<div id="overlayv4" class="overlay">
+											<!-- <div id="overlayv4" class="overlay">
 												<div id="popupv4" class="popup">
 													<h2>
 													<span id="btnClosev4" class="btnClose">&times;</span>
@@ -222,10 +222,10 @@
 													<a href="https://podcasts.google.com/queue">Podcast quotidien</a>
 												
 												</div>
-											</div>
+											</div> -->
 
 											<!-- Script Veille 4 -->
-											<script>
+											<!-- <script>
 												var veille4 = document.getElementById('veille4');
 												var overlayv4 = document.getElementById('overlayv4');
 												veille4.addEventListener('click',openMoadl);
@@ -236,7 +236,7 @@
 												btnClosev4.addEventListener('click',closeModal);
 												function closeModal() {
 													overlayv4.style.display='none';
-												}
+												} -->
 											</script>
 											</article>
 

@@ -45,6 +45,9 @@
 												<!-- Bouton telecharger mon CV -->								
 												<div align="right"style=":510px;">	<a href="images/cv.jpg"
   												download="cv.jpg" class="button icon solid fas fas fa-download">Télécharger CV</a>
+												  <a href="images/LM.jpg"
+  												download="LM.jpg" class="button icon solid fas fas fa-download">Télécharger Lettre de motivation </a>
+	
 												</div>
 
 						</div>

@@ -80,7 +80,7 @@
 										<article>
 											<a href="PDF/Banquepdf.php" class="image"><img src="images/banque.png" alt="" /></a>
 											<h3>Banque</h3>
-											<p>Creation d'une interface en C# de compte en banque</p>
+											<p>Création d'une interface en C# de compte en banque</p>
 											<ul class="actions">
 											<li><a href="images/Gestion.mp4" class="button"> Vidéo <a> 
 											</ul>
@@ -172,7 +172,7 @@
 										<article>
 											<a href="PDF/Statsoftpdf.php" class="image"><img src="images/Statsoft.jpg" alt="" /></a>
 											<h3>Statsofts</h3>
-											<p>Creation application de statistique en Powershell → Pour les Clients</p>
+											<p>Modification application de statistique en Powershell → Pour les Clients</p>
 											<ul class="actions">
 											<!-- <li><a href="images/Configurateur.webm" class="button">Vidéo</a>  -->
 											</ul>
